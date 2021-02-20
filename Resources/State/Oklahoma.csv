@@ -1,0 +1,51 @@
+,,,All Organs,Kidney,Liver,Pancreas,Kidney / Pancreas,Heart,Lung
+All Centers,All Types,,622,474,104,1,16,24,13
+,Liver Status 7 (Inactive),,10,0,10,0,0,0,0
+,Liver MELD / PELD <15,,56,0,56,0,0,0,0
+,Liver MELD / PELD 15-19,,26,0,26,0,0,0,0
+,Liver MELD / PELD 20-24,,7,0,7,0,0,0,0
+,Liver MELD / PELD 25-29,,1,0,1,0,0,0,0
+,Liver MELD / PELD 30-34,,2,0,2,0,0,0,0
+,Liver MELD / PELD 35+,,2,0,2,0,0,0,0
+,Heart Status 7 (Inactive),,2,0,0,0,0,2,0
+,Adult Status 3,,1,0,0,0,0,1,0
+,Adult Status 4,,14,0,0,0,0,14,0
+,Adult Status 6,,7,0,0,0,0,7,0
+,Lung/Heart-Lung: Lung Allocation Score 20 to < 30,,1,0,0,0,0,0,1
+,Lung/Heart-Lung: Lung Allocation Score 35 to < 40,,4,0,0,0,0,0,4
+,Lung/Heart-Lung: Lung Allocation Score 40 to 50,,4,0,0,0,0,0,4
+,Lung/Heart-Lung: Lung Allocation Score >=50,,2,0,0,0,0,0,2
+,Lung/Heart-Lung: Inactive,,2,0,0,0,0,0,2
+,Kidney/Pancreas/Kidney-Pancreas: Active,,331,322,0,0,10,0,0
+,Kidney/Panc/Kidney-Panc: Active-Medically urgent,,1,1,0,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,159,153,0,1,6,0,0
+OKBC-TX1 Integris Baptist Medical Center,All Types,,378,252,89,0,6,24,13
+,Liver Status 7 (Inactive),,4,0,4,0,0,0,0
+,Liver MELD / PELD <15,,50,0,50,0,0,0,0
+,Liver MELD / PELD 15-19,,23,0,23,0,0,0,0
+,Liver MELD / PELD 20-24,,7,0,7,0,0,0,0
+,Liver MELD / PELD 25-29,,1,0,1,0,0,0,0
+,Liver MELD / PELD 30-34,,2,0,2,0,0,0,0
+,Liver MELD / PELD 35+,,2,0,2,0,0,0,0
+,Heart Status 7 (Inactive),,2,0,0,0,0,2,0
+,Adult Status 3,,1,0,0,0,0,1,0
+,Adult Status 4,,14,0,0,0,0,14,0
+,Adult Status 6,,7,0,0,0,0,7,0
+,Lung/Heart-Lung: Lung Allocation Score 20 to < 30,,1,0,0,0,0,0,1
+,Lung/Heart-Lung: Lung Allocation Score 35 to < 40,,4,0,0,0,0,0,4
+,Lung/Heart-Lung: Lung Allocation Score 40 to 50,,4,0,0,0,0,0,4
+,Lung/Heart-Lung: Lung Allocation Score >=50,,2,0,0,0,0,0,2
+,Lung/Heart-Lung: Inactive,,2,0,0,0,0,0,2
+,Kidney/Pancreas/Kidney-Pancreas: Active,,185,179,0,0,6,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,73,73,0,0,0,0,0
+OKMD-TX1 OU Medical Center,All Types,,119,96,15,1,10,0,0
+,Liver Status 7 (Inactive),,6,0,6,0,0,0,0
+,Liver MELD / PELD <15,,6,0,6,0,0,0,0
+,
+,Liver MELD / PELD 15-19,,3,0,3,0,0,0,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,66,62,0,0,4,0,0
+,Kidney/Panc/Kidney-Panc: Active-Medically urgent,,1,1,0,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,39,33,0,1,6,0,0
+OKSJ-TX1 St John Medical Center,All Types,,131,131,0,0,0,0,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,82,82,0,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,49,49,0,0,0,0,0

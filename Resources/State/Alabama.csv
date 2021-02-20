@@ -1,0 +1,47 @@
+,,,All Organs,Kidney,Liver,Pancreas,Kidney / Pancreas,Heart,Lung
+All Centers,All Types,,"1,227","1,099",104,5,9,21,8
+,Liver Status 7 (Inactive),,41,0,41,0,0,0,0
+,Liver MELD / PELD <15,,22,0,22,0,0,0,0
+,Liver MELD / PELD 15-19,,20,0,20,0,0,0,0
+,Liver MELD / PELD 20-24,,20,0,20,0,0,0,0
+,Liver MELD / PELD 25-29,,1,0,1,0,0,0,0
+,Heart Status 1B,,2,0,0,0,0,2,0
+,Heart Status 2,,2,0,0,0,0,2,0
+,Heart Status 7 (Inactive),,7,0,0,0,0,7,0
+,Adult Status 3,,1,0,0,0,0,1,0
+,Adult Status 4,,8,0,0,0,0,8,0
+,Adult Status 6,,1,0,0,0,0,1,0
+,Lung/Heart-Lung: Lung Allocation Score 35 to < 40,,2,0,0,0,0,0,2
+,Lung/Heart-Lung: Lung Allocation Score 40 to 50,,2,0,0,0,0,0,2
+,Lung/Heart-Lung: Lung Allocation Score >=50,,1,0,0,0,0,0,1
+,Lung/Heart-Lung: Inactive,,3,0,0,0,0,0,3
+,Kidney/Pancreas/Kidney-Pancreas: Active,,664,658,0,1,7,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,446,441,0,4,2,0,0
+ALCH-TX1 Children's of Alabama,All Types,,22,15,2,0,0,6,0
+,Liver MELD / PELD <15,,1,0,1,0,0,0,0
+,Liver MELD / PELD 20-24,,1,0,1,0,0,0,0
+,Heart Status 1B,,2,0,0,0,0,2,0
+,Heart Status 2,,2,0,0,0,0,2,0
+,Heart Status 7 (Inactive),,2,0,0,0,0,2,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,5,5,0,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,10,10,0,0,0,0,0
+ALUA-TX1 University of Alabama Hospital,All Types,,"1,152","1,031",102,5,9,15,8
+,Liver Status 7 (Inactive),,41,0,41,0,0,0,0
+,Liver MELD / PELD <15,,21,0,21,0,0,0,0
+,Liver MELD / PELD 15-19,,20,0,20,0,0,0,0
+,Liver MELD / PELD 20-24,,19,0,19,0,0,0,0
+,Liver MELD / PELD 25-29,,1,0,1,0,0,0,0
+,Heart Status 7 (Inactive),,5,0,0,0,0,5,0
+,Adult Status 3,,1,0,0,0,0,1,0
+,Adult Status 4,,8,0,0,0,0,8,0
+,Adult Status 6,,1,0,0,0,0,1,0
+,Lung/Heart-Lung: Lung Allocation Score 35 to < 40,,2,0,0,0,0,0,2
+,Lung/Heart-Lung: Lung Allocation Score 40 to 50,,2,0,0,0,0,0,2
+,Lung/Heart-Lung: Lung Allocation Score >=50,,1,0,0,0,0,0,1
+,Lung/Heart-Lung: Inactive,,3,0,0,0,0,0,3
+,Kidney/Pancreas/Kidney-Pancreas: Active,,623,617,0,1,7,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,419,414,0,4,2,0,0
+,
+ALVA-TX1 Birmingham VA Medical Center,All Types,,55,55,0,0,0,0,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,37,37,0,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,18,18,0,0,0,0,0

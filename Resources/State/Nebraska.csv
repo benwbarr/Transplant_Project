@@ -1,0 +1,46 @@
+,,,All Organs,Kidney,Liver,Pancreas,Kidney / Pancreas,Heart,Lung,Intestine
+All Centers,All Types,,308,182,92,11,1,37,1,17
+,Liver Status 7 (Inactive),,30,0,30,0,0,0,0,0
+,Liver MELD / PELD <15,,36,0,36,0,0,0,0,0
+,Liver MELD / PELD 15-19,,15,0,15,0,0,0,0,0
+,Liver MELD / PELD 20-24,,7,0,7,0,0,0,0,0
+,Liver MELD / PELD 25-29,,1,0,1,0,0,0,0,0
+,Liver MELD / PELD 30-34,,2,0,2,0,0,0,0,0
+,Liver MELD / PELD 35+,,1,0,1,0,0,0,0,0
+,Heart Status 1A,,1,0,0,0,0,1,0,0
+,Heart Status 2,,1,0,0,0,0,1,0,0
+,Heart Status 7 (Inactive),,11,0,0,0,0,11,0,0
+,Adult Status 2,,1,0,0,0,0,1,0,0
+,Adult Status 4,,20,0,0,0,0,20,0,0
+,Adult Status 5,,1,0,0,0,0,1,0,0
+,Adult Status 6,,2,0,0,0,0,2,0,0
+,Lung/Heart-Lung: Inactive,,1,0,0,0,0,0,1,0
+,Intestine Status 1,,4,0,0,0,0,0,0,4
+,Intestine Non-urgent,,6,0,0,0,0,0,0,6
+,Intestine Temporarily inactive,,7,0,0,0,0,0,0,7
+,Kidney/Pancreas/Kidney-Pancreas: Active,,87,81,0,6,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,106,101,0,5,1,0,0,0
+NECH-TX1 Children's Hospital & Medical Center,All Types,,4,0,0,0,0,4,0,0
+,Heart Status 1A,,1,0,0,0,0,1,0,0
+,Heart Status 2,,1,0,0,0,0,1,0,0
+,Heart Status 7 (Inactive),,2,0,0,0,0,2,0,0
+NEUN-TX1 The Nebraska Medical Center,All Types,,304,182,92,11,1,33,1,17
+,Liver Status 7 (Inactive),,30,0,30,0,0,0,0,0
+,Liver MELD / PELD <15,,36,0,36,0,0,0,0,0
+,Liver MELD / PELD 15-19,,15,0,15,0,0,0,0,0
+,Liver MELD / PELD 20-24,,7,0,7,0,0,0,0,0
+,Liver MELD / PELD 25-29,,1,0,1,0,0,0,0,0
+,Liver MELD / PELD 30-34,,2,0,2,0,0,0,0,0
+,Liver MELD / PELD 35+,,1,0,1,0,0,0,0,0
+,Heart Status 7 (Inactive),,9,0,0,0,0,9,0,0
+,Adult Status 2,,1,0,0,0,0,1,0,0
+,Adult Status 4,,20,0,0,0,0,20,0,0
+,Adult Status 5,,1,0,0,0,0,1,0,0
+,Adult Status 6,,2,0,0,0,0,2,0,0
+,Lung/Heart-Lung: Inactive,,1,0,0,0,0,0,1,0
+,Intestine Status 1,,4,0,0,0,0,0,0,4
+,Intestine Non-urgent,,6,0,0,0,0,0,0,6
+,Intestine Temporarily inactive,,7,0,0,0,0,0,0,7
+,
+,Kidney/Pancreas/Kidney-Pancreas: Active,,87,81,0,6,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,106,101,0,5,1,0,0,0

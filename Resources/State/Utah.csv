@@ -1,0 +1,55 @@
+,,,All Organs,Kidney,Liver,Pancreas,Kidney / Pancreas,Heart,Lung
+All Centers,All Types,,790,556,168,2,11,59,2
+,Liver Status 7 (Inactive),,24,0,24,0,0,0,0
+,Liver MELD / PELD <15,,84,0,84,0,0,0,0
+,Liver MELD / PELD 15-19,,36,0,36,0,0,0,0
+,Liver MELD / PELD 20-24,,21,0,21,0,0,0,0
+,Liver MELD / PELD 25-29,,2,0,2,0,0,0,0
+,Liver MELD / PELD 35+,,1,0,1,0,0,0,0
+,Heart Status 1A,,1,0,0,0,0,1,0
+,Heart Status 1B,,4,0,0,0,0,4,0
+,Heart Status 7 (Inactive),,17,0,0,0,0,17,0
+,Adult Status 2,,1,0,0,0,0,1,0
+,Adult Status 3,,2,0,0,0,0,2,0
+,Adult Status 4,,27,0,0,0,0,27,0
+,Adult Status 6,,7,0,0,0,0,7,0
+,Lung/Heart-Lung: Lung Allocation Score 35 to < 40,,1,0,0,0,0,0,1
+,Lung/Heart-Lung: Lung Allocation Score 40 to 50,,1,0,0,0,0,0,1
+,Kidney/Pancreas/Kidney-Pancreas: Active,,308,305,0,0,3,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,261,251,0,2,8,0,0
+UTLD-TX1 Intermountain Medical Center,All Types,,425,303,102,0,7,18,0
+,Liver Status 7 (Inactive),,11,0,11,0,0,0,0
+,Liver MELD / PELD <15,,52,0,52,0,0,0,0
+,Liver MELD / PELD 15-19,,25,0,25,0,0,0,0
+,Liver MELD / PELD 20-24,,13,0,13,0,0,0,0
+,Liver MELD / PELD 25-29,,1,0,1,0,0,0,0
+,Heart Status 7 (Inactive),,1,0,0,0,0,1,0
+,Adult Status 3,,1,0,0,0,0,1,0
+,Adult Status 4,,15,0,0,0,0,15,0
+,Adult Status 6,,1,0,0,0,0,1,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,177,175,0,0,2,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,133,128,0,0,5,0,0
+UTMC-TX1 University of Utah Medical Center,All Types,,334,238,59,2,4,32,2
+,Liver Status 7 (Inactive),,6,0,6,0,0,0,0
+,Liver MELD / PELD <15,,32,0,32,0,0,0,0
+,Liver MELD / PELD 15-19,,11,0,11,0,0,0,0
+,Liver MELD / PELD 20-24,,8,0,8,0,0,0,0
+,Liver MELD / PELD 25-29,,1,0,1,0,0,0,0
+,Liver MELD / PELD 35+,,1,0,1,0,0,0,0
+,Heart Status 7 (Inactive),,12,0,0,0,0,12,0
+,Adult Status 2,,1,0,0,0,0,1,0
+,Adult Status 3,,1,0,0,0,0,1,0
+,Adult Status 4,,12,0,0,0,0,12,0
+,Adult Status 6,,6,0,0,0,0,6,0
+,
+,Lung/Heart-Lung: Lung Allocation Score 35 to < 40,,1,0,0,0,0,0,1
+,Lung/Heart-Lung: Lung Allocation Score 40 to 50,,1,0,0,0,0,0,1
+,Kidney/Pancreas/Kidney-Pancreas: Active,,123,122,0,0,1,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,121,116,0,2,3,0,0
+UTPC-TX1 Primary Children's Hospital,All Types,,31,15,7,0,0,9,0
+,Liver Status 7 (Inactive),,7,0,7,0,0,0,0
+,Heart Status 1A,,1,0,0,0,0,1,0
+,Heart Status 1B,,4,0,0,0,0,4,0
+,Heart Status 7 (Inactive),,4,0,0,0,0,4,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,8,8,0,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,7,7,0,0,0,0,0

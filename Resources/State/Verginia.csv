@@ -1,0 +1,96 @@
+,,,All Organs,Kidney,Liver,Pancreas,Kidney / Pancreas,Heart,Lung,Heart / Lung
+All Centers,All Types,,"2,479","2,131",153,32,47,152,25,1
+,Liver Status 1B,,2,0,2,0,0,0,0,0
+,Liver Status 7 (Inactive),,17,0,17,0,0,0,0,0
+,Liver MELD / PELD <15,,65,0,65,0,0,0,0,0
+,Liver MELD / PELD 15-19,,40,0,40,0,0,0,0,0
+,Liver MELD / PELD 20-24,,19,0,19,0,0,0,0,0
+,Liver MELD / PELD 25-29,,7,0,7,0,0,0,0,0
+,Liver MELD / PELD 30-34,,2,0,2,0,0,0,0,0
+,Liver MELD / PELD 35+,,1,0,1,0,0,0,0,0
+,Heart Status 1A,,1,0,0,0,0,1,0,0
+,Heart Status 2,,4,0,0,0,0,4,0,0
+,Heart Status 7 (Inactive),,45,0,0,0,0,45,0,0
+,Adult Status 1,,2,0,0,0,0,2,0,0
+,Adult Status 2,,4,0,0,0,0,4,0,0
+,Adult Status 3,,4,0,0,0,0,4,0,0
+,Adult Status 4,,63,0,0,0,0,63,0,0
+,Adult Status 5,,8,0,0,0,0,8,0,0
+,Adult Status 6,,22,0,0,0,0,22,0,0
+,Lung/Heart-Lung: Lung Allocation Score 30 to < 35,,5,0,0,0,0,0,5,0
+,Lung/Heart-Lung: Lung Allocation Score 35 to < 40,,7,0,0,0,0,0,7,0
+,Lung/Heart-Lung: Lung Allocation Score 40 to 50,,4,0,0,0,0,0,4,1
+,Lung/Heart-Lung: Lung Allocation Score >=50,,2,0,0,0,0,0,2,0
+,Lung/Heart-Lung: Inactive,,7,0,0,0,0,0,7,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,"1,153","1,137",0,4,23,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,"1,046","1,012",0,28,24,0,0,0
+VACH-TX1 Children's Hospital of the King's Daughters,All Types,,8,8,0,0,0,0,0,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,7,7,0,0,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,1,1,0,0,0,0,0,0
+VAFH-TX1 Inova Fairfax Hospital,All Types,,483,428,0,3,2,42,16,1
+,Heart Status 7 (Inactive),,4,0,0,0,0,4,0,0
+,Adult Status 1,,2,0,0,0,0,2,0,0
+,Adult Status 2,,2,0,0,0,0,2,0,0
+,Adult Status 3,,1,0,0,0,0,1,0,0
+,Adult Status 4,,18,0,0,0,0,18,0,0
+,Adult Status 5,,2,0,0,0,0,2,0,0
+,Adult Status 6,,13,0,0,0,0,13,0,0
+,Lung/Heart-Lung: Lung Allocation Score 30 to < 35,,4,0,0,0,0,0,4,0
+,Lung/Heart-Lung: Lung Allocation Score 35 to < 40,,4,0,0,0,0,0,4,0
+,Lung/Heart-Lung: Lung Allocation Score 40 to 50,,3,0,0,0,0,0,3,1
+,Lung/Heart-Lung: Lung Allocation Score >=50,,1,0,0,0,0,0,1,0
+,Lung/Heart-Lung: Inactive,,4,0,0,0,0,0,4,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,279,279,0,0,1,0,0,0
+,
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,151,149,0,3,1,0,0,0
+VAHD-TX1 Henrico Doctors' Hospital,All Types,,170,170,0,0,0,0,0,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,99,99,0,0,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,71,71,0,0,0,0,0,0
+"VAMC-TX1 VCU Health System Authority, VCUMC",All Types,,730,600,90,5,18,35,0,0
+,Liver Status 7 (Inactive),,5,0,5,0,0,0,0,0
+,Liver MELD / PELD <15,,45,0,45,0,0,0,0,0
+,Liver MELD / PELD 15-19,,26,0,26,0,0,0,0,0
+,Liver MELD / PELD 20-24,,7,0,7,0,0,0,0,0
+,Liver MELD / PELD 25-29,,5,0,5,0,0,0,0,0
+,Liver MELD / PELD 30-34,,1,0,1,0,0,0,0,0
+,Liver MELD / PELD 35+,,1,0,1,0,0,0,0,0
+,Heart Status 7 (Inactive),,7,0,0,0,0,7,0,0
+,Adult Status 2,,2,0,0,0,0,2,0,0
+,Adult Status 4,,20,0,0,0,0,20,0,0
+,Adult Status 5,,4,0,0,0,0,4,0,0
+,Adult Status 6,,2,0,0,0,0,2,0,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,342,333,0,0,12,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,276,267,0,5,6,0,0,0
+VAMV-TX1 Hunter Holmes McGuire Veterans Administration Medical Center,All Types,,9,0,0,0,0,9,0,0
+,Heart Status 7 (Inactive),,4,0,0,0,0,4,0,0
+,Adult Status 4,,4,0,0,0,0,4,0,0
+,Adult Status 6,,1,0,0,0,0,1,0,0
+VANG-TX1 Sentara Norfolk General Hospital,All Types,,456,424,0,3,4,31,0,0
+,Heart Status 7 (Inactive),,18,0,0,0,0,18,0,0
+,Adult Status 3,,1,0,0,0,0,1,0,0
+,Adult Status 4,,10,0,0,0,0,10,0,0
+,Adult Status 5,,2,0,0,0,0,2,0,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,269,269,0,0,1,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,158,155,0,3,3,0,0,0
+VAUV-TX1 University of Virginia Health Sciences Center,All Types,,684,560,63,21,23,37,9,0
+,Liver Status 1B,,2,0,2,0,0,0,0,0
+,Liver Status 7 (Inactive),,12,0,12,0,0,0,0,0
+,Liver MELD / PELD <15,,20,0,20,0,0,0,0,0
+,Liver MELD / PELD 15-19,,14,0,14,0,0,0,0,0
+,Liver MELD / PELD 20-24,,12,0,12,0,0,0,0,0
+,Liver MELD / PELD 25-29,,2,0,2,0,0,0,0,0
+,Liver MELD / PELD 30-34,,1,0,1,0,0,0,0,0
+,Heart Status 1A,,1,0,0,0,0,1,0,0
+,Heart Status 2,,4,0,0,0,0,4,0,0
+,Heart Status 7 (Inactive),,12,0,0,0,0,12,0,0
+,
+,Adult Status 3,,3,0,0,0,0,3,0,0
+,Adult Status 4,,11,0,0,0,0,11,0,0
+,Adult Status 6,,6,0,0,0,0,6,0,0
+,Lung/Heart-Lung: Lung Allocation Score 30 to < 35,,1,0,0,0,0,0,1,0
+,Lung/Heart-Lung: Lung Allocation Score 35 to < 40,,3,0,0,0,0,0,3,0
+,Lung/Heart-Lung: Lung Allocation Score 40 to 50,,1,0,0,0,0,0,1,0
+,Lung/Heart-Lung: Lung Allocation Score >=50,,1,0,0,0,0,0,1,0
+,Lung/Heart-Lung: Inactive,,3,0,0,0,0,0,3,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,188,181,0,4,9,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,399,379,0,17,14,0,0,0

@@ -1,0 +1,61 @@
+,,,All Organs,Kidney,Liver,Pancreas,Kidney / Pancreas,Heart,Lung
+All Centers,All Types,,"1,951","1,735",134,3,32,58,3
+,Liver Status 7 (Inactive),,35,0,35,0,0,0,0
+,Liver MELD / PELD <15,,58,0,58,0,0,0,0
+,Liver MELD / PELD 15-19,,24,0,24,0,0,0,0
+,Liver MELD / PELD 20-24,,13,0,13,0,0,0,0
+,Liver MELD / PELD 25-29,,2,0,2,0,0,0,0
+,Liver MELD / PELD 30-34,,1,0,1,0,0,0,0
+,Liver MELD / PELD 35+,,1,0,1,0,0,0,0
+,Heart Status 1B,,1,0,0,0,0,1,0
+,Heart Status 2,,1,0,0,0,0,1,0
+,Heart Status 7 (Inactive),,10,0,0,0,0,10,0
+,Adult Status 2,,1,0,0,0,0,1,0
+,Adult Status 3,,3,0,0,0,0,3,0
+,Adult Status 4,,31,0,0,0,0,31,0
+,Adult Status 6,,11,0,0,0,0,11,0
+,Lung/Heart-Lung: Lung Allocation Score 30 to < 35,,1,0,0,0,0,0,1
+,Lung/Heart-Lung: Lung Allocation Score 40 to 50,,1,0,0,0,0,0,1
+,Lung/Heart-Lung: Inactive,,1,0,0,0,0,0,1
+,Kidney/Pancreas/Kidney-Pancreas: Active,,"1,208","1,191",0,2,16,0,0
+,Kidney/Panc/Kidney-Panc: Active-Medically urgent,,1,1,0,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,559,543,0,1,16,0,0
+LACH-TX1 Children's Hospital,All Types,,13,13,0,0,0,0,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,6,6,0,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,7,7,0,0,0,0,0
+LAOF-TX1 Ochsner Foundation Hospital,All Types,,906,770,70,0,12,58,3
+,Liver Status 7 (Inactive),,21,0,21,0,0,0,0
+,Liver MELD / PELD <15,,28,0,28,0,0,0,0
+,Liver MELD / PELD 15-19,,15,0,15,0,0,0,0
+,Liver MELD / PELD 20-24,,4,0,4,0,0,0,0
+,Liver MELD / PELD 30-34,,1,0,1,0,0,0,0
+,Liver MELD / PELD 35+,,1,0,1,0,0,0,0
+,Heart Status 1B,,1,0,0,0,0,1,0
+,Heart Status 2,,1,0,0,0,0,1,0
+,Heart Status 7 (Inactive),,10,0,0,0,0,10,0
+,Adult Status 2,,1,0,0,0,0,1,0
+,Adult Status 3,,3,0,0,0,0,3,0
+,Adult Status 4,,31,0,0,0,0,31,0
+,Adult Status 6,,11,0,0,0,0,11,0
+,Lung/Heart-Lung: Lung Allocation Score 30 to < 35,,1,0,0,0,0,0,1
+,Lung/Heart-Lung: Lung Allocation Score 40 to 50,,1,0,0,0,0,0,1
+,Lung/Heart-Lung: Inactive,,1,0,0,0,0,0,1
+,Kidney/Pancreas/Kidney-Pancreas: Active,,535,529,0,0,7,0,0
+,
+,Kidney/Panc/Kidney-Panc: Active-Medically urgent,,1,1,0,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,244,240,0,0,5,0,0
+LATU-TX1 Tulane Medical Center,All Types,,613,596,12,0,8,0,0
+,Liver Status 7 (Inactive),,2,0,2,0,0,0,0
+,Liver MELD / PELD <15,,4,0,4,0,0,0,0
+,Liver MELD / PELD 15-19,,2,0,2,0,0,0,0
+,Liver MELD / PELD 20-24,,4,0,4,0,0,0,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,420,415,0,0,5,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,184,181,0,0,3,0,0
+LAWK-TX1 Willis-Knighton Medical Center,All Types,,420,357,52,3,12,0,0
+,Liver Status 7 (Inactive),,12,0,12,0,0,0,0
+,Liver MELD / PELD <15,,26,0,26,0,0,0,0
+,Liver MELD / PELD 15-19,,7,0,7,0,0,0,0
+,Liver MELD / PELD 20-24,,5,0,5,0,0,0,0
+,Liver MELD / PELD 25-29,,2,0,2,0,0,0,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,248,242,0,2,4,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,124,115,0,1,8,0,0

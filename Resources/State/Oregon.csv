@@ -1,0 +1,42 @@
+,,,All Organs,Kidney,Liver,Pancreas,Kidney / Pancreas,Heart
+All Centers,All Types,,862,744,100,2,12,8
+,Liver Status 7 (Inactive),,13,0,13,0,0,0
+,Liver MELD / PELD <15,,42,0,42,0,0,0
+,Liver MELD / PELD 15-19,,21,0,21,0,0,0
+,Liver MELD / PELD 20-24,,9,0,9,0,0,0
+,Liver MELD / PELD 25-29,,14,0,14,0,0,0
+,Liver MELD / PELD 30-34,,1,0,1,0,0,0
+,Heart Status 7 (Inactive),,1,0,0,0,0,1
+,Adult Status 2,,1,0,0,0,0,1
+,Adult Status 3,,1,0,0,0,0,1
+,Adult Status 4,,3,0,0,0,0,3
+,Adult Status 6,,2,0,0,0,0,2
+,Kidney/Pancreas/Kidney-Pancreas: Active,,435,430,0,0,6,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,322,314,0,2,6,0
+ORGS-TX1 Legacy Good Samaritan Hospital and Medical Center,All Types,,276,276,0,0,0,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,201,201,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,75,75,0,0,0,0
+ORSV-TX1 Providence St. Vincent Medical Center,All Types,,4,0,0,0,0,4
+,Adult Status 2,,1,0,0,0,0,1
+,Adult Status 4,,1,0,0,0,0,1
+,Adult Status 6,,2,0,0,0,0,2
+ORUO-TX1 Oregon Health and Science University,All Types,,396,312,70,2,12,4
+,Liver Status 7 (Inactive),,10,0,10,0,0,0
+,Liver MELD / PELD <15,,30,0,30,0,0,0
+,Liver MELD / PELD 15-19,,12,0,12,0,0,0
+,Liver MELD / PELD 20-24,,8,0,8,0,0,0
+,Liver MELD / PELD 25-29,,9,0,9,0,0,0
+,Liver MELD / PELD 30-34,,1,0,1,0,0,0
+,Heart Status 7 (Inactive),,1,0,0,0,0,1
+,Adult Status 3,,1,0,0,0,0,1
+,Adult Status 4,,2,0,0,0,0,2
+,Kidney/Pancreas/Kidney-Pancreas: Active,,169,164,0,0,6,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,156,148,0,2,6,0
+ORVA-TX1 VA Portland Health Care System,All Types,,186,156,30,0,0,0
+,Liver Status 7 (Inactive),,3,0,3,0,0,0
+,Liver MELD / PELD <15,,12,0,12,0,0,0
+,Liver MELD / PELD 15-19,,9,0,9,0,0,0
+,Liver MELD / PELD 20-24,,1,0,1,0,0,0
+,Liver MELD / PELD 25-29,,5,0,5,0,0,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,65,65,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,91,91,0,0,0,0

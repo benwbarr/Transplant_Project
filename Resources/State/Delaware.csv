@@ -1,0 +1,20 @@
+,,,All Organs,Kidney,Liver,Heart
+All Centers,All Types,,182,177,5,1
+,Liver Status 1B,,1,0,1,0
+,Liver Status 7 (Inactive),,2,0,2,0
+,Liver MELD / PELD 30-34,,1,0,1,0
+,Liver MELD / PELD 35+,,1,0,1,0
+,Heart Status 1A,,1,0,0,1
+,Kidney/Pancreas/Kidney-Pancreas: Active,,99,99,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,78,78,0,0
+DEAI-TX1 Alfred I duPont Hospital for Children,All Types,,17,12,5,1
+,Liver Status 1B,,1,0,1,0
+,Liver Status 7 (Inactive),,2,0,2,0
+,Liver MELD / PELD 30-34,,1,0,1,0
+,Liver MELD / PELD 35+,,1,0,1,0
+,Heart Status 1A,,1,0,0,1
+,Kidney/Pancreas/Kidney-Pancreas: Active,,7,7,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,5,5,0,0
+DECC-TX1 Christiana Care Health Services,All Types,,165,165,0,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,92,92,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,73,73,0,0

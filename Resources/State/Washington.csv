@@ -1,0 +1,87 @@
+,,,All Organs,Kidney,Liver,Pancreas,Kidney / Pancreas,Heart,Lung,Intestine
+All Centers,All Types,,"1,808","1,463",191,5,50,73,29,12
+,Liver Status 7 (Inactive),,73,0,73,0,0,0,0,0
+,Liver MELD / PELD <15,,43,0,43,0,0,0,0,0
+,Liver MELD / PELD 15-19,,27,0,27,0,0,0,0,0
+,Liver MELD / PELD 20-24,,17,0,17,0,0,0,0,0
+,Liver MELD / PELD 25-29,,24,0,24,0,0,0,0,0
+,Liver MELD / PELD 30-34,,5,0,5,0,0,0,0,0
+,Liver MELD / PELD 35+,,4,0,4,0,0,0,0,0
+,Heart Status 1A,,1,0,0,0,0,1,0,0
+,Heart Status 1B,,5,0,0,0,0,5,0,0
+,Heart Status 2,,5,0,0,0,0,5,0,0
+,Heart Status 7 (Inactive),,24,0,0,0,0,24,0,0
+,Adult Status 1,,2,0,0,0,0,2,0,0
+,Adult Status 3,,1,0,0,0,0,1,0,0
+,Adult Status 4,,25,0,0,0,0,25,0,0
+,Adult Status 5,,1,0,0,0,0,1,0,0
+,Adult Status 6,,9,0,0,0,0,9,0,0
+,Lung/Heart-Lung: Lung Allocation Score 30 to < 35,,12,0,0,0,0,0,12,0
+,Lung/Heart-Lung: Lung Allocation Score 35 to < 40,,7,0,0,0,0,0,7,0
+,Lung/Heart-Lung: Lung Allocation Score 40 to 50,,4,0,0,0,0,0,4,0
+,Lung/Heart-Lung: Lung Allocation Score >=50,,1,0,0,0,0,0,1,0
+,Lung/Heart-Lung: Inactive,,5,0,0,0,0,0,5,0
+,Intestine Status 1,,5,0,0,0,0,0,0,5
+,Intestine Temporarily inactive,,7,0,0,0,0,0,0,7
+,Kidney/Pancreas/Kidney-Pancreas: Active,,642,614,0,2,28,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,876,852,0,3,22,0,0,0
+WACH-TX1 Seattle Children's Hospital,All Types,,90,51,18,0,0,13,0,10
+,Liver Status 7 (Inactive),,10,0,10,0,0,0,0,0
+,Liver MELD / PELD <15,,1,0,1,0,0,0,0,0
+,Liver MELD / PELD 15-19,,1,0,1,0,0,0,0,0
+,Liver MELD / PELD 25-29,,2,0,2,0,0,0,0,0
+,Liver MELD / PELD 30-34,,3,0,3,0,0,0,0,0
+,Liver MELD / PELD 35+,,1,0,1,0,0,0,0,0
+,Heart Status 1A,,1,0,0,0,0,1,0,0
+,Heart Status 1B,,5,0,0,0,0,5,0,0
+,Heart Status 2,,5,0,0,0,0,5,0,0
+,Heart Status 7 (Inactive),,1,0,0,0,0,1,0,0
+,Adult Status 4,,1,0,0,0,0,1,0,0
+,Intestine Status 1,,4,0,0,0,0,0,0,4
+,Intestine Temporarily inactive,,6,0,0,0,0,0,0,6
+,Kidney/Pancreas/Kidney-Pancreas: Active,,7,7,0,0,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,44,44,0,0,0,0,0,0
+,
+WASH-TX1 Providence Sacred Heart Medical Center & Children's Hospital,All Types,,238,212,0,0,3,24,0,0
+,Heart Status 7 (Inactive),,6,0,0,0,0,6,0,0
+,Adult Status 1,,1,0,0,0,0,1,0,0
+,Adult Status 4,,16,0,0,0,0,16,0,0
+,Adult Status 6,,1,0,0,0,0,1,0,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,85,83,0,0,2,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,130,129,0,0,1,0,0,0
+WASM-TX1 Swedish Medical Center,All Types,,511,451,47,3,15,0,0,0
+,Liver Status 7 (Inactive),,18,0,18,0,0,0,0,0
+,Liver MELD / PELD <15,,7,0,7,0,0,0,0,0
+,Liver MELD / PELD 15-19,,6,0,6,0,0,0,0,0
+,Liver MELD / PELD 20-24,,2,0,2,0,0,0,0,0
+,Liver MELD / PELD 25-29,,13,0,13,0,0,0,0,0
+,Liver MELD / PELD 35+,,1,0,1,0,0,0,0,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,197,190,0,2,6,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,270,261,0,1,9,0,0,0
+WAUW-TX1 University of Washington Medical Center,All Types,,691,481,129,0,22,36,29,2
+,Liver Status 7 (Inactive),,45,0,45,0,0,0,0,0
+,Liver MELD / PELD <15,,35,0,35,0,0,0,0,0
+,Liver MELD / PELD 15-19,,21,0,21,0,0,0,0,0
+,Liver MELD / PELD 20-24,,15,0,15,0,0,0,0,0
+,Liver MELD / PELD 25-29,,9,0,9,0,0,0,0,0
+,Liver MELD / PELD 30-34,,2,0,2,0,0,0,0,0
+,Liver MELD / PELD 35+,,2,0,2,0,0,0,0,0
+,Heart Status 7 (Inactive),,17,0,0,0,0,17,0,0
+,Adult Status 1,,1,0,0,0,0,1,0,0
+,Adult Status 3,,1,0,0,0,0,1,0,0
+,Adult Status 4,,8,0,0,0,0,8,0,0
+,Adult Status 5,,1,0,0,0,0,1,0,0
+,Adult Status 6,,8,0,0,0,0,8,0,0
+,Lung/Heart-Lung: Lung Allocation Score 30 to < 35,,12,0,0,0,0,0,12,0
+,Lung/Heart-Lung: Lung Allocation Score 35 to < 40,,7,0,0,0,0,0,7,0
+,Lung/Heart-Lung: Lung Allocation Score 40 to 50,,4,0,0,0,0,0,4,0
+,Lung/Heart-Lung: Lung Allocation Score >=50,,1,0,0,0,0,0,1,0
+,Lung/Heart-Lung: Inactive,,5,0,0,0,0,0,5,0
+,Intestine Status 1,,1,0,0,0,0,0,0,1
+,Intestine Temporarily inactive,,1,0,0,0,0,0,0,1
+,Kidney/Pancreas/Kidney-Pancreas: Active,,247,231,0,0,17,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,255,250,0,0,5,0,0,0
+WAVM-TX1 Virginia Mason Medical Center,All Types,,286,274,0,2,10,0,0,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,108,105,0,0,3,0,0,0
+,
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,178,169,0,2,7,0,0,0

@@ -1,0 +1,88 @@
+,,,All Organs,Kidney,Liver,Pancreas,Kidney / Pancreas,Heart,Lung
+All Centers,All Types,,"3,108","2,767",252,7,33,87,10
+,Liver Status 1A,,1,0,1,0,0,0,0
+,Liver Status 7 (Inactive),,46,0,46,0,0,0,0
+,Liver MELD / PELD <15,,76,0,76,0,0,0,0
+,Liver MELD / PELD 15-19,,63,0,63,0,0,0,0
+,Liver MELD / PELD 20-24,,59,0,59,0,0,0,0
+,Liver MELD / PELD 25-29,,5,0,5,0,0,0,0
+,Liver MELD / PELD 30-34,,1,0,1,0,0,0,0
+,Liver MELD / PELD 35+,,1,0,1,0,0,0,0
+,Heart Status 1A,,1,0,0,0,0,1,0
+,Heart Status 1B,,7,0,0,0,0,7,0
+,Heart Status 2,,2,0,0,0,0,2,0
+,Heart Status 7 (Inactive),,24,0,0,0,0,24,0
+,Adult Status 2,,4,0,0,0,0,4,0
+,Adult Status 3,,3,0,0,0,0,3,0
+,Adult Status 4,,25,0,0,0,0,25,0
+,Adult Status 5,,8,0,0,0,0,8,0
+,Adult Status 6,,13,0,0,0,0,13,0
+,Lung/Heart-Lung: Lung Allocation Score 30 to < 35,,6,0,0,0,0,0,6
+,Lung/Heart-Lung: Lung Allocation Score 35 to < 40,,1,0,0,0,0,0,1
+,Lung/Heart-Lung: Lung Allocation Score 40 to 50,,1,0,0,0,0,0,1
+,Lung/Heart-Lung: Lung Allocation Score >=50,,1,0,0,0,0,0,1
+,Lung/Heart-Lung: Inactive,,1,0,0,0,0,0,1
+,Kidney/Pancreas/Kidney-Pancreas: Active,,"1,952","1,926",0,3,24,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,869,860,0,4,9,0,0
+TNBM-TX1 Baptist Memorial Hospital,All Types,,22,0,0,0,0,22,0
+,Heart Status 7 (Inactive),,5,0,0,0,0,5,0
+,Adult Status 4,,11,0,0,0,0,11,0
+,Adult Status 6,,6,0,0,0,0,6,0
+TNEM-TX1 Erlanger Medical Center,All Types,,219,219,0,0,0,0,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,133,133,0,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,86,86,0,0,0,0,0
+TNLB-TX1 Le Bonheur Children's Medical Center,All Types,,10,2,4,0,0,4,0
+,Liver MELD / PELD <15,,3,0,3,0,0,0,0
+,Liver MELD / PELD 15-19,,1,0,1,0,0,0,0
+,Heart Status 1B,,1,0,0,0,0,1,0
+,Heart Status 2,,1,0,0,0,0,1,0
+,Heart Status 7 (Inactive),,2,0,0,0,0,2,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,1,1,0,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,1,1,0,0,0,0,0
+TNMH-TX1 Methodist University Hospital,All Types,,989,901,69,6,20,0,0
+,Liver Status 7 (Inactive),,2,0,2,0,0,0,0
+,
+,Liver MELD / PELD <15,,26,0,26,0,0,0,0
+,Liver MELD / PELD 15-19,,21,0,21,0,0,0,0
+,Liver MELD / PELD 20-24,,19,0,19,0,0,0,0
+,Liver MELD / PELD 30-34,,1,0,1,0,0,0,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,771,750,0,3,18,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,156,151,0,3,2,0,0
+TNPV-TX1 Centennial Medical Center,All Types,,31,31,0,0,0,0,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,17,17,0,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,14,14,0,0,0,0,0
+TNST-TX1 Saint Thomas Hospital,All Types,,168,162,0,0,0,6,0
+,Heart Status 7 (Inactive),,1,0,0,0,0,1,0
+,Adult Status 2,,1,0,0,0,0,1,0
+,Adult Status 4,,3,0,0,0,0,3,0
+,Adult Status 6,,1,0,0,0,0,1,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,126,126,0,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,36,36,0,0,0,0,0
+TNUK-TX1 University of Tennessee Medical Center at Knoxville,All Types,,244,244,0,0,0,0,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,101,101,0,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,143,143,0,0,0,0,0
+TNVU-TX1 Vanderbilt University Medical Center,All Types,,"1,522","1,303",179,1,14,55,10
+,Liver Status 1A,,1,0,1,0,0,0,0
+,Liver Status 7 (Inactive),,44,0,44,0,0,0,0
+,Liver MELD / PELD <15,,47,0,47,0,0,0,0
+,Liver MELD / PELD 15-19,,41,0,41,0,0,0,0
+,Liver MELD / PELD 20-24,,40,0,40,0,0,0,0
+,Liver MELD / PELD 25-29,,5,0,5,0,0,0,0
+,Liver MELD / PELD 35+,,1,0,1,0,0,0,0
+,Heart Status 1A,,1,0,0,0,0,1,0
+,Heart Status 1B,,6,0,0,0,0,6,0
+,Heart Status 2,,1,0,0,0,0,1,0
+,Heart Status 7 (Inactive),,16,0,0,0,0,16,0
+,Adult Status 2,,3,0,0,0,0,3,0
+,Adult Status 3,,3,0,0,0,0,3,0
+,Adult Status 4,,11,0,0,0,0,11,0
+,Adult Status 5,,8,0,0,0,0,8,0
+,Adult Status 6,,6,0,0,0,0,6,0
+,Lung/Heart-Lung: Lung Allocation Score 30 to < 35,,6,0,0,0,0,0,6
+,Lung/Heart-Lung: Lung Allocation Score 35 to < 40,,1,0,0,0,0,0,1
+,Lung/Heart-Lung: Lung Allocation Score 40 to 50,,1,0,0,0,0,0,1
+,Lung/Heart-Lung: Lung Allocation Score >=50,,1,0,0,0,0,0,1
+,Lung/Heart-Lung: Inactive,,1,0,0,0,0,0,1
+,
+,Kidney/Pancreas/Kidney-Pancreas: Active,,876,870,0,0,7,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,437,433,0,1,7,0,0

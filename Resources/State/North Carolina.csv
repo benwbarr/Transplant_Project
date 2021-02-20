@@ -1,0 +1,99 @@
+,,,All Organs,Kidney,Liver,Pancreas,Kidney / Pancreas,Heart,Lung,Heart / Lung,Intestine,Abdominal Wall,Upper Limb: Unilateral
+All Centers,All Types,,"3,222","2,901",173,47,84,94,19,2,5,1,1
+,Liver Status 7 (Inactive),,41,0,41,0,0,0,0,0,0,0,0
+,Liver MELD / PELD <15,,58,0,58,0,0,0,0,0,0,0,0
+,Liver MELD / PELD 15-19,,32,0,32,0,0,0,0,0,0,0,0
+,Liver MELD / PELD 20-24,,26,0,26,0,0,0,0,0,0,0,0
+,Liver MELD / PELD 25-29,,16,0,16,0,0,0,0,0,0,0,0
+,Liver MELD / PELD 35+,,1,0,1,0,0,0,0,0,0,0,0
+,Heart Status 1A,,7,0,0,0,0,7,0,0,0,0,0
+,Heart Status 1B,,2,0,0,0,0,2,0,0,0,0,0
+,Heart Status 2,,8,0,0,0,0,8,0,0,0,0,0
+,Heart Status 7 (Inactive),,11,0,0,0,0,11,0,0,0,0,0
+,Adult Status 2,,7,0,0,0,0,7,0,0,0,0,0
+,Adult Status 3,,4,0,0,0,0,4,0,0,0,0,0
+,Adult Status 4,,43,0,0,0,0,43,0,0,0,0,0
+,Adult Status 5,,2,0,0,0,0,2,0,0,0,0,0
+,Adult Status 6,,10,0,0,0,0,10,0,0,0,0,0
+,Lung/Heart-Lung: Lung Allocation Score 1 to < 20,,1,0,0,0,0,0,1,0,0,0,0
+,Lung/Heart-Lung: Lung Allocation Score 30 to < 35,,2,0,0,0,0,0,2,1,0,0,0
+,Lung/Heart-Lung: Lung Allocation Score 35 to < 40,,3,0,0,0,0,0,3,0,0,0,0
+,Lung/Heart-Lung: Lung Allocation Score 40 to 50,,5,0,0,0,0,0,5,1,0,0,0
+,Lung/Heart-Lung: Lung Allocation Score >=50,,6,0,0,0,0,0,6,0,0,0,0
+,Lung/Heart-Lung: Inactive,,2,0,0,0,0,0,2,0,0,0,0
+,Intestine Non-urgent,,3,0,0,0,0,0,0,0,3,0,0
+,Intestine Temporarily inactive,,2,0,0,0,0,0,0,0,2,0,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,"1,768","1,739",0,6,41,0,0,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,"1,244","1,188",0,41,43,0,0,0,0,0,0
+,VCA: Active,,2,0,0,0,0,0,0,0,0,1,1
+NCBG-TX1 Wake Forest Baptist Medical Center,All Types,,702,685,0,35,29,11,0,0,0,0,0
+,Heart Status 7 (Inactive),,1,0,0,0,0,1,0,0,0,0,0
+,Adult Status 2,,2,0,0,0,0,2,0,0,0,0,0
+,Adult Status 3,,1,0,0,0,0,1,0,0,0,0,0
+,Adult Status 4,,6,0,0,0,0,6,0,0,0,0,0
+,Adult Status 6,,1,0,0,0,0,1,0,0,0,0,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,433,429,0,2,14,0,0,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,280,256,0,33,15,0,0,0,0,0,0
+NCCM-TX1 Carolinas Medical Center,All Types,,703,569,108,0,18,24,0,0,0,0,0
+,Liver Status 7 (Inactive),,26,0,26,0,0,0,0,0,0,0,0
+,Liver MELD / PELD <15,,41,0,41,0,0,0,0,0,0,0,0
+,Liver MELD / PELD 15-19,,21,0,21,0,0,0,0,0,0,0,0
+,Liver MELD / PELD 20-24,,13,0,13,0,0,0,0,0,0,0,0
+,Liver MELD / PELD 25-29,,7,0,7,0,0,0,0,0,0,0,0
+,Heart Status 1A,,4,0,0,0,0,4,0,0,0,0,0
+,
+,Heart Status 1B,,1,0,0,0,0,1,0,0,0,0,0
+,Heart Status 2,,1,0,0,0,0,1,0,0,0,0,0
+,Heart Status 7 (Inactive),,2,0,0,0,0,2,0,0,0,0,0
+,Adult Status 3,,2,0,0,0,0,2,0,0,0,0,0
+,Adult Status 4,,14,0,0,0,0,14,0,0,0,0,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,308,301,0,0,8,0,0,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,277,268,0,0,10,0,0,0,0,0,0
+NCDU-TX1 Duke University Hospital,All Types,,711,627,36,5,7,37,10,1,5,1,1
+,Liver Status 7 (Inactive),,9,0,9,0,0,0,0,0,0,0,0
+,Liver MELD / PELD <15,,11,0,11,0,0,0,0,0,0,0,0
+,Liver MELD / PELD 15-19,,6,0,6,0,0,0,0,0,0,0,0
+,Liver MELD / PELD 20-24,,6,0,6,0,0,0,0,0,0,0,0
+,Liver MELD / PELD 25-29,,3,0,3,0,0,0,0,0,0,0,0
+,Liver MELD / PELD 35+,,1,0,1,0,0,0,0,0,0,0,0
+,Heart Status 1A,,3,0,0,0,0,3,0,0,0,0,0
+,Heart Status 2,,5,0,0,0,0,5,0,0,0,0,0
+,Heart Status 7 (Inactive),,7,0,0,0,0,7,0,0,0,0,0
+,Adult Status 2,,3,0,0,0,0,3,0,0,0,0,0
+,Adult Status 3,,1,0,0,0,0,1,0,0,0,0,0
+,Adult Status 4,,9,0,0,0,0,9,0,0,0,0,0
+,Adult Status 5,,1,0,0,0,0,1,0,0,0,0,0
+,Adult Status 6,,8,0,0,0,0,8,0,0,0,0,0
+,Lung/Heart-Lung: Lung Allocation Score 30 to < 35,,1,0,0,0,0,0,1,0,0,0,0
+,Lung/Heart-Lung: Lung Allocation Score 40 to 50,,3,0,0,0,0,0,3,1,0,0,0
+,Lung/Heart-Lung: Lung Allocation Score >=50,,4,0,0,0,0,0,4,0,0,0,0
+,Lung/Heart-Lung: Inactive,,2,0,0,0,0,0,2,0,0,0,0
+,Intestine Non-urgent,,3,0,0,0,0,0,0,0,3,0,0
+,Intestine Temporarily inactive,,2,0,0,0,0,0,0,0,2,0,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,360,357,0,2,4,0,0,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,275,270,0,3,3,0,0,0,0,0,0
+,VCA: Active,,2,0,0,0,0,0,0,0,0,1,1
+NCEC-TX1 Vidant Medical Center,All Types,,395,376,0,3,18,0,0,0,0,0,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,256,249,0,2,5,0,0,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,140,127,0,1,13,0,0,0,0,0,0
+NCMH-TX1 University of North Carolina Hospitals,All Types,,844,773,30,4,14,22,9,1,0,0,0
+,Liver Status 7 (Inactive),,6,0,6,0,0,0,0,0,0,0,0
+,Liver MELD / PELD <15,,6,0,6,0,0,0,0,0,0,0,0
+,Liver MELD / PELD 15-19,,5,0,5,0,0,0,0,0,0,0,0
+,Liver MELD / PELD 20-24,,7,0,7,0,0,0,0,0,0,0,0
+,Liver MELD / PELD 25-29,,6,0,6,0,0,0,0,0,0,0,0
+,Heart Status 1B,,1,0,0,0,0,1,0,0,0,0,0
+,
+,Heart Status 2,,2,0,0,0,0,2,0,0,0,0,0
+,Heart Status 7 (Inactive),,1,0,0,0,0,1,0,0,0,0,0
+,Adult Status 2,,2,0,0,0,0,2,0,0,0,0,0
+,Adult Status 4,,14,0,0,0,0,14,0,0,0,0,0
+,Adult Status 5,,1,0,0,0,0,1,0,0,0,0,0
+,Adult Status 6,,1,0,0,0,0,1,0,0,0,0,0
+,Lung/Heart-Lung: Lung Allocation Score 1 to < 20,,1,0,0,0,0,0,1,0,0,0,0
+,Lung/Heart-Lung: Lung Allocation Score 30 to < 35,,1,0,0,0,0,0,1,1,0,0,0
+,Lung/Heart-Lung: Lung Allocation Score 35 to < 40,,3,0,0,0,0,0,3,0,0,0,0
+,Lung/Heart-Lung: Lung Allocation Score 40 to 50,,2,0,0,0,0,0,2,0,0,0,0
+,Lung/Heart-Lung: Lung Allocation Score >=50,,2,0,0,0,0,0,2,0,0,0,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,499,490,0,0,11,0,0,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,290,283,0,4,3,0,0,0,0,0,0

@@ -1,0 +1,144 @@
+,,,All Organs,Kidney,Liver,Pancreas,Kidney / Pancreas,Heart,Lung,Heart / Lung,Intestine,GU: Uterus,Upper Limb: Unilateral
+All Centers,All Types,,"3,017","2,247",518,36,57,199,57,4,22,5,1
+,Liver Status 1B,,1,0,1,0,0,0,0,0,0,0,0
+,Liver Status 7 (Inactive),,92,0,92,0,0,0,0,0,0,0,0
+,Liver MELD / PELD <15,,254,0,254,0,0,0,0,0,0,0,0
+,Liver MELD / PELD 15-19,,76,0,76,0,0,0,0,0,0,0,0
+,Liver MELD / PELD 20-24,,76,0,76,0,0,0,0,0,0,0,0
+,Liver MELD / PELD 25-29,,12,0,12,0,0,0,0,0,0,0,0
+,Liver MELD / PELD 30-34,,6,0,6,0,0,0,0,0,0,0,0
+,Liver MELD / PELD 35+,,2,0,2,0,0,0,0,0,0,0,0
+,Heart Status 1A,,7,0,0,0,0,7,0,0,0,0,0
+,Heart Status 1B,,6,0,0,0,0,6,0,0,0,0,0
+,Heart Status 2,,4,0,0,0,0,4,0,0,0,0,0
+,Heart Status 7 (Inactive),,58,0,0,0,0,58,0,0,0,0,0
+,Adult Status 2,,1,0,0,0,0,1,0,0,0,0,0
+,Adult Status 3,,6,0,0,0,0,6,0,0,0,0,0
+,Adult Status 4,,89,0,0,0,0,89,0,0,0,0,0
+,Adult Status 5,,7,0,0,0,0,7,0,0,0,0,0
+,Adult Status 6,,21,0,0,0,0,21,0,0,0,0,0
+,Lung/Heart-Lung: Lung Allocation Score 30 to < 35,,18,0,0,0,0,0,18,0,0,0,0
+,Lung/Heart-Lung: Lung Allocation Score 35 to < 40,,15,0,0,0,0,0,15,0,0,0,0
+,Lung/Heart-Lung: Lung Allocation Score 40 to 50,,7,0,0,0,0,0,7,2,0,0,0
+,Lung/Heart-Lung: Lung Allocation Score >=50,,4,0,0,0,0,0,4,1,0,0,0
+,"Lung/Heart-Lung: Less Than 12 Years, Priority 1",,2,0,0,0,0,0,1,1,0,0,0
+,Lung/Heart-Lung: Inactive,,12,0,0,0,0,0,12,0,0,0,0
+,Intestine Status 1,,13,0,0,0,0,0,0,0,13,0,0
+,Intestine Non-urgent,,1,0,0,0,0,0,0,0,1,0,0
+,Intestine Temporarily inactive,,8,0,0,0,0,0,0,0,8,0,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,"1,533","1,506",0,13,38,0,0,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,788,758,0,23,19,0,0,0,0,0,0
+,VCA: Active,,6,0,0,0,0,0,0,0,0,5,1
+OHAC-TX1 Akron City Hospital,All Types,,39,39,0,0,0,0,0,0,0,0,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,5,5,0,0,0,0,0,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,34,34,0,0,0,0,0,0,0,0,0
+OHCC-TX1 The Cleveland Clinic Foundation,All Types,,929,573,198,15,19,140,35,2,11,5,1
+,Liver Status 7 (Inactive),,51,0,51,0,0,0,0,0,0,0,0
+,Liver MELD / PELD <15,,87,0,87,0,0,0,0,0,0,0,0
+,Liver MELD / PELD 15-19,,26,0,26,0,0,0,0,0,0,0,0
+,Liver MELD / PELD 20-24,,24,0,24,0,0,0,0,0,0,0,0
+,Liver MELD / PELD 25-29,,4,0,4,0,0,0,0,0,0,0,0
+,Liver MELD / PELD 30-34,,4,0,4,0,0,0,0,0,0,0,0
+,Liver MELD / PELD 35+,,2,0,2,0,0,0,0,0,0,0,0
+,Heart Status 1A,,2,0,0,0,0,2,0,0,0,0,0
+,
+,Heart Status 7 (Inactive),,44,0,0,0,0,44,0,0,0,0,0
+,Adult Status 2,,1,0,0,0,0,1,0,0,0,0,0
+,Adult Status 3,,4,0,0,0,0,4,0,0,0,0,0
+,Adult Status 4,,70,0,0,0,0,70,0,0,0,0,0
+,Adult Status 5,,5,0,0,0,0,5,0,0,0,0,0
+,Adult Status 6,,14,0,0,0,0,14,0,0,0,0,0
+,Lung/Heart-Lung: Lung Allocation Score 30 to < 35,,9,0,0,0,0,0,9,0,0,0,0
+,Lung/Heart-Lung: Lung Allocation Score 35 to < 40,,11,0,0,0,0,0,11,0,0,0,0
+,Lung/Heart-Lung: Lung Allocation Score 40 to 50,,4,0,0,0,0,0,4,1,0,0,0
+,Lung/Heart-Lung: Lung Allocation Score >=50,,3,0,0,0,0,0,3,1,0,0,0
+,Lung/Heart-Lung: Inactive,,8,0,0,0,0,0,8,0,0,0,0
+,Intestine Status 1,,6,0,0,0,0,0,0,0,6,0,0
+,Intestine Temporarily inactive,,5,0,0,0,0,0,0,0,5,0,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,448,439,0,8,16,0,0,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,142,134,0,7,3,0,0,0,0,0,0
+,VCA: Active,,6,0,0,0,0,0,0,0,0,5,1
+OHCH-TX1 Nationwide Children's Hospital,All Types,,29,8,1,0,0,16,3,1,0,0,0
+,Liver MELD / PELD 15-19,,1,0,1,0,0,0,0,0,0,0,0
+,Heart Status 1A,,3,0,0,0,0,3,0,0,0,0,0
+,Heart Status 1B,,3,0,0,0,0,3,0,0,0,0,0
+,Heart Status 2,,4,0,0,0,0,4,0,0,0,0,0
+,Heart Status 7 (Inactive),,2,0,0,0,0,2,0,0,0,0,0
+,Adult Status 4,,4,0,0,0,0,4,0,0,0,0,0
+,"Lung/Heart-Lung: Less Than 12 Years, Priority 1",,2,0,0,0,0,0,1,1,0,0,0
+,Lung/Heart-Lung: Inactive,,2,0,0,0,0,0,2,0,0,0,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,2,2,0,0,0,0,0,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,6,6,0,0,0,0,0,0,0,0,0
+OHCM-TX1 Children's Hospital Medical Center,All Types,,67,35,20,5,0,9,1,1,11,0,0
+,Liver Status 7 (Inactive),,6,0,6,0,0,0,0,0,0,0,0
+,Liver MELD / PELD <15,,7,0,7,0,0,0,0,0,0,0,0
+,Liver MELD / PELD 15-19,,2,0,2,0,0,0,0,0,0,0,0
+,Liver MELD / PELD 20-24,,2,0,2,0,0,0,0,0,0,0,0
+,Liver MELD / PELD 25-29,,2,0,2,0,0,0,0,0,0,0,0
+,Liver MELD / PELD 30-34,,1,0,1,0,0,0,0,0,0,0,0
+,Heart Status 1A,,2,0,0,0,0,2,0,0,0,0,0
+,Heart Status 1B,,3,0,0,0,0,3,0,0,0,0,0
+,Heart Status 7 (Inactive),,2,0,0,0,0,2,0,0,0,0,0
+,Adult Status 4,,2,0,0,0,0,2,0,0,0,0,0
+,Lung/Heart-Lung: Lung Allocation Score 40 to 50,,1,0,0,0,0,0,1,1,0,0,0
+,Intestine Status 1,,7,0,0,0,0,0,0,0,7,0,0
+,Intestine Non-urgent,,1,0,0,0,0,0,0,0,1,0,0
+,
+,Intestine Temporarily inactive,,3,0,0,0,0,0,0,0,3,0,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,11,8,0,3,0,0,0,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,29,27,0,2,0,0,0,0,0,0,0
+OHCO-TX1 University of Toledo Medical Center,All Types,,111,111,0,0,0,0,0,0,0,0,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,59,59,0,0,0,0,0,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,52,52,0,0,0,0,0,0,0,0,0
+OHOU-TX1 Ohio State University Medical Center,All Types,,737,587,110,1,20,17,12,0,0,0,0
+,Liver Status 7 (Inactive),,12,0,12,0,0,0,0,0,0,0,0
+,Liver MELD / PELD <15,,51,0,51,0,0,0,0,0,0,0,0
+,Liver MELD / PELD 15-19,,27,0,27,0,0,0,0,0,0,0,0
+,Liver MELD / PELD 20-24,,20,0,20,0,0,0,0,0,0,0,0
+,Heart Status 7 (Inactive),,4,0,0,0,0,4,0,0,0,0,0
+,Adult Status 3,,2,0,0,0,0,2,0,0,0,0,0
+,Adult Status 4,,5,0,0,0,0,5,0,0,0,0,0
+,Adult Status 5,,1,0,0,0,0,1,0,0,0,0,0
+,Adult Status 6,,5,0,0,0,0,5,0,0,0,0,0
+,Lung/Heart-Lung: Lung Allocation Score 30 to < 35,,6,0,0,0,0,0,6,0,0,0,0
+,Lung/Heart-Lung: Lung Allocation Score 35 to < 40,,3,0,0,0,0,0,3,0,0,0,0
+,Lung/Heart-Lung: Lung Allocation Score 40 to 50,,1,0,0,0,0,0,1,0,0,0,0
+,Lung/Heart-Lung: Lung Allocation Score >=50,,1,0,0,0,0,0,1,0,0,0,0
+,Lung/Heart-Lung: Inactive,,1,0,0,0,0,0,1,0,0,0,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,440,428,0,1,15,0,0,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,164,159,0,0,5,0,0,0,0,0,0
+OHSE-TX1 St. Elizabeth Health Center,All Types,,2,2,0,0,0,0,0,0,0,0,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,2,2,0,0,0,0,0,0,0,0,0
+OHTC-TX1 The Christ Hospital,All Types,,146,146,0,0,0,0,0,0,0,0,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,109,109,0,0,0,0,0,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,37,37,0,0,0,0,0,0,0,0,0
+OHUC-TX1 University of Cincinnati  Medical Center,All Types,,411,302,90,10,13,11,0,0,0,0,0
+,Liver Status 7 (Inactive),,16,0,16,0,0,0,0,0,0,0,0
+,Liver MELD / PELD <15,,64,0,64,0,0,0,0,0,0,0,0
+,Liver MELD / PELD 15-19,,4,0,4,0,0,0,0,0,0,0,0
+,Liver MELD / PELD 20-24,,4,0,4,0,0,0,0,0,0,0,0
+,Liver MELD / PELD 25-29,,1,0,1,0,0,0,0,0,0,0,0
+,Liver MELD / PELD 30-34,,1,0,1,0,0,0,0,0,0,0,0
+,Heart Status 7 (Inactive),,3,0,0,0,0,3,0,0,0,0,0
+,Adult Status 4,,6,0,0,0,0,6,0,0,0,0,0
+,Adult Status 5,,1,0,0,0,0,1,0,0,0,0,0
+,Adult Status 6,,1,0,0,0,0,1,0,0,0,0,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,194,189,0,1,4,0,0,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,124,113,0,9,9,0,0,0,0,0,0
+,
+OHUH-TX1 University Hospitals of Cleveland,All Types,,626,517,101,5,8,7,6,0,0,0,0
+,Liver Status 1B,,1,0,1,0,0,0,0,0,0,0,0
+,Liver Status 7 (Inactive),,7,0,7,0,0,0,0,0,0,0,0
+,Liver MELD / PELD <15,,46,0,46,0,0,0,0,0,0,0,0
+,Liver MELD / PELD 15-19,,16,0,16,0,0,0,0,0,0,0,0
+,Liver MELD / PELD 20-24,,26,0,26,0,0,0,0,0,0,0,0
+,Liver MELD / PELD 25-29,,5,0,5,0,0,0,0,0,0,0,0
+,Heart Status 7 (Inactive),,3,0,0,0,0,3,0,0,0,0,0
+,Adult Status 4,,3,0,0,0,0,3,0,0,0,0,0
+,Adult Status 6,,1,0,0,0,0,1,0,0,0,0,0
+,Lung/Heart-Lung: Lung Allocation Score 30 to < 35,,3,0,0,0,0,0,3,0,0,0,0
+,Lung/Heart-Lung: Lung Allocation Score 35 to < 40,,1,0,0,0,0,0,1,0,0,0,0
+,Lung/Heart-Lung: Lung Allocation Score 40 to 50,,1,0,0,0,0,0,1,0,0,0,0
+,Lung/Heart-Lung: Inactive,,1,0,0,0,0,0,1,0,0,0,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,313,313,0,0,6,0,0,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,209,204,0,5,2,0,0,0,0,0,0

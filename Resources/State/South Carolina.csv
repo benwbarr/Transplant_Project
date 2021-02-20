@@ -1,0 +1,43 @@
+,,,All Organs,Kidney,Liver,Pancreas,Kidney / Pancreas,Heart,Lung
+All Centers,All Types,,"1,333","1,176",79,10,53,52,2
+,Liver Status 7 (Inactive),,16,0,16,0,0,0,0
+,Liver MELD / PELD <15,,33,0,33,0,0,0,0
+,Liver MELD / PELD 15-19,,11,0,11,0,0,0,0
+,Liver MELD / PELD 20-24,,12,0,12,0,0,0,0
+,Liver MELD / PELD 25-29,,2,0,2,0,0,0,0
+,Liver MELD / PELD 30-34,,2,0,2,0,0,0,0
+,Liver MELD / PELD 35+,,3,0,3,0,0,0,0
+,Heart Status 1A,,2,0,0,0,0,2,0
+,Heart Status 1B,,3,0,0,0,0,3,0
+,Heart Status 2,,4,0,0,0,0,4,0
+,Heart Status 7 (Inactive),,14,0,0,0,0,14,0
+,Adult Status 2,,1,0,0,0,0,1,0
+,Adult Status 3,,3,0,0,0,0,3,0
+,Adult Status 4,,14,0,0,0,0,14,0
+,Adult Status 6,,11,0,0,0,0,11,0
+,Lung/Heart-Lung: Lung Allocation Score 30 to < 35,,2,0,0,0,0,0,2
+,Kidney/Pancreas/Kidney-Pancreas: Active,,906,885,0,3,35,0,0
+,Kidney/Panc/Kidney-Panc: Active-Medically urgent,,4,4,0,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,298,287,0,7,18,0,0
+SCCH-TX1 MUSC Children's Hospital,All Types,,18,0,0,0,0,18,0
+,Heart Status 1A,,2,0,0,0,0,2,0
+,Heart Status 1B,,3,0,0,0,0,3,0
+,Heart Status 2,,4,0,0,0,0,4,0
+,Heart Status 7 (Inactive),,9,0,0,0,0,9,0
+SCMU-TX1 Medical University of South Carolina,All Types,,"1,315","1,176",79,10,53,34,2
+,Liver Status 7 (Inactive),,16,0,16,0,0,0,0
+,Liver MELD / PELD <15,,33,0,33,0,0,0,0
+,Liver MELD / PELD 15-19,,11,0,11,0,0,0,0
+,Liver MELD / PELD 20-24,,12,0,12,0,0,0,0
+,Liver MELD / PELD 25-29,,2,0,2,0,0,0,0
+,Liver MELD / PELD 30-34,,2,0,2,0,0,0,0
+,Liver MELD / PELD 35+,,3,0,3,0,0,0,0
+,Heart Status 7 (Inactive),,5,0,0,0,0,5,0
+,Adult Status 2,,1,0,0,0,0,1,0
+,Adult Status 3,,3,0,0,0,0,3,0
+,Adult Status 4,,14,0,0,0,0,14,0
+,Adult Status 6,,11,0,0,0,0,11,0
+,Lung/Heart-Lung: Lung Allocation Score 30 to < 35,,2,0,0,0,0,0,2
+,Kidney/Pancreas/Kidney-Pancreas: Active,,906,885,0,3,35,0,0
+,Kidney/Panc/Kidney-Panc: Active-Medically urgent,,4,4,0,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,298,287,0,7,18,0,0

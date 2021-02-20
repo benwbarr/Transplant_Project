@@ -1,0 +1,79 @@
+,,,All Organs,Kidney,Liver,Pancreas,Kidney / Pancreas,Heart,Lung
+All Centers,All Types,,"1,644","1,397",200,5,19,29,17
+,Liver Status 7 (Inactive),,55,0,55,0,0,0,0
+,Liver MELD / PELD <15,,83,0,83,0,0,0,0
+,Liver MELD / PELD 15-19,,29,0,29,0,0,0,0
+,Liver MELD / PELD 20-24,,26,0,26,0,0,0,0
+,Liver MELD / PELD 25-29,,6,0,6,0,0,0,0
+,Liver MELD / PELD 30-34,,1,0,1,0,0,0,0
+,Heart Status 1B,,4,0,0,0,0,4,0
+,Heart Status 7 (Inactive),,10,0,0,0,0,10,0
+,Adult Status 2,,1,0,0,0,0,1,0
+,Adult Status 3,,1,0,0,0,0,1,0
+,Adult Status 4,,7,0,0,0,0,7,0
+,Adult Status 6,,6,0,0,0,0,6,0
+,Lung/Heart-Lung: Lung Allocation Score 35 to < 40,,7,0,0,0,0,0,7
+,Lung/Heart-Lung: Lung Allocation Score 40 to 50,,5,0,0,0,0,0,5
+,Lung/Heart-Lung: Lung Allocation Score >=50,,3,0,0,0,0,0,3
+,Lung/Heart-Lung: Inactive,,2,0,0,0,0,0,2
+,Kidney/Pancreas/Kidney-Pancreas: Active,,631,619,0,0,14,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,788,778,0,5,5,0,0
+AZCH-TX1 Phoenix Children's Hospital,All Types,,29,19,6,0,0,4,0
+,Liver Status 7 (Inactive),,2,0,2,0,0,0,0
+,Liver MELD / PELD <15,,2,0,2,0,0,0,0
+,Liver MELD / PELD 25-29,,1,0,1,0,0,0,0
+,Liver MELD / PELD 30-34,,1,0,1,0,0,0,0
+,Heart Status 1B,,4,0,0,0,0,4,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,12,12,0,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,7,7,0,0,0,0,0
+AZGS-TX1 Banner-University Medical Center Phoenix,All Types,,412,379,28,3,2,6,0
+,Liver Status 7 (Inactive),,17,0,17,0,0,0,0
+,Liver MELD / PELD <15,,5,0,5,0,0,0,0
+,Liver MELD / PELD 20-24,,5,0,5,0,0,0,0
+,Liver MELD / PELD 25-29,,1,0,1,0,0,0,0
+,Heart Status 7 (Inactive),,3,0,0,0,0,3,0
+,Adult Status 3,,1,0,0,0,0,1,0
+,Adult Status 4,,1,0,0,0,0,1,0
+,Adult Status 6,,1,0,0,0,0,1,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,89,88,0,0,1,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,295,291,0,3,1,0,0
+AZHH-TX1 Phoenix Regional Medical Center,All Types,,11,11,0,0,0,0,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,6,6,0,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,5,5,0,0,0,0,0
+AZMC-TX1 Mayo Clinic Hospital,All Types,,921,763,135,2,16,18,0
+,
+,Liver Status 7 (Inactive),,29,0,29,0,0,0,0
+,Liver MELD / PELD <15,,68,0,68,0,0,0,0
+,Liver MELD / PELD 15-19,,19,0,19,0,0,0,0
+,Liver MELD / PELD 20-24,,17,0,17,0,0,0,0
+,Liver MELD / PELD 25-29,,2,0,2,0,0,0,0
+,Heart Status 7 (Inactive),,6,0,0,0,0,6,0
+,Adult Status 2,,1,0,0,0,0,1,0
+,Adult Status 4,,6,0,0,0,0,6,0
+,Adult Status 6,,5,0,0,0,0,5,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,398,388,0,0,12,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,381,375,0,2,4,0,0
+AZSJ-TX1 St. Joseph's Hospital and Medical Center,All Types,,136,102,22,0,0,0,15
+,Liver Status 7 (Inactive),,2,0,2,0,0,0,0
+,Liver MELD / PELD <15,,6,0,6,0,0,0,0
+,Liver MELD / PELD 15-19,,8,0,8,0,0,0,0
+,Liver MELD / PELD 20-24,,4,0,4,0,0,0,0
+,Liver MELD / PELD 25-29,,2,0,2,0,0,0,0
+,Lung/Heart-Lung: Lung Allocation Score 35 to < 40,,7,0,0,0,0,0,7
+,Lung/Heart-Lung: Lung Allocation Score 40 to 50,,4,0,0,0,0,0,4
+,Lung/Heart-Lung: Lung Allocation Score >=50,,3,0,0,0,0,0,3
+,Lung/Heart-Lung: Inactive,,1,0,0,0,0,0,1
+,Kidney/Pancreas/Kidney-Pancreas: Active,,68,68,0,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,34,34,0,0,0,0,0
+AZSM-TX1 Scottsdale Healthcare Osborn,All Types,,10,10,0,0,0,0,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,8,8,0,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,2,2,0,0,0,0,0
+AZUA-TX1 Banner University Medical Center-Tucson,All Types,,127,114,9,0,1,1,2
+,Liver Status 7 (Inactive),,5,0,5,0,0,0,0
+,Liver MELD / PELD <15,,2,0,2,0,0,0,0
+,Liver MELD / PELD 15-19,,2,0,2,0,0,0,0
+,Heart Status 7 (Inactive),,1,0,0,0,0,1,0
+,Lung/Heart-Lung: Lung Allocation Score 40 to 50,,1,0,0,0,0,0,1
+,Lung/Heart-Lung: Inactive,,1,0,0,0,0,0,1
+,Kidney/Pancreas/Kidney-Pancreas: Active,,51,50,0,0,1,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,64,64,0,0,0,0,0

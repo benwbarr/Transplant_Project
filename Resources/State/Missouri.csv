@@ -1,0 +1,105 @@
+,,,All Organs,Kidney,Liver,Pancreas,Kidney / Pancreas,Heart,Lung,Heart / Lung
+All Centers,All Types,,"1,635","1,419",117,2,24,61,18,5
+,Liver Status 1B,,1,0,1,0,0,0,0,0
+,Liver Status 7 (Inactive),,22,0,22,0,0,0,0,0
+,Liver MELD / PELD <15,,50,0,50,0,0,0,0,0
+,Liver MELD / PELD 15-19,,19,0,19,0,0,0,0,0
+,Liver MELD / PELD 20-24,,19,0,19,0,0,0,0,0
+,Liver MELD / PELD 25-29,,3,0,3,0,0,0,0,0
+,Liver MELD / PELD 30-34,,2,0,2,0,0,0,0,0
+,Liver MELD / PELD 35+,,1,0,1,0,0,0,0,0
+,Heart Status 1A,,8,0,0,0,0,8,0,0
+,Heart Status 1B,,3,0,0,0,0,3,0,0
+,Heart Status 2,,4,0,0,0,0,4,0,0
+,Heart Status 7 (Inactive),,14,0,0,0,0,14,0,0
+,Adult Status 3,,3,0,0,0,0,3,0,0
+,Adult Status 4,,24,0,0,0,0,24,0,0
+,Adult Status 5,,1,0,0,0,0,1,0,0
+,Adult Status 6,,4,0,0,0,0,4,0,0
+,Lung/Heart-Lung: Lung Allocation Score 30 to < 35,,2,0,0,0,0,0,2,0
+,Lung/Heart-Lung: Lung Allocation Score 35 to < 40,,5,0,0,0,0,0,5,1
+,Lung/Heart-Lung: Lung Allocation Score 40 to 50,,5,0,0,0,0,0,5,0
+,Lung/Heart-Lung: Lung Allocation Score >=50,,1,0,0,0,0,0,1,0
+,"Lung/Heart-Lung: Less Than 12 Years, Priority 1",,1,0,0,0,0,0,1,0
+,Lung/Heart-Lung: Inactive,,8,0,0,0,0,0,4,4
+,Kidney/Pancreas/Kidney-Pancreas: Active,,691,679,0,0,12,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,758,744,0,2,12,0,0,0
+MOBH-TX1 Barnes-Jewish Hospital,All Types,,848,746,44,2,19,24,14,4
+,Liver Status 7 (Inactive),,11,0,11,0,0,0,0,0
+,Liver MELD / PELD <15,,16,0,16,0,0,0,0,0
+,Liver MELD / PELD 15-19,,5,0,5,0,0,0,0,0
+,Liver MELD / PELD 20-24,,10,0,10,0,0,0,0,0
+,Liver MELD / PELD 25-29,,2,0,2,0,0,0,0,0
+,Heart Status 7 (Inactive),,6,0,0,0,0,6,0,0
+,Adult Status 3,,2,0,0,0,0,2,0,0
+,Adult Status 4,,13,0,0,0,0,13,0,0
+,Adult Status 5,,1,0,0,0,0,1,0,0
+,Adult Status 6,,2,0,0,0,0,2,0,0
+,Lung/Heart-Lung: Lung Allocation Score 30 to < 35,,2,0,0,0,0,0,2,0
+,Lung/Heart-Lung: Lung Allocation Score 35 to < 40,,4,0,0,0,0,0,4,0
+,Lung/Heart-Lung: Lung Allocation Score 40 to 50,,5,0,0,0,0,0,5,0
+,Lung/Heart-Lung: Lung Allocation Score >=50,,1,0,0,0,0,0,1,0
+,Lung/Heart-Lung: Inactive,,6,0,0,0,0,0,2,4
+,Kidney/Pancreas/Kidney-Pancreas: Active,,383,373,0,0,10,0,0,0
+,
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,384,373,0,2,9,0,0,0
+MOCG-TX1 Cardinal Glennon Children's Hospital,All Types,,18,5,4,0,0,9,0,0
+,Liver Status 7 (Inactive),,1,0,1,0,0,0,0,0
+,Liver MELD / PELD <15,,3,0,3,0,0,0,0,0
+,Heart Status 1A,,3,0,0,0,0,3,0,0
+,Heart Status 2,,4,0,0,0,0,4,0,0
+,Heart Status 7 (Inactive),,2,0,0,0,0,2,0,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,3,3,0,0,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,2,2,0,0,0,0,0,0
+MOCH-TX1 St. Louis Children's Hospital at Washington University Medical Center,All Types,,23,6,8,0,0,9,4,1
+,Liver Status 1B,,1,0,1,0,0,0,0,0
+,Liver MELD / PELD <15,,3,0,3,0,0,0,0,0
+,Liver MELD / PELD 20-24,,1,0,1,0,0,0,0,0
+,Liver MELD / PELD 25-29,,1,0,1,0,0,0,0,0
+,Liver MELD / PELD 30-34,,1,0,1,0,0,0,0,0
+,Liver MELD / PELD 35+,,1,0,1,0,0,0,0,0
+,Heart Status 1A,,3,0,0,0,0,3,0,0
+,Heart Status 1B,,2,0,0,0,0,2,0,0
+,Heart Status 7 (Inactive),,1,0,0,0,0,1,0,0
+,Adult Status 4,,3,0,0,0,0,3,0,0
+,Lung/Heart-Lung: Lung Allocation Score 35 to < 40,,1,0,0,0,0,0,1,1
+,"Lung/Heart-Lung: Less Than 12 Years, Priority 1",,1,0,0,0,0,0,1,0
+,Lung/Heart-Lung: Inactive,,2,0,0,0,0,0,2,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,3,3,0,0,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,3,3,0,0,0,0,0,0
+MOCM-TX1 Children's Mercy Hospital,All Types,,62,58,0,0,0,4,0,0
+,Heart Status 1A,,2,0,0,0,0,2,0,0
+,Heart Status 1B,,1,0,0,0,0,1,0,0
+,Heart Status 7 (Inactive),,1,0,0,0,0,1,0,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,4,4,0,0,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,54,54,0,0,0,0,0,0
+MODU-TX1 DePaul Health Center,All Types,,15,15,0,0,0,0,0,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,12,12,0,0,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,3,3,0,0,0,0,0,0
+MOJM-TX1 St Johns Mercy Medical Center,All Types,,5,5,0,0,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,5,5,0,0,0,0,0,0
+MOLH-TX1 St Luke's Hospital of Kansas City,All Types,,265,220,31,0,0,15,0,0
+,Liver Status 7 (Inactive),,8,0,8,0,0,0,0,0
+,Liver MELD / PELD <15,,19,0,19,0,0,0,0,0
+,Liver MELD / PELD 15-19,,4,0,4,0,0,0,0,0
+,Heart Status 7 (Inactive),,4,0,0,0,0,4,0,0
+,
+,Adult Status 3,,1,0,0,0,0,1,0,0
+,Adult Status 4,,8,0,0,0,0,8,0,0
+,Adult Status 6,,2,0,0,0,0,2,0,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,103,103,0,0,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,117,117,0,0,0,0,0,0
+MORH-TX1 Research Medical Center,All Types,,138,135,0,0,3,0,0,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,68,67,0,0,1,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,70,68,0,0,2,0,0,0
+MOSL-TX1 SSM Health Saint Louis University Hospital,All Types,,171,139,30,0,2,0,0,0
+,Liver Status 7 (Inactive),,2,0,2,0,0,0,0,0
+,Liver MELD / PELD <15,,9,0,9,0,0,0,0,0
+,Liver MELD / PELD 15-19,,10,0,10,0,0,0,0,0
+,Liver MELD / PELD 20-24,,8,0,8,0,0,0,0,0
+,Liver MELD / PELD 30-34,,1,0,1,0,0,0,0,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,80,79,0,0,1,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,61,60,0,0,1,0,0,0
+MOUM-TX1 University of Missouri Hospital and Clinics,All Types,,105,105,0,0,0,0,0,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,39,39,0,0,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,66,66,0,0,0,0,0,0

@@ -1,0 +1,136 @@
+,,,All Organs,Kidney,Liver,Pancreas,Kidney / Pancreas,Heart,Lung,Heart / Lung,Intestine
+All Centers,All Types,,"3,884","3,338",244,64,89,187,45,1,7
+,Liver Status 7 (Inactive),,32,0,32,0,0,0,0,0,0
+,Liver MELD / PELD <15,,107,0,107,0,0,0,0,0,0
+,Liver MELD / PELD 15-19,,45,0,45,0,0,0,0,0,0
+,Liver MELD / PELD 20-24,,47,0,47,0,0,0,0,0,0
+,Liver MELD / PELD 25-29,,8,0,8,0,0,0,0,0,0
+,Liver MELD / PELD 30-34,,3,0,3,0,0,0,0,0,0
+,Liver MELD / PELD 35+,,2,0,2,0,0,0,0,0,0
+,Heart Status 1A,,8,0,0,0,0,8,0,0,0
+,Heart Status 1B,,3,0,0,0,0,3,0,0,0
+,Heart Status 2,,4,0,0,0,0,4,0,0,0
+,Heart Status 7 (Inactive),,72,0,0,0,0,72,0,0,0
+,Adult Status 2,,3,0,0,0,0,3,0,0,0
+,Adult Status 3,,11,0,0,0,0,11,0,0,0
+,Adult Status 4,,53,0,0,0,0,53,0,0,0
+,Adult Status 5,,4,0,0,0,0,4,0,0,0
+,Adult Status 6,,29,0,0,0,0,29,0,0,0
+,Lung/Heart-Lung: Lung Allocation Score 30 to < 35,,9,0,0,0,0,0,9,0,0
+,Lung/Heart-Lung: Lung Allocation Score 35 to < 40,,6,0,0,0,0,0,6,0,0
+,Lung/Heart-Lung: Lung Allocation Score 40 to 50,,6,0,0,0,0,0,6,1,0
+,Lung/Heart-Lung: Lung Allocation Score >=50,,5,0,0,0,0,0,5,0,0
+,Lung/Heart-Lung: Inactive,,19,0,0,0,0,0,19,0,0
+,Intestine Status 1,,3,0,0,0,0,0,0,0,3
+,Intestine Temporarily inactive,,4,0,0,0,0,0,0,0,4
+,Kidney/Pancreas/Kidney-Pancreas: Active,,"2,099","2,077",0,3,39,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,"1,363","1,269",0,61,50,0,0,0,0
+ILCH-TX1 Advocate Christ Medical Center,All Types,,298,246,0,0,0,55,0,0,0
+,Heart Status 7 (Inactive),,8,0,0,0,0,8,0,0,0
+,Adult Status 3,,5,0,0,0,0,5,0,0,0
+,Adult Status 4,,29,0,0,0,0,29,0,0,0
+,Adult Status 5,,2,0,0,0,0,2,0,0,0
+,Adult Status 6,,11,0,0,0,0,11,0,0,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,212,212,0,0,0,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,34,34,0,0,0,0,0,0,0
+ILCM-TX1 Ann & Robert H. Lurie Children's Hospital of Chicago,All Types,,91,46,6,0,0,32,0,0,7
+,Liver MELD / PELD <15,,1,0,1,0,0,0,0,0,0
+,Liver MELD / PELD 20-24,,1,0,1,0,0,0,0,0,0
+,Liver MELD / PELD 25-29,,3,0,3,0,0,0,0,0,0
+,Liver MELD / PELD 35+,,1,0,1,0,0,0,0,0,0
+,Heart Status 1A,,7,0,0,0,0,7,0,0,0
+,Heart Status 1B,,3,0,0,0,0,3,0,0,0
+,Heart Status 2,,3,0,0,0,0,3,0,0,0
+,
+,Heart Status 7 (Inactive),,16,0,0,0,0,16,0,0,0
+,Adult Status 4,,3,0,0,0,0,3,0,0,0
+,Intestine Status 1,,3,0,0,0,0,0,0,0,3
+,Intestine Temporarily inactive,,4,0,0,0,0,0,0,0,4
+,Kidney/Pancreas/Kidney-Pancreas: Active,,16,16,0,0,0,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,30,30,0,0,0,0,0,0,0
+ILEH-TX1 Evanston Hospital,All Types,,13,0,0,0,0,13,0,0,0
+,Heart Status 7 (Inactive),,13,0,0,0,0,13,0,0,0
+ILLU-TX1 Loyola University Medical Center,All Types,,483,358,50,6,14,29,36,0,0
+,Liver Status 7 (Inactive),,19,0,19,0,0,0,0,0,0
+,Liver MELD / PELD <15,,14,0,14,0,0,0,0,0,0
+,Liver MELD / PELD 15-19,,15,0,15,0,0,0,0,0,0
+,Liver MELD / PELD 20-24,,2,0,2,0,0,0,0,0,0
+,Heart Status 7 (Inactive),,15,0,0,0,0,15,0,0,0
+,Adult Status 2,,1,0,0,0,0,1,0,0,0
+,Adult Status 3,,4,0,0,0,0,4,0,0,0
+,Adult Status 4,,6,0,0,0,0,6,0,0,0
+,Adult Status 6,,3,0,0,0,0,3,0,0,0
+,Lung/Heart-Lung: Lung Allocation Score 30 to < 35,,6,0,0,0,0,0,6,0,0
+,Lung/Heart-Lung: Lung Allocation Score 35 to < 40,,5,0,0,0,0,0,5,0,0
+,Lung/Heart-Lung: Lung Allocation Score 40 to 50,,4,0,0,0,0,0,4,0,0
+,Lung/Heart-Lung: Lung Allocation Score >=50,,3,0,0,0,0,0,3,0,0
+,Lung/Heart-Lung: Inactive,,18,0,0,0,0,0,18,0,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,167,165,0,0,2,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,207,193,0,6,12,0,0,0,0
+ILMM-TX1 Memorial Medical Center,All Types,,91,91,0,0,0,0,0,0,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,39,39,0,0,0,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,52,52,0,0,0,0,0,0,0
+ILNM-TX1 Northwestern Memorial Hospital,All Types,,"1,011",862,70,13,33,41,5,1,0
+,Liver Status 7 (Inactive),,5,0,5,0,0,0,0,0,0
+,Liver MELD / PELD <15,,37,0,37,0,0,0,0,0,0
+,Liver MELD / PELD 15-19,,13,0,13,0,0,0,0,0,0
+,Liver MELD / PELD 20-24,,12,0,12,0,0,0,0,0,0
+,Liver MELD / PELD 25-29,,2,0,2,0,0,0,0,0,0
+,Liver MELD / PELD 30-34,,1,0,1,0,0,0,0,0,0
+,Heart Status 7 (Inactive),,16,0,0,0,0,16,0,0,0
+,Adult Status 2,,1,0,0,0,0,1,0,0,0
+,Adult Status 3,,1,0,0,0,0,1,0,0,0
+,Adult Status 4,,12,0,0,0,0,12,0,0,0
+,Adult Status 5,,1,0,0,0,0,1,0,0,0
+,Adult Status 6,,10,0,0,0,0,10,0,0,0
+,
+,Lung/Heart-Lung: Lung Allocation Score 40 to 50,,2,0,0,0,0,0,2,1,0
+,Lung/Heart-Lung: Lung Allocation Score >=50,,2,0,0,0,0,0,2,0,0
+,Lung/Heart-Lung: Inactive,,1,0,0,0,0,0,1,0,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,424,415,0,1,11,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,480,447,0,12,22,0,0,0,0
+ILPL-TX1 Rush University Medical Center,All Types,,419,400,19,20,16,0,0,0,0
+,Liver Status 7 (Inactive),,1,0,1,0,0,0,0,0,0
+,Liver MELD / PELD <15,,5,0,5,0,0,0,0,0,0
+,Liver MELD / PELD 15-19,,4,0,4,0,0,0,0,0,0
+,Liver MELD / PELD 20-24,,7,0,7,0,0,0,0,0,0
+,Liver MELD / PELD 25-29,,1,0,1,0,0,0,0,0,0
+,Liver MELD / PELD 30-34,,1,0,1,0,0,0,0,0,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,324,322,0,2,13,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,93,78,0,18,3,0,0,0,0
+ILSF-TX1 OSF Saint Francis Medical Center,All Types,,292,287,0,2,7,3,0,0,0
+,Heart Status 7 (Inactive),,1,0,0,0,0,1,0,0,0
+,Adult Status 3,,1,0,0,0,0,1,0,0,0
+,Adult Status 4,,1,0,0,0,0,1,0,0,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,144,144,0,0,3,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,145,143,0,2,4,0,0,0,0
+ILUC-TX1 University of Chicago Medical Center,All Types,,578,502,37,21,7,14,4,0,0
+,Liver Status 7 (Inactive),,5,0,5,0,0,0,0,0,0
+,Liver MELD / PELD <15,,12,0,12,0,0,0,0,0,0
+,Liver MELD / PELD 15-19,,6,0,6,0,0,0,0,0,0
+,Liver MELD / PELD 20-24,,10,0,10,0,0,0,0,0,0
+,Liver MELD / PELD 25-29,,2,0,2,0,0,0,0,0,0
+,Liver MELD / PELD 30-34,,1,0,1,0,0,0,0,0,0
+,Liver MELD / PELD 35+,,1,0,1,0,0,0,0,0,0
+,Heart Status 1A,,1,0,0,0,0,1,0,0,0
+,Heart Status 2,,1,0,0,0,0,1,0,0,0
+,Heart Status 7 (Inactive),,3,0,0,0,0,3,0,0,0
+,Adult Status 2,,1,0,0,0,0,1,0,0,0
+,Adult Status 4,,2,0,0,0,0,2,0,0,0
+,Adult Status 5,,1,0,0,0,0,1,0,0,0
+,Adult Status 6,,5,0,0,0,0,5,0,0,0
+,Lung/Heart-Lung: Lung Allocation Score 30 to < 35,,3,0,0,0,0,0,3,0,0
+,Lung/Heart-Lung: Lung Allocation Score 35 to < 40,,1,0,0,0,0,0,1,0,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,275,273,0,0,2,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,254,229,0,21,5,0,0,0,0
+ILUI-TX1 University of Illinois Medical Center,All Types,,613,549,62,2,12,0,0,0,0
+,Liver Status 7 (Inactive),,2,0,2,0,0,0,0,0,0
+,
+,Liver MELD / PELD <15,,38,0,38,0,0,0,0,0,0
+,Liver MELD / PELD 15-19,,7,0,7,0,0,0,0,0,0
+,Liver MELD / PELD 20-24,,15,0,15,0,0,0,0,0,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,490,483,0,0,8,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,72,66,0,2,4,0,0,0,0
+ILVA-TX1 Edward Hines Jr. Veterans Administration Medical Center,All Types,,22,22,0,0,0,0,0,0,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,21,21,0,0,0,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,1,1,0,0,0,0,0,0,0

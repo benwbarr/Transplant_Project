@@ -1,0 +1,49 @@
+,,,All Organs,Kidney,Liver,Pancreas,Kidney / Pancreas,Heart,Lung
+All Centers,All Types,,587,504,35,2,14,23,10
+,Liver Status 7 (Inactive),,9,0,9,0,0,0,0
+,Liver MELD / PELD <15,,18,0,18,0,0,0,0
+,Liver MELD / PELD 15-19,,4,0,4,0,0,0,0
+,Liver MELD / PELD 20-24,,2,0,2,0,0,0,0
+,Liver MELD / PELD 25-29,,2,0,2,0,0,0,0
+,Heart Status 1A,,1,0,0,0,0,1,0
+,Heart Status 2,,1,0,0,0,0,1,0
+,Heart Status 7 (Inactive),,2,0,0,0,0,2,0
+,Adult Status 3,,2,0,0,0,0,2,0
+,Adult Status 4,,14,0,0,0,0,14,0
+,Adult Status 5,,1,0,0,0,0,1,0
+,Adult Status 6,,2,0,0,0,0,2,0
+,Lung/Heart-Lung: Lung Allocation Score 30 to < 35,,6,0,0,0,0,0,6
+,Lung/Heart-Lung: Lung Allocation Score 35 to < 40,,2,0,0,0,0,0,2
+,Lung/Heart-Lung: Lung Allocation Score 40 to 50,,1,0,0,0,0,0,1
+,Lung/Heart-Lung: Inactive,,1,0,0,0,0,0,1
+,Kidney/Pancreas/Kidney-Pancreas: Active,,279,269,0,1,9,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,248,242,0,1,5,0,0
+IAIM-TX1 Iowa Methodist Medical Center,All Types,,96,96,0,0,0,0,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,23,23,0,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,73,73,0,0,0,0,0
+IAIV-TX1 University of Iowa Hospitals and Clinics Transplant Programs,All Types,,351,274,35,0,10,23,10
+,Liver Status 7 (Inactive),,9,0,9,0,0,0,0
+,Liver MELD / PELD <15,,18,0,18,0,0,0,0
+,Liver MELD / PELD 15-19,,4,0,4,0,0,0,0
+,Liver MELD / PELD 20-24,,2,0,2,0,0,0,0
+,Liver MELD / PELD 25-29,,2,0,2,0,0,0,0
+,Heart Status 1A,,1,0,0,0,0,1,0
+,Heart Status 2,,1,0,0,0,0,1,0
+,Heart Status 7 (Inactive),,2,0,0,0,0,2,0
+,Adult Status 3,,2,0,0,0,0,2,0
+,Adult Status 4,,14,0,0,0,0,14,0
+,Adult Status 5,,1,0,0,0,0,1,0
+,Adult Status 6,,2,0,0,0,0,2,0
+,Lung/Heart-Lung: Lung Allocation Score 30 to < 35,,6,0,0,0,0,0,6
+,Lung/Heart-Lung: Lung Allocation Score 35 to < 40,,2,0,0,0,0,0,2
+,Lung/Heart-Lung: Lung Allocation Score 40 to 50,,1,0,0,0,0,0,1
+,Lung/Heart-Lung: Inactive,,1,0,0,0,0,0,1
+,Kidney/Pancreas/Kidney-Pancreas: Active,,203,195,0,0,8,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,81,79,0,0,2,0,0
+IAMH-TX1 MercyOne Des Moines Transplant Center,All Types,,14,8,0,2,4,0,0
+,
+,Kidney/Pancreas/Kidney-Pancreas: Active,,4,2,0,1,1,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,10,6,0,1,3,0,0
+IAVA-TX1 The Iowa City VA Health Care System,All Types,,134,134,0,0,0,0,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,49,49,0,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,85,85,0,0,0,0,0

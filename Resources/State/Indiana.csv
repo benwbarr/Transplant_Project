@@ -1,0 +1,58 @@
+,,,All Organs,Kidney,Liver,Pancreas,Kidney / Pancreas,Heart,Lung,Intestine
+All Centers,All Types,,"1,023",866,86,19,19,84,2,17
+,Liver Status 7 (Inactive),,16,0,16,0,0,0,0,0
+,Liver MELD / PELD <15,,27,0,27,0,0,0,0,0
+,Liver MELD / PELD 15-19,,11,0,11,0,0,0,0,0
+,Liver MELD / PELD 20-24,,20,0,20,0,0,0,0,0
+,Liver MELD / PELD 25-29,,3,0,3,0,0,0,0,0
+,Liver MELD / PELD 30-34,,7,0,7,0,0,0,0,0
+,Liver MELD / PELD 35+,,2,0,2,0,0,0,0,0
+,Heart Status 1A,,1,0,0,0,0,1,0,0
+,Heart Status 1B,,1,0,0,0,0,1,0,0
+,Heart Status 2,,2,0,0,0,0,2,0,0
+,Heart Status 7 (Inactive),,7,0,0,0,0,7,0,0
+,Adult Status 2,,2,0,0,0,0,2,0,0
+,Adult Status 3,,3,0,0,0,0,3,0,0
+,Adult Status 4,,61,0,0,0,0,61,0,0
+,Adult Status 6,,7,0,0,0,0,7,0,0
+,Lung/Heart-Lung: Lung Allocation Score 30 to < 35,,1,0,0,0,0,0,1,0
+,Lung/Heart-Lung: Lung Allocation Score 35 to < 40,,1,0,0,0,0,0,1,0
+,Intestine Status 1,,15,0,0,0,0,0,0,15
+,Intestine Temporarily inactive,,2,0,0,0,0,0,0,2
+,Kidney/Pancreas/Kidney-Pancreas: Active,,405,392,0,13,9,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,481,475,0,6,10,0,0,0
+INIM-TX1 Indiana University Health,All Types,,747,639,86,19,19,25,2,17
+,Liver Status 7 (Inactive),,16,0,16,0,0,0,0,0
+,Liver MELD / PELD <15,,27,0,27,0,0,0,0,0
+,Liver MELD / PELD 15-19,,11,0,11,0,0,0,0,0
+,Liver MELD / PELD 20-24,,20,0,20,0,0,0,0,0
+,Liver MELD / PELD 25-29,,3,0,3,0,0,0,0,0
+,Liver MELD / PELD 30-34,,7,0,7,0,0,0,0,0
+,Liver MELD / PELD 35+,,2,0,2,0,0,0,0,0
+,Heart Status 1A,,1,0,0,0,0,1,0,0
+,Heart Status 1B,,1,0,0,0,0,1,0,0
+,Heart Status 2,,2,0,0,0,0,2,0,0
+,Heart Status 7 (Inactive),,3,0,0,0,0,3,0,0
+,Adult Status 2,,2,0,0,0,0,2,0,0
+,Adult Status 3,,1,0,0,0,0,1,0,0
+,Adult Status 4,,12,0,0,0,0,12,0,0
+,Adult Status 6,,3,0,0,0,0,3,0,0
+,Lung/Heart-Lung: Lung Allocation Score 30 to < 35,,1,0,0,0,0,0,1,0
+,Lung/Heart-Lung: Lung Allocation Score 35 to < 40,,1,0,0,0,0,0,1,0
+,Intestine Status 1,,15,0,0,0,0,0,0,15
+,Intestine Temporarily inactive,,2,0,0,0,0,0,0,2
+,
+,Kidney/Pancreas/Kidney-Pancreas: Active,,294,281,0,13,9,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,364,358,0,6,10,0,0,0
+INLH-TX1 Lutheran Hospital of Fort Wayne,All Types,,31,27,0,0,0,4,0,0
+,Adult Status 4,,3,0,0,0,0,3,0,0
+,Adult Status 6,,1,0,0,0,0,1,0,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,17,17,0,0,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,10,10,0,0,0,0,0,0
+INSV-TX1 Ascension St. Vincent Hospital,All Types,,246,201,0,0,0,55,0,0
+,Heart Status 7 (Inactive),,4,0,0,0,0,4,0,0
+,Adult Status 3,,2,0,0,0,0,2,0,0
+,Adult Status 4,,46,0,0,0,0,46,0,0
+,Adult Status 6,,3,0,0,0,0,3,0,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,94,94,0,0,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,107,107,0,0,0,0,0,0

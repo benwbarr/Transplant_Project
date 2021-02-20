@@ -1,0 +1,74 @@
+,,,All Organs,Kidney,Liver,Pancreas,Kidney / Pancreas,Heart,Lung
+All Centers,All Types,,"1,605","1,272",270,14,29,62,6
+,Liver Status 7 (Inactive),,62,0,62,0,0,0,0
+,Liver MELD / PELD <15,,103,0,103,0,0,0,0
+,Liver MELD / PELD 15-19,,45,0,45,0,0,0,0
+,Liver MELD / PELD 20-24,,27,0,27,0,0,0,0
+,Liver MELD / PELD 25-29,,28,0,28,0,0,0,0
+,Liver MELD / PELD 35+,,5,0,5,0,0,0,0
+,Heart Status 1A,,2,0,0,0,0,2,0
+,Heart Status 1B,,2,0,0,0,0,2,0
+,Heart Status 2,,1,0,0,0,0,1,0
+,Heart Status 7 (Inactive),,16,0,0,0,0,16,0
+,Adult Status 3,,3,0,0,0,0,3,0
+,Adult Status 4,,27,0,0,0,0,27,0
+,Adult Status 5,,3,0,0,0,0,3,0
+,Adult Status 6,,8,0,0,0,0,8,0
+,Lung/Heart-Lung: Inactive,,6,0,0,0,0,0,6
+,Kidney/Pancreas/Kidney-Pancreas: Active,,624,608,0,5,14,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,700,680,0,9,17,0,0
+WICH-TX1 Children's Hospital of Wisconsin,All Types,,36,17,9,0,0,11,0
+,Liver Status 7 (Inactive),,3,0,3,0,0,0,0
+,Liver MELD / PELD <15,,1,0,1,0,0,0,0
+,Liver MELD / PELD 15-19,,1,0,1,0,0,0,0
+,Liver MELD / PELD 25-29,,1,0,1,0,0,0,0
+,Liver MELD / PELD 35+,,3,0,3,0,0,0,0
+,Heart Status 1A,,2,0,0,0,0,2,0
+,Heart Status 1B,,2,0,0,0,0,2,0
+,Heart Status 2,,1,0,0,0,0,1,0
+,Heart Status 7 (Inactive),,5,0,0,0,0,5,0
+,Adult Status 4,,1,0,0,0,0,1,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,7,7,0,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,10,10,0,0,0,0,0
+WISE-TX1 Froedtert Memorial Lutheran Hospital,All Types,,552,429,107,0,7,23,4
+,Liver Status 7 (Inactive),,9,0,9,0,0,0,0
+,Liver MELD / PELD <15,,54,0,54,0,0,0,0
+,Liver MELD / PELD 15-19,,17,0,17,0,0,0,0
+,Liver MELD / PELD 20-24,,8,0,8,0,0,0,0
+,Liver MELD / PELD 25-29,,18,0,18,0,0,0,0
+,Liver MELD / PELD 35+,,1,0,1,0,0,0,0
+,Heart Status 7 (Inactive),,4,0,0,0,0,4,0
+,Adult Status 3,,2,0,0,0,0,2,0
+,Adult Status 4,,13,0,0,0,0,13,0
+,Adult Status 6,,4,0,0,0,0,4,0
+,
+,Lung/Heart-Lung: Inactive,,4,0,0,0,0,0,4
+,Kidney/Pancreas/Kidney-Pancreas: Active,,248,246,0,0,3,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,183,183,0,0,4,0,0
+WISL-TX1 Aurora St. Luke's Medical Center,All Types,,247,164,71,0,6,19,0
+,Liver Status 7 (Inactive),,30,0,30,0,0,0,0
+,Liver MELD / PELD <15,,19,0,19,0,0,0,0
+,Liver MELD / PELD 15-19,,12,0,12,0,0,0,0
+,Liver MELD / PELD 20-24,,6,0,6,0,0,0,0
+,Liver MELD / PELD 25-29,,4,0,4,0,0,0,0
+,Heart Status 7 (Inactive),,3,0,0,0,0,3,0
+,Adult Status 4,,11,0,0,0,0,11,0
+,Adult Status 5,,2,0,0,0,0,2,0
+,Adult Status 6,,3,0,0,0,0,3,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,110,106,0,0,4,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,60,58,0,0,2,0,0
+WIUW-TX1 University of Wisconsin Hospital and Clinics,All Types,,848,736,84,14,19,9,2
+,Liver Status 7 (Inactive),,21,0,21,0,0,0,0
+,Liver MELD / PELD <15,,29,0,29,0,0,0,0
+,Liver MELD / PELD 15-19,,15,0,15,0,0,0,0
+,Liver MELD / PELD 20-24,,13,0,13,0,0,0,0
+,Liver MELD / PELD 25-29,,5,0,5,0,0,0,0
+,Liver MELD / PELD 35+,,1,0,1,0,0,0,0
+,Heart Status 7 (Inactive),,4,0,0,0,0,4,0
+,Adult Status 3,,1,0,0,0,0,1,0
+,Adult Status 4,,2,0,0,0,0,2,0
+,Adult Status 5,,1,0,0,0,0,1,0
+,Adult Status 6,,1,0,0,0,0,1,0
+,Lung/Heart-Lung: Inactive,,2,0,0,0,0,0,2
+,Kidney/Pancreas/Kidney-Pancreas: Active,,298,287,0,5,7,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,468,449,0,9,12,0,0

@@ -1,0 +1,108 @@
+,,,All Organs,Kidney,Liver,Pancreas,Kidney / Pancreas,Heart,Lung,Intestine
+All Centers,All Types,,"2,539","2,134",241,31,33,138,35,1
+,Liver Status 7 (Inactive),,63,0,63,0,0,0,0,0
+,Liver MELD / PELD <15,,100,0,100,0,0,0,0,0
+,Liver MELD / PELD 15-19,,37,0,37,0,0,0,0,0
+,Liver MELD / PELD 20-24,,33,0,33,0,0,0,0,0
+,Liver MELD / PELD 25-29,,6,0,6,0,0,0,0,0
+,Liver MELD / PELD 30-34,,1,0,1,0,0,0,0,0
+,Liver MELD / PELD 35+,,1,0,1,0,0,0,0,0
+,Heart Status 1A,,3,0,0,0,0,3,0,0
+,Heart Status 2,,1,0,0,0,0,1,0,0
+,Heart Status 7 (Inactive),,34,0,0,0,0,34,0,0
+,Adult Status 2,,5,0,0,0,0,5,0,0
+,Adult Status 3,,10,0,0,0,0,10,0,0
+,Adult Status 4,,81,0,0,0,0,81,0,0
+,Adult Status 5,,1,0,0,0,0,1,0,0
+,Adult Status 6,,3,0,0,0,0,3,0,0
+,Lung/Heart-Lung: Lung Allocation Score 30 to < 35,,15,0,0,0,0,0,15,0
+,Lung/Heart-Lung: Lung Allocation Score 35 to < 40,,8,0,0,0,0,0,8,0
+,Lung/Heart-Lung: Lung Allocation Score 40 to 50,,3,0,0,0,0,0,3,0
+,Lung/Heart-Lung: Lung Allocation Score >=50,,2,0,0,0,0,0,2,0
+,Lung/Heart-Lung: Inactive,,7,0,0,0,0,0,7,0
+,Intestine Temporarily inactive,,1,0,0,0,0,0,0,1
+,Kidney/Pancreas/Kidney-Pancreas: Active,,986,984,0,3,8,0,0,0
+,Kidney/Panc/Kidney-Panc: Active-Medically urgent,,1,1,0,0,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,"1,170","1,151",0,28,25,0,0,0
+MIBH-TX1 William Beaumont Hospital,All Types,,368,329,51,0,0,0,0,0
+,Liver Status 7 (Inactive),,2,0,2,0,0,0,0,0
+,Liver MELD / PELD <15,,21,0,21,0,0,0,0,0
+,Liver MELD / PELD 15-19,,14,0,14,0,0,0,0,0
+,Liver MELD / PELD 20-24,,13,0,13,0,0,0,0,0
+,Liver MELD / PELD 25-29,,1,0,1,0,0,0,0,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,181,181,0,0,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,148,148,0,0,0,0,0,0
+MICH-TX1 Children's Hospital of Michigan,All Types,,10,6,2,0,0,2,0,0
+,Liver Status 7 (Inactive),,2,0,2,0,0,0,0,0
+,Heart Status 1A,,1,0,0,0,0,1,0,0
+,Heart Status 7 (Inactive),,1,0,0,0,0,1,0,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,4,4,0,0,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,2,2,0,0,0,0,0,0
+MIDV-TX1 Helen DeVos Children's Hospital,All Types,,7,7,0,0,0,0,0,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,1,1,0,0,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,6,6,0,0,0,0,0,0
+,
+MIHF-TX1 Henry Ford Hospital,All Types,,537,380,100,27,14,32,19,1
+,Liver Status 7 (Inactive),,23,0,23,0,0,0,0,0
+,Liver MELD / PELD <15,,50,0,50,0,0,0,0,0
+,Liver MELD / PELD 15-19,,14,0,14,0,0,0,0,0
+,Liver MELD / PELD 20-24,,9,0,9,0,0,0,0,0
+,Liver MELD / PELD 25-29,,3,0,3,0,0,0,0,0
+,Liver MELD / PELD 35+,,1,0,1,0,0,0,0,0
+,Heart Status 7 (Inactive),,2,0,0,0,0,2,0,0
+,Adult Status 2,,1,0,0,0,0,1,0,0
+,Adult Status 3,,3,0,0,0,0,3,0,0
+,Adult Status 4,,24,0,0,0,0,24,0,0
+,Adult Status 5,,1,0,0,0,0,1,0,0
+,Adult Status 6,,1,0,0,0,0,1,0,0
+,Lung/Heart-Lung: Lung Allocation Score 30 to < 35,,11,0,0,0,0,0,11,0
+,Lung/Heart-Lung: Lung Allocation Score 35 to < 40,,3,0,0,0,0,0,3,0
+,Lung/Heart-Lung: Lung Allocation Score 40 to 50,,2,0,0,0,0,0,2,0
+,Lung/Heart-Lung: Lung Allocation Score >=50,,2,0,0,0,0,0,2,0
+,Lung/Heart-Lung: Inactive,,1,0,0,0,0,0,1,0
+,Intestine Temporarily inactive,,1,0,0,0,0,0,0,1
+,Kidney/Pancreas/Kidney-Pancreas: Active,,116,114,0,3,1,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,279,266,0,24,13,0,0,0
+MIHH-TX1 Harper University Hospital Detroit Medical Center,All Types,,192,192,0,0,0,0,0,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,71,71,0,0,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,121,121,0,0,0,0,0,0
+MIHM-TX1 Hurley Medical Center,All Types,,6,6,0,0,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,6,6,0,0,0,0,0,0
+MIKZ-TX1 Borgess Medical Center,All Types,,15,15,0,0,0,0,0,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,14,14,0,0,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,1,1,0,0,0,0,0,0
+MISH-TX1 Spectrum Health,All Types,,38,0,0,0,0,33,5,0
+,Heart Status 7 (Inactive),,7,0,0,0,0,7,0,0
+,Adult Status 2,,4,0,0,0,0,4,0,0
+,Adult Status 3,,4,0,0,0,0,4,0,0
+,Adult Status 4,,17,0,0,0,0,17,0,0
+,Adult Status 6,,1,0,0,0,0,1,0,0
+,Lung/Heart-Lung: Lung Allocation Score 30 to < 35,,2,0,0,0,0,0,2,0
+,Lung/Heart-Lung: Lung Allocation Score 40 to 50,,1,0,0,0,0,0,1,0
+,Lung/Heart-Lung: Inactive,,2,0,0,0,0,0,2,0
+MISJ-TX1 Ascension St. John Hospital,All Types,,162,162,0,0,0,0,0,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,74,74,0,0,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,88,88,0,0,0,0,0,0
+,
+MISM-TX1 Mercy Health Saint Mary’s,All Types,,267,267,0,0,0,0,0,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,127,127,0,0,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,140,140,0,0,0,0,0,0
+MIUM-TX1 University of Michigan Medical Center,All Types,,939,772,88,4,19,71,11,0
+,Liver Status 7 (Inactive),,36,0,36,0,0,0,0,0
+,Liver MELD / PELD <15,,29,0,29,0,0,0,0,0
+,Liver MELD / PELD 15-19,,9,0,9,0,0,0,0,0
+,Liver MELD / PELD 20-24,,11,0,11,0,0,0,0,0
+,Liver MELD / PELD 25-29,,2,0,2,0,0,0,0,0
+,Liver MELD / PELD 30-34,,1,0,1,0,0,0,0,0
+,Heart Status 1A,,2,0,0,0,0,2,0,0
+,Heart Status 2,,1,0,0,0,0,1,0,0
+,Heart Status 7 (Inactive),,24,0,0,0,0,24,0,0
+,Adult Status 3,,3,0,0,0,0,3,0,0
+,Adult Status 4,,40,0,0,0,0,40,0,0
+,Adult Status 6,,1,0,0,0,0,1,0,0
+,Lung/Heart-Lung: Lung Allocation Score 30 to < 35,,2,0,0,0,0,0,2,0
+,Lung/Heart-Lung: Lung Allocation Score 35 to < 40,,5,0,0,0,0,0,5,0
+,Lung/Heart-Lung: Inactive,,4,0,0,0,0,0,4,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,398,398,0,0,7,0,0,0
+,Kidney/Panc/Kidney-Panc: Active-Medically urgent,,1,1,0,0,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,379,373,0,4,12,0,0,0

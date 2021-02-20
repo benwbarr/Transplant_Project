@@ -1,0 +1,84 @@
+,,,All Organs,Kidney,Liver,Pancreas,Kidney / Pancreas,Heart,Lung,Heart / Lung,Upper Limb: Bilateral
+All Centers,All Types,,"2,582","2,104",190,129,161,122,62,7,1
+,Liver Status 7 (Inactive),,34,0,34,0,0,0,0,0,0
+,Liver MELD / PELD <15,,68,0,68,0,0,0,0,0,0
+,Liver MELD / PELD 15-19,,38,0,38,0,0,0,0,0,0
+,Liver MELD / PELD 20-24,,20,0,20,0,0,0,0,0,0
+,Liver MELD / PELD 25-29,,28,0,28,0,0,0,0,0,0
+,Liver MELD / PELD 35+,,2,0,2,0,0,0,0,0,0
+,Heart Status 1A,,6,0,0,0,0,6,0,0,0
+,Heart Status 1B,,5,0,0,0,0,5,0,0,0
+,Heart Status 2,,3,0,0,0,0,3,0,0,0
+,Heart Status 7 (Inactive),,47,0,0,0,0,47,0,0,0
+,Adult Status 1,,1,0,0,0,0,1,0,0,0
+,Adult Status 2,,5,0,0,0,0,5,0,0,0
+,Adult Status 3,,2,0,0,0,0,2,0,0,0
+,Adult Status 4,,49,0,0,0,0,49,0,0,0
+,Adult Status 5,,3,0,0,0,0,3,0,0,0
+,Adult Status 6,,1,0,0,0,0,1,0,0,0
+,Lung/Heart-Lung: Lung Allocation Score 1 to < 20,,2,0,0,0,0,0,2,0,0
+,Lung/Heart-Lung: Lung Allocation Score 30 to < 35,,25,0,0,0,0,0,25,2,0
+,Lung/Heart-Lung: Lung Allocation Score 35 to < 40,,11,0,0,0,0,0,11,1,0
+,Lung/Heart-Lung: Lung Allocation Score 40 to 50,,6,0,0,0,0,0,6,0,0
+,Lung/Heart-Lung: Lung Allocation Score >=50,,4,0,0,0,0,0,4,0,0
+,Lung/Heart-Lung: Inactive,,14,0,0,0,0,0,14,4,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,953,940,0,13,36,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Active-Medically urgent,,1,1,0,0,0,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,"1,285","1,169",0,116,125,0,0,0,0
+,VCA: Active,,1,0,0,0,0,0,0,0,1
+MNAN-TX1 Abbott Northwestern Hospital,All Types,,155,151,0,0,0,4,0,0,0
+,Adult Status 4,,4,0,0,0,0,4,0,0,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,79,79,0,0,0,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,72,72,0,0,0,0,0,0,0
+MNCM-TX1 Children's Minnesota,All Types,,11,0,0,0,0,11,0,0,0
+,Heart Status 1A,,5,0,0,0,0,5,0,0,0
+,Heart Status 1B,,2,0,0,0,0,2,0,0,0
+,Heart Status 2,,1,0,0,0,0,1,0,0,0
+,Heart Status 7 (Inactive),,3,0,0,0,0,3,0,0,0
+MNHC-TX1 Hennepin County Medical Center,All Types,,292,292,0,0,0,0,0,0,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,142,142,0,0,0,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,150,150,0,0,0,0,0,0,0
+MNMC-TX1 Rochester Methodist Hospital (Mayo Clinic),All Types,,"1,089",870,93,43,45,67,29,7,1
+,Liver Status 7 (Inactive),,1,0,1,0,0,0,0,0,0
+,Liver MELD / PELD <15,,34,0,34,0,0,0,0,0,0
+,
+,Liver MELD / PELD 15-19,,24,0,24,0,0,0,0,0,0
+,Liver MELD / PELD 20-24,,13,0,13,0,0,0,0,0,0
+,Liver MELD / PELD 25-29,,21,0,21,0,0,0,0,0,0
+,Heart Status 1A,,1,0,0,0,0,1,0,0,0
+,Heart Status 1B,,3,0,0,0,0,3,0,0,0
+,Heart Status 2,,2,0,0,0,0,2,0,0,0
+,Heart Status 7 (Inactive),,34,0,0,0,0,34,0,0,0
+,Adult Status 1,,1,0,0,0,0,1,0,0,0
+,Adult Status 2,,2,0,0,0,0,2,0,0,0
+,Adult Status 3,,2,0,0,0,0,2,0,0,0
+,Adult Status 4,,19,0,0,0,0,19,0,0,0
+,Adult Status 5,,3,0,0,0,0,3,0,0,0
+,Lung/Heart-Lung: Lung Allocation Score 30 to < 35,,8,0,0,0,0,0,8,2,0
+,Lung/Heart-Lung: Lung Allocation Score 35 to < 40,,6,0,0,0,0,0,6,1,0
+,Lung/Heart-Lung: Lung Allocation Score 40 to 50,,5,0,0,0,0,0,5,0,0
+,Lung/Heart-Lung: Lung Allocation Score >=50,,1,0,0,0,0,0,1,0,0
+,Lung/Heart-Lung: Inactive,,9,0,0,0,0,0,9,4,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,518,509,0,9,24,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Active-Medically urgent,,1,1,0,0,0,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,394,360,0,34,21,0,0,0,0
+,VCA: Active,,1,0,0,0,0,0,0,0,1
+"MNUM-TX1 University of Minnesota Medical Center, Fairview",All Types,,"1,055",809,97,88,116,40,33,0,0
+,Liver Status 7 (Inactive),,33,0,33,0,0,0,0,0,0
+,Liver MELD / PELD <15,,34,0,34,0,0,0,0,0,0
+,Liver MELD / PELD 15-19,,14,0,14,0,0,0,0,0,0
+,Liver MELD / PELD 20-24,,7,0,7,0,0,0,0,0,0
+,Liver MELD / PELD 25-29,,7,0,7,0,0,0,0,0,0
+,Liver MELD / PELD 35+,,2,0,2,0,0,0,0,0,0
+,Heart Status 7 (Inactive),,10,0,0,0,0,10,0,0,0
+,Adult Status 2,,3,0,0,0,0,3,0,0,0
+,Adult Status 4,,26,0,0,0,0,26,0,0,0
+,Adult Status 6,,1,0,0,0,0,1,0,0,0
+,Lung/Heart-Lung: Lung Allocation Score 1 to < 20,,2,0,0,0,0,0,2,0,0
+,Lung/Heart-Lung: Lung Allocation Score 30 to < 35,,17,0,0,0,0,0,17,0,0
+,Lung/Heart-Lung: Lung Allocation Score 35 to < 40,,5,0,0,0,0,0,5,0,0
+,Lung/Heart-Lung: Lung Allocation Score 40 to 50,,1,0,0,0,0,0,1,0,0
+,Lung/Heart-Lung: Lung Allocation Score >=50,,3,0,0,0,0,0,3,0,0
+,Lung/Heart-Lung: Inactive,,5,0,0,0,0,0,5,0,0
+,Kidney/Pancreas/Kidney-Pancreas: Active,,219,215,0,4,12,0,0,0,0
+,Kidney/Panc/Kidney-Panc: Temporarily inactive,,678,594,0,84,104,0,0,0,0
