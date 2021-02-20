@@ -32,7 +32,6 @@
 207,Deceased Donor,Pancreas,Donation,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,1,1,1,1,0,1,1,3,0
 208,Deceased Donor,Pancreas,Foreign Government Specify,44,0,1,4,2,6,3,3,4,3,3,0,3,2,3,1,0,3,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
 209,Deceased Donor,Pancreas,Free Care,41,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,2,0,0,0,0,2,0,2,3,3,7,10,4,1,0,2,1
-210,Deceased Donor,Pancreas,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 211,Deceased Donor,Pancreas,Private insurance,"5,093",5,72,83,101,106,104,108,137,143,131,160,180,182,230,272,270,291,325,303,301,267,276,229,175,138,94,70,56,76,42,62,54,43,7
 212,Deceased Donor,Pancreas,Public insurance - CHIP (Children's Health Insurance Program),20,0,0,0,0,0,1,1,1,0,0,1,3,3,9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 213,Deceased Donor,Pancreas,Public insurance - Department of VA,12,0,0,1,1,1,0,0,0,2,0,0,1,0,0,1,1,0,2,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
@@ -44,18 +43,6 @@
 219,Deceased Donor,Pancreas,Self,60,0,1,0,1,0,1,1,0,2,0,0,0,2,3,3,6,3,2,2,2,2,3,3,3,3,3,1,1,2,2,2,2,4,0
 220,Deceased Donor,Pancreas,US/State Govt Agency,51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,10,4,4,7,6,5,3,3,3,1,1,0,0,0,0
 221,Deceased Donor,Pancreas,Unknown,115,6,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,1,1,6,0,1,0,0,0,2,21,65
-223,Deceased Donor,Kidney / Pancreas,Donation,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0
-224,Deceased Donor,Kidney / Pancreas,Foreign Government Specify,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
-225,Deceased Donor,Kidney / Pancreas,Free Care,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,2,0,0,0,0,0,0
-226,Deceased Donor,Kidney / Pancreas,Private insurance,"3,967",0,0,1,0,0,0,2,0,1,0,3,3,3,1,5,0,0,1,26,423,457,477,522,516,435,392,425,258,12,3,0,1,0,0
-227,Deceased Donor,Kidney / Pancreas,Public insurance - Department of VA,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,1,0,0,0,0,0,0,0,0,0,0
-228,Deceased Donor,Kidney / Pancreas,Public insurance - Medicaid,335,0,0,0,2,0,1,0,1,0,0,1,0,0,0,0,0,0,0,1,47,39,25,32,36,40,44,50,13,2,1,0,0,0,0
-229,Deceased Donor,Kidney / Pancreas,Public insurance - Medicare & Choice,26,0,1,0,0,0,1,0,0,1,0,0,0,1,1,1,0,2,0,2,13,3,0,0,0,0,0,0,0,0,0,0,0,0,0
-230,Deceased Donor,Kidney / Pancreas,Public insurance - Medicare FFS (Fee for Service),12,0,1,1,0,0,0,0,0,0,0,0,0,2,0,0,0,3,0,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-231,Deceased Donor,Kidney / Pancreas,Public insurance - Medicare Unspecified,"3,396",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,397,369,384,364,394,354,386,405,297,9,3,3,5,2,1
-232,Deceased Donor,Kidney / Pancreas,Self,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3,7,11,6,5,5,5,2,0,1,0,0,0
-233,Deceased Donor,Kidney / Pancreas,US/State Govt Agency,99,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,14,18,6,10,7,11,9,11,0,0,0,0,0,0
-234,Deceased Donor,Kidney / Pancreas,Unknown,"17,568",68,825,870,833,789,796,717,708,759,801,791,825,848,835,858,923,897,880,816,5,2,1,2,0,4,13,16,160,636,486,448,453,333,170
 236,Deceased Donor,Heart,Donation,44,0,0,0,1,0,0,0,1,0,1,1,0,4,1,1,0,2,3,0,1,1,1,0,1,5,5,6,9,0,0,0,0,0,0
 237,Deceased Donor,Heart,Foreign Government Specify,174,0,19,18,10,16,12,12,6,9,6,6,5,1,2,7,4,2,0,5,4,4,8,7,2,1,2,4,2,0,0,0,0,0,0
 238,Deceased Donor,Heart,Free Care,255,0,10,4,0,2,0,0,1,11,15,14,5,4,5,6,9,19,11,11,9,10,11,8,18,13,15,20,21,2,1,0,0,0,0
@@ -71,63 +58,10 @@
 248,Deceased Donor,Heart,Self,465,0,10,20,14,7,8,12,11,9,6,8,15,19,24,22,22,14,11,14,12,44,14,21,29,15,23,28,23,0,1,0,2,5,2
 249,Deceased Donor,Heart,US/State Govt Agency,651,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,52,42,56,66,55,55,58,80,103,72,3,0,0,0,0,1
 250,Deceased Donor,Heart,Unknown,"13,364",167,113,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,74,74,100,118,799,"2,237","2,150","2,099","2,070","1,676","1,660"
-252,Deceased Donor,Lung,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-253,Deceased Donor,Lung,Donation,10,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0
-254,Deceased Donor,Lung,Foreign Government Specify,150,1,19,25,13,7,11,14,16,10,10,6,8,3,1,2,0,0,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-255,Deceased Donor,Lung,Free Care,132,0,0,1,0,0,4,8,0,10,7,3,2,3,2,3,1,11,9,7,4,2,5,4,7,9,15,14,1,0,0,0,0,0,0
-256,Deceased Donor,Lung,Pending,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-257,Deceased Donor,Lung,Private insurance,"21,543",19,972,"1,129","1,047","1,084","1,040",984,983,973,912,933,927,890,840,875,830,872,655,687,679,644,613,530,541,575,501,501,290,8,2,3,1,3,0
-258,Deceased Donor,Lung,Public insurance - CHIP (Children's Health Insurance Program),8,0,0,3,0,0,0,1,1,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-259,Deceased Donor,Lung,Public insurance - Department of VA,506,2,24,32,22,21,29,22,32,30,24,22,26,28,27,21,26,21,15,15,11,14,15,15,5,3,2,2,0,0,0,0,0,0,0
-260,Deceased Donor,Lung,Public insurance - Medicaid,"3,324",8,203,216,235,212,182,161,124,136,92,138,150,137,110,114,126,123,118,83,75,79,72,83,65,80,67,88,42,3,0,1,1,0,0
-261,Deceased Donor,Lung,Public insurance - Medicare & Choice,"5,934",14,702,669,569,544,538,407,358,377,321,332,241,177,184,118,168,140,74,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-262,Deceased Donor,Lung,Public insurance - Medicare FFS (Fee for Service),"6,545",22,495,578,589,531,481,432,389,369,363,369,377,382,276,304,221,210,150,4,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
-263,Deceased Donor,Lung,Public insurance - Medicare Unspecified,"1,842",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,102,236,230,254,197,184,167,159,118,134,55,4,1,1,0,0,0
-264,Deceased Donor,Lung,Public insurance - Other government,452,0,25,44,46,41,28,26,14,13,21,14,35,38,32,20,19,20,14,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
-265,Deceased Donor,Lung,Self,164,0,1,17,9,7,13,2,8,4,3,3,3,2,4,8,9,6,7,1,4,4,1,7,7,9,7,7,8,1,1,0,0,1,0
-266,Deceased Donor,Lung,US/State Govt Agency,281,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,33,24,35,35,29,28,31,23,19,13,0,0,0,0,0,0
-267,Deceased Donor,Lung,Unknown,"2,640",134,98,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,10,20,45,57,83,299,644,531,396,200,89,33
-269,Deceased Donor,Heart / Lung,Donation,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
-270,Deceased Donor,Heart / Lung,Free Care,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-271,Deceased Donor,Heart / Lung,Private insurance,587,0,29,25,16,13,13,11,18,11,17,18,24,13,17,17,23,21,29,18,23,21,31,32,31,34,23,38,20,1,0,0,0,0,0
-272,Deceased Donor,Heart / Lung,Public insurance - CHIP (Children's Health Insurance Program),1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-273,Deceased Donor,Heart / Lung,Public insurance - Department of VA,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-274,Deceased Donor,Heart / Lung,Public insurance - Medicaid,159,0,9,11,4,2,1,2,1,5,5,2,10,8,5,6,3,7,5,5,4,3,10,7,3,11,10,9,11,0,0,0,0,0,0
-275,Deceased Donor,Heart / Lung,Public insurance - Medicare & Choice,51,0,11,4,4,4,1,1,4,3,4,2,3,1,1,1,3,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-276,Deceased Donor,Heart / Lung,Public insurance - Medicare FFS (Fee for Service),67,0,6,5,8,9,1,0,0,4,2,4,4,7,3,6,2,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-277,Deceased Donor,Heart / Lung,Public insurance - Medicare Unspecified,63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,4,3,6,11,6,9,2,12,6,0,0,0,0,0,0
-278,Deceased Donor,Heart / Lung,Public insurance - Other government,7,0,0,0,0,0,2,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-279,Deceased Donor,Heart / Lung,Self,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,3,4,0,0,1,0,0,0,0,0,0
-280,Deceased Donor,Heart / Lung,US/State Govt Agency,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,3,3,1,0,1,0,0,0,0,0,0
-281,Deceased Donor,Heart / Lung,Unknown,401,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,10,31,59,48,51,52,67,74
-283,Deceased Donor,Intestine,Foreign Government Specify,110,0,1,7,3,12,8,8,10,5,5,6,8,5,7,2,1,4,1,1,2,2,5,1,1,0,2,1,1,0,0,1,0,0,0
-284,Deceased Donor,Intestine,Free Care,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
-285,Deceased Donor,Intestine,Private insurance,"1,337",1,40,37,42,41,49,52,58,46,44,57,60,64,70,85,77,84,73,55,53,46,39,39,26,24,17,22,10,13,4,6,3,0,0
-286,Deceased Donor,Intestine,Public insurance - CHIP (Children's Health Insurance Program),44,0,0,0,0,0,1,1,1,0,1,1,3,7,9,4,7,5,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-287,Deceased Donor,Intestine,Public insurance - Department of VA,12,0,0,0,2,0,2,1,0,0,1,0,1,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-288,Deceased Donor,Intestine,Public insurance - Medicaid,"1,144",0,23,23,39,38,54,49,45,35,42,41,44,77,75,82,66,62,51,43,39,41,28,21,35,32,9,14,9,13,11,2,1,0,0
-289,Deceased Donor,Intestine,Public insurance - Medicare & Choice,163,0,10,4,8,10,19,12,13,8,5,12,16,7,10,13,9,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-290,Deceased Donor,Intestine,Public insurance - Medicare FFS (Fee for Service),144,0,7,8,8,6,11,11,10,11,6,8,11,10,10,5,4,5,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-291,Deceased Donor,Intestine,Public insurance - Medicare Unspecified,58,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,10,7,14,4,6,3,4,1,4,1,0,3,0,0,0,0
-292,Deceased Donor,Intestine,Public insurance - Other government,26,0,1,2,1,1,2,2,1,1,2,2,4,2,0,1,1,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-293,Deceased Donor,Intestine,Self,52,0,3,0,1,0,1,3,0,2,0,1,3,4,4,4,4,4,1,0,0,1,1,1,1,5,1,2,1,2,2,0,0,0,0
-294,Deceased Donor,Intestine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-295,Deceased Donor,Intestine,US/State Govt Agency,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,8,2,3,2,0,1,1,0,0,0,0,0,0,0
-296,Deceased Donor,Intestine,Unknown,34,3,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,11,1,0,6,2,3,1,0,0
-298,Deceased Donor,Abdominal Wall,Unknown,20,0,0,0,1,0,0,1,0,0,1,4,0,1,0,0,0,1,1,2,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0
-300,Deceased Donor,Head & Neck: Craniofacial,Unknown,18,1,1,1,2,1,1,1,3,1,1,3,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-302,Deceased Donor,Head & Neck: Scalp,Unknown,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-304,Deceased Donor,Head & Neck: Larynx,Unknown,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-306,Deceased Donor,GU: Penile,Unknown,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-308,Deceased Donor,GU: Uterus,Unknown,12,0,1,6,1,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-310,Deceased Donor,Upper Limb: Bilateral,Unknown,17,0,0,1,1,1,3,1,1,0,2,3,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-312,Deceased Donor,Upper Limb: Unilateral,Unknown,18,0,0,1,0,0,2,1,1,0,2,3,2,1,2,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
-314,Deceased Donor,"Bilateral Limb, Face",Unknown,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 332,Living Donor,Kidney,Donation,44,0,1,0,1,1,1,2,1,1,1,1,1,0,1,1,2,2,1,3,3,5,1,5,3,2,1,2,1,0,0,0,0,0,0
 333,Living Donor,Kidney,Foreign Government Specify,250,0,8,16,28,13,17,27,29,10,7,10,5,4,6,1,2,5,3,2,6,17,11,9,6,4,1,1,1,0,1,0,0,0,0
 334,Living Donor,Kidney,Free Care,98,1,0,1,1,0,2,2,3,2,4,4,2,3,2,8,12,6,8,4,8,5,7,3,1,2,2,1,3,0,0,0,1,0,0
 335,Living Donor,Kidney,Pending,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-336,Living Donor,Kidney,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 337,Living Donor,Kidney,Private insurance,"84,931",132,"2,878","3,712","3,440","3,275","3,132","3,183","3,109","3,271","3,286","3,302","3,624","3,772","3,552","3,555","3,747","3,791","3,836","3,811","3,628","3,488","3,356","2,846","2,501","2,023","1,870","1,613","1,083",72,12,17,5,2,7
 338,Living Donor,Kidney,Public insurance - CHIP (Children's Health Insurance Program),148,0,15,5,7,6,8,4,5,1,5,5,5,7,16,23,12,11,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 339,Living Donor,Kidney,Public insurance - Department of VA,650,0,24,51,26,31,35,14,24,29,24,29,31,32,31,39,50,33,26,28,26,26,19,10,2,6,2,0,1,0,0,0,0,1,0
@@ -157,29 +91,8 @@
 365,Living Donor,Pancreas,Public insurance - Medicaid,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
 366,Living Donor,Pancreas,Self,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0
 367,Living Donor,Pancreas,Unknown,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5
-369,Living Donor,Kidney / Pancreas,Private insurance,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,3,2,6,7,6,2,0,0,0,0,0,0
-370,Living Donor,Kidney / Pancreas,Public insurance - Medicaid,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
-371,Living Donor,Kidney / Pancreas,Public insurance - Medicare Unspecified,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,3,0,0,2,0,0,0,0,0,0,0,0
-372,Living Donor,Kidney / Pancreas,Unknown,5,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 374,Living Donor,Heart,Private insurance,3,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
 375,Living Donor,Heart,Public insurance - Medicaid,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
 376,Living Donor,Heart,Public insurance - Medicare FFS (Fee for Service),1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 377,Living Donor,Heart,Public insurance - Medicare Unspecified,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
-378,Living Donor,Heart,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 379,Living Donor,Heart,Unknown,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,4,12,8,7
-381,Living Donor,Lung,Foreign Government Specify,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-382,Living Donor,Lung,Free Care,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
-383,Living Donor,Lung,Private insurance,188,0,0,0,0,0,0,0,0,1,1,1,0,1,0,2,2,1,12,13,12,20,13,24,22,15,19,20,9,0,0,0,0,0,0
-384,Living Donor,Lung,Public insurance - Medicaid,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,2,1,2,0,1,5,4,1,0,5,1,0,0,0,0,0
-385,Living Donor,Lung,Public insurance - Medicare & Choice,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-386,Living Donor,Lung,Public insurance - Medicare Unspecified,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0,0
-387,Living Donor,Lung,Public insurance - Other government,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-388,Living Donor,Lung,Self,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0,0,2,3,0,0,0,0,0,0,0
-389,Living Donor,Lung,US/State Govt Agency,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,1,0,1,1,0,0,0,0,0,0,0
-390,Living Donor,Lung,Unknown,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,6,0,4,1,0,0
-392,Living Donor,Intestine,Free Care,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
-393,Living Donor,Intestine,Private insurance,22,0,0,0,0,1,0,2,1,1,0,0,0,2,0,0,3,3,1,2,1,0,0,1,2,1,1,0,0,0,0,0,0,0,0
-394,Living Donor,Intestine,Public insurance - Medicaid,19,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,4,5,2,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0
-395,Living Donor,Intestine,Public insurance - Medicare Unspecified,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
-396,Living Donor,Intestine,Unknown,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
-398,Living Donor,GU: Uterus,Unknown,19,0,1,6,6,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
