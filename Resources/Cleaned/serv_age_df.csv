@@ -1,0 +1,98 @@
+Region,Organ,Recipient_Age,Years_Post_Transplant,Number_Functioning_or_Alive,Survival_Rate
+U.S.,Heart,< 1 Year,1 Year,405,87.4
+U.S.,Heart,1-5 Years,1 Year,345,92.4
+U.S.,Heart,6-10 Years,1 Year,223,91.9
+U.S.,Heart,11-17 Years,1 Year,507,96.6
+U.S.,Heart,18-34 Years,1 Year,838,90.9
+U.S.,Heart,35-49 Years,1 Year,1588,90.6
+U.S.,Heart,50-64 Years,1 Year,3894,90.4
+U.S.,Heart,65 +,1 Year,1512,88.2
+U.S.,Heart,< 1 Year,3 Year,362,83.9
+U.S.,Heart,1-5 Years,3 Year,282,85
+U.S.,Heart,6-10 Years,3 Year,186,87
+U.S.,Heart,11-17 Years,3 Year,458,91.5
+U.S.,Heart,18-34 Years,3 Year,722,82.1
+U.S.,Heart,35-49 Years,3 Year,1398,84.8
+U.S.,Heart,50-64 Years,3 Year,3373,84.8
+U.S.,Heart,65 +,3 Year,1190,82.1
+U.S.,Heart,< 1 Year,5 Year,316,75
+U.S.,Heart,1-5 Years,5 Year,257,78.1
+U.S.,Heart,6-10 Years,5 Year,166,84.1
+U.S.,Heart,11-17 Years,5 Year,356,78.4
+U.S.,Heart,18-34 Years,5 Year,596,72.3
+U.S.,Heart,35-49 Years,5 Year,1230,78.1
+U.S.,Heart,50-64 Years,5 Year,2964,78.3
+U.S.,Heart,65 +,5 Year,879,75.4
+U.S.,Kidney,1-5 Years,1 Year,649,95.2
+U.S.,Kidney,6-10 Years,1 Year,525,96.4
+U.S.,Kidney,11-17 Years,1 Year,1602,97
+U.S.,Kidney,18-34 Years,1 Year,8394,96.5
+U.S.,Kidney,35-49 Years,1 Year,16585,95.7
+U.S.,Kidney,50-64 Years,1 Year,24987,94.5
+U.S.,Kidney,65 +,1 Year,11317,91.7
+U.S.,Kidney,1-5 Years,3 Year,631,92.6
+U.S.,Kidney,6-10 Years,3 Year,501,94.2
+U.S.,Kidney,11-17 Years,3 Year,1440,89.8
+U.S.,Kidney,18-34 Years,3 Year,6942,88.1
+U.S.,Kidney,35-49 Years,3 Year,14753,90.3
+U.S.,Kidney,50-64 Years,3 Year,22407,87.9
+U.S.,Kidney,65 +,3 Year,9338,82.2
+U.S.,Kidney,1-5 Years,5 Year,525,87.7
+U.S.,Kidney,6-10 Years,5 Year,483,88
+U.S.,Kidney,11-17 Years,5 Year,1246,78.2
+U.S.,Kidney,18-34 Years,5 Year,5974,79.4
+U.S.,Kidney,35-49 Years,5 Year,13268,82.9
+U.S.,Kidney,50-64 Years,5 Year,18835,78.3
+U.S.,Kidney,65 +,5 Year,6998,69.7
+U.S.,Kidney / Pancreas,18-34 Years,1 Year,674,95.5
+U.S.,Kidney / Pancreas,35-49 Years,1 Year,1558,96
+U.S.,Kidney / Pancreas,50-64 Years,1 Year,608,95.4
+U.S.,Kidney / Pancreas,18-34 Years,3 Year,583,85.6
+U.S.,Kidney / Pancreas,35-49 Years,3 Year,1572,90
+U.S.,Kidney / Pancreas,50-64 Years,3 Year,604,92.1
+U.S.,Kidney / Pancreas,18-34 Years,5 Year,487,75.3
+U.S.,Kidney / Pancreas,35-49 Years,5 Year,1465,82.5
+U.S.,Kidney / Pancreas,50-64 Years,5 Year,549,83.7
+U.S.,Liver,< 1 Year,1 Year,477,86.7
+U.S.,Liver,1-5 Years,1 Year,747,89
+U.S.,Liver,6-10 Years,1 Year,274,92.7
+U.S.,Liver,11-17 Years,1 Year,429,92.7
+U.S.,Liver,18-34 Years,1 Year,1297,90.9
+U.S.,Liver,35-49 Years,1 Year,3515,90.1
+U.S.,Liver,50-64 Years,1 Year,13160,89.1
+U.S.,Liver,65 +,1 Year,3490,86.6
+U.S.,Liver,< 1 Year,3 Year,495,83.3
+U.S.,Liver,1-5 Years,3 Year,656,83.7
+U.S.,Liver,6-10 Years,3 Year,245,86.6
+U.S.,Liver,11-17 Years,3 Year,393,88
+U.S.,Liver,18-34 Years,3 Year,1045,81.3
+U.S.,Liver,35-49 Years,3 Year,3108,82.1
+U.S.,Liver,50-64 Years,3 Year,11362,79.8
+U.S.,Liver,65 +,3 Year,2390,75.2
+U.S.,Liver,< 1 Year,5 Year,521,80
+U.S.,Liver,1-5 Years,5 Year,665,78.9
+U.S.,Liver,6-10 Years,5 Year,269,87.9
+U.S.,Liver,11-17 Years,5 Year,323,80.9
+U.S.,Liver,18-34 Years,5 Year,938,72.7
+U.S.,Liver,35-49 Years,5 Year,3012,75
+U.S.,Liver,50-64 Years,5 Year,9780,70.9
+U.S.,Liver,65 +,5 Year,1753,65.9
+U.S.,Pancreas,< 1 Year,1 Year,14,87.5
+U.S.,Pancreas,1-5 Years,1 Year,63,78.8
+U.S.,Pancreas,6-10 Years,1 Year,14,88.2
+U.S.,Pancreas,11-17 Years,1 Year,10,71.4
+U.S.,Pancreas,18-34 Years,1 Year,144,79.1
+U.S.,Pancreas,35-49 Years,1 Year,326,81.9
+U.S.,Pancreas,50-64 Years,1 Year,208,81.9
+U.S.,Pancreas,< 1 Year,3 Year,14,63.6
+U.S.,Pancreas,1-5 Years,3 Year,43,69.4
+U.S.,Pancreas,11-17 Years,3 Year,10,62.5
+U.S.,Pancreas,18-34 Years,3 Year,117,59.1
+U.S.,Pancreas,35-49 Years,3 Year,362,72.3
+U.S.,Pancreas,50-64 Years,3 Year,214,75.4
+U.S.,Pancreas,< 1 Year,5 Year,32,58.2
+U.S.,Pancreas,1-5 Years,5 Year,52,55.7
+U.S.,Pancreas,6-10 Years,5 Year,13,65
+U.S.,Pancreas,18-34 Years,5 Year,115,44.7
+U.S.,Pancreas,35-49 Years,5 Year,396,63.1
+U.S.,Pancreas,50-64 Years,5 Year,184,62.4

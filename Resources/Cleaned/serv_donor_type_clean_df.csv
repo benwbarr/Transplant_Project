@@ -1,0 +1,13 @@
+Region,Organ,Donor_Type,Years_Post_Transplant,Number_Functioning_or_Alive,Survival_Rate
+U.S.,Kidney,Cadaveric,1 Year,42355,93.2
+U.S.,Kidney,Living,1 Year,21709,97.5
+U.S.,Kidney,Cadaveric,3 Year,35404,85.1
+U.S.,Kidney,Living,3 Year,20611,92.5
+U.S.,Kidney,Cadaveric,5 Year,28612,74.4
+U.S.,Kidney,Living,5 Year,18723,85.6
+U.S.,Liver,Cadaveric,1 Year,22397,89.1
+U.S.,Liver,Living,1 Year,992,88
+U.S.,Liver,Cadaveric,3 Year,18876,80
+U.S.,Liver,Living,3 Year,818,82
+U.S.,Liver,Cadaveric,5 Year,16520,71.9
+U.S.,Liver,Living,5 Year,741,77.3
