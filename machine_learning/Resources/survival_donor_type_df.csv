@@ -1,0 +1,13 @@
+_id,Region,Organ,Donor_Type,Years_Post_Transplant,Number_Functioning_or_Alive,Survival_Rate
+6032c5d337ca244bc48d66db,U.S.,Kidney,Cadaveric,1 Year,42355,93.2
+6032c5d337ca244bc48d66dc,U.S.,Kidney,Living,1 Year,21709,97.5
+6032c5d337ca244bc48d66dd,U.S.,Kidney,Cadaveric,3 Year,35404,85.1
+6032c5d337ca244bc48d66de,U.S.,Kidney,Living,3 Year,20611,92.5
+6032c5d337ca244bc48d66df,U.S.,Kidney,Cadaveric,5 Year,28612,74.4
+6032c5d337ca244bc48d66e0,U.S.,Kidney,Living,5 Year,18723,85.6
+6032c5d337ca244bc48d66e1,U.S.,Liver,Cadaveric,1 Year,22397,89.1
+6032c5d337ca244bc48d66e2,U.S.,Liver,Living,1 Year,992,88
+6032c5d337ca244bc48d66e3,U.S.,Liver,Cadaveric,3 Year,18876,80
+6032c5d337ca244bc48d66e4,U.S.,Liver,Living,3 Year,818,82
+6032c5d337ca244bc48d66e5,U.S.,Liver,Cadaveric,5 Year,16520,71.9
+6032c5d337ca244bc48d66e6,U.S.,Liver,Living,5 Year,741,77.3

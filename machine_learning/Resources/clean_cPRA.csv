@@ -1,1418 +1,1150 @@
 ,Med. Center,cPRA Range,Kidney,Liver,Pancreas,Kidney / Pancreas,Heart
-7,ALCH-TX1 Children's of Alabama,Total,15,2,0,0,6
 8,ALCH-TX1 Children's of Alabama,0,9,0,0,0,0
 9,ALCH-TX1 Children's of Alabama,20-79,1,0,0,0,0
 10,ALCH-TX1 Children's of Alabama,98-100,5,0,0,0,0
-12,ALUA-TX1 University of Alabama Hospital,Total,"1,031",102,5,9,15
 13,ALUA-TX1 University of Alabama Hospital,0,622,0,3,7,0
 14,ALUA-TX1 University of Alabama Hospital,1-19,46,0,0,0,0
 15,ALUA-TX1 University of Alabama Hospital,20-79,196,0,0,1,0
 16,ALUA-TX1 University of Alabama Hospital,80-97,53,0,2,0,0
 17,ALUA-TX1 University of Alabama Hospital,98-100,114,0,0,1,0
-19,ALVA-TX1 Birmingham VA Medical Center,Total,55,0,0,0,0
 20,ALVA-TX1 Birmingham VA Medical Center,0,44,0,0,0,0
 21,ALVA-TX1 Birmingham VA Medical Center,1-19,3,0,0,0,0
 22,ALVA-TX1 Birmingham VA Medical Center,20-79,7,0,0,0,0
 23,ALVA-TX1 Birmingham VA Medical Center,80-97,1,0,0,0,0
-24,ARBH-TX1 Baptist Medical Center,Total,0,0,0,0,28
-26,ARCH-TX1 Arkansas Children's Hospital,Total,4,0,0,0,2
 27,ARCH-TX1 Arkansas Children's Hospital,0,1,0,0,0,0
 28,ARCH-TX1 Arkansas Children's Hospital,1-19,3,0,0,0,0
-30,ARUA-TX1 UAMS Medical Center,Total,179,31,0,0,0
 31,ARUA-TX1 UAMS Medical Center,0,43,0,0,0,0
 32,ARUA-TX1 UAMS Medical Center,1-19,25,0,0,0,0
 33,ARUA-TX1 UAMS Medical Center,20-79,48,0,0,0,0
 34,ARUA-TX1 UAMS Medical Center,80-97,27,0,0,0,0
 35,ARUA-TX1 UAMS Medical Center,98-100,36,0,0,0,0
-37,AZCH-TX1 Phoenix Children's Hospital,Total,19,6,0,0,4
 38,AZCH-TX1 Phoenix Children's Hospital,0,8,0,0,0,0
 39,AZCH-TX1 Phoenix Children's Hospital,1-19,4,0,0,0,0
 40,AZCH-TX1 Phoenix Children's Hospital,20-79,3,0,0,0,0
 41,AZCH-TX1 Phoenix Children's Hospital,98-100,4,0,0,0,0
-44,AZGS-TX1 Banner-University Medical Center Phoenix,Total,379,28,3,2,6
 45,AZGS-TX1 Banner-University Medical Center Phoenix,0,171,0,1,2,0
 46,AZGS-TX1 Banner-University Medical Center Phoenix,1-19,73,0,2,0,0
 47,AZGS-TX1 Banner-University Medical Center Phoenix,20-79,90,0,0,0,0
 48,AZGS-TX1 Banner-University Medical Center Phoenix,80-97,18,0,0,0,0
 49,AZGS-TX1 Banner-University Medical Center Phoenix,98-100,27,0,0,0,0
-51,AZHH-TX1 Phoenix Regional Medical Center,Total,11,0,0,0,0
 52,AZHH-TX1 Phoenix Regional Medical Center,0,4,0,0,0,0
 53,AZHH-TX1 Phoenix Regional Medical Center,1-19,1,0,0,0,0
 54,AZHH-TX1 Phoenix Regional Medical Center,20-79,5,0,0,0,0
 55,AZHH-TX1 Phoenix Regional Medical Center,80-97,1,0,0,0,0
-56,AZMC-TX1 Mayo Clinic Hospital,Total,763,135,2,16,18
 57,AZMC-TX1 Mayo Clinic Hospital,0,475,0,1,11,0
 58,AZMC-TX1 Mayo Clinic Hospital,1-19,122,0,0,3,0
 59,AZMC-TX1 Mayo Clinic Hospital,20-79,96,0,1,1,0
 60,AZMC-TX1 Mayo Clinic Hospital,80-97,35,0,0,0,0
 61,AZMC-TX1 Mayo Clinic Hospital,98-100,35,0,0,1,0
-63,AZSJ-TX1 St. Joseph's Hospital and Medical Center,Total,102,22,0,0,0
 64,AZSJ-TX1 St. Joseph's Hospital and Medical Center,0,71,0,0,0,0
 65,AZSJ-TX1 St. Joseph's Hospital and Medical Center,1-19,14,0,0,0,0
 66,AZSJ-TX1 St. Joseph's Hospital and Medical Center,20-79,8,0,0,0,0
 67,AZSJ-TX1 St. Joseph's Hospital and Medical Center,80-97,8,0,0,0,0
 68,AZSJ-TX1 St. Joseph's Hospital and Medical Center,98-100,1,0,0,0,0
-70,AZSM-TX1 Scottsdale Healthcare Osborn,Total,10,0,0,0,0
 71,AZSM-TX1 Scottsdale Healthcare Osborn,0,9,0,0,0,0
 72,AZSM-TX1 Scottsdale Healthcare Osborn,20-79,1,0,0,0,0
-73,AZUA-TX1 Banner University Medical Center-Tucson,Total,114,9,0,1,1
 74,AZUA-TX1 Banner University Medical Center-Tucson,0,60,0,0,0,0
 75,AZUA-TX1 Banner University Medical Center-Tucson,1-19,14,0,0,0,0
 76,AZUA-TX1 Banner University Medical Center-Tucson,20-79,18,0,0,1,0
 77,AZUA-TX1 Banner University Medical Center-Tucson,80-97,9,0,0,0,0
 78,AZUA-TX1 Banner University Medical Center-Tucson,98-100,13,0,0,0,0
-80,CABE-TX1 Saint Bernardine Medical Center,Total,1,0,0,0,0
 81,CABE-TX1 Saint Bernardine Medical Center,0,1,0,0,0,0
-82,CACH-TX1 Rady Children's Hospital and Health Center,Total,31,0,0,0,4
 83,CACH-TX1 Rady Children's Hospital and Health Center,0,26,0,0,0,0
 85,CACH-TX1 Rady Children's Hospital and Health Center,1-19,4,0,0,0,0
 86,CACH-TX1 Rady Children's Hospital and Health Center,80-97,1,0,0,0,0
-88,CACL-TX1 Childrens Hospital Los Angeles,Total,28,31,0,0,8
 89,CACL-TX1 Childrens Hospital Los Angeles,0,24,0,0,0,0
 90,CACL-TX1 Childrens Hospital Los Angeles,1-19,1,0,0,0,0
 91,CACL-TX1 Childrens Hospital Los Angeles,20-79,1,0,0,0,0
 92,CACL-TX1 Childrens Hospital Los Angeles,80-97,1,0,0,0,0
 93,CACL-TX1 Childrens Hospital Los Angeles,98-100,1,0,0,0,0
-95,CACS-TX1 Cedars-Sinai Medical Center,Total,"1,192",132,3,12,92
 96,CACS-TX1 Cedars-Sinai Medical Center,0,835,0,2,7,0
 97,CACS-TX1 Cedars-Sinai Medical Center,1-19,97,0,0,0,0
 98,CACS-TX1 Cedars-Sinai Medical Center,20-79,133,0,1,2,0
 99,CACS-TX1 Cedars-Sinai Medical Center,80-97,71,0,0,2,0
 100,CACS-TX1 Cedars-Sinai Medical Center,98-100,56,0,0,1,0
-102,CAGH-TX1 Scripps Green Hospital,Total,417,55,3,10,0
 103,CAGH-TX1 Scripps Green Hospital,0,250,0,2,8,0
 104,CAGH-TX1 Scripps Green Hospital,1-19,34,0,0,0,0
 105,CAGH-TX1 Scripps Green Hospital,20-79,80,0,1,0,0
 106,CAGH-TX1 Scripps Green Hospital,80-97,24,0,0,0,0
 107,CAGH-TX1 Scripps Green Hospital,98-100,29,0,0,2,0
-109,CAIM-TX1 University of California Irvine Medical Center,Total,738,0,0,5,0
 110,CAIM-TX1 University of California Irvine Medical Center,0,552,0,0,2,0
 111,CAIM-TX1 University of California Irvine Medical Center,1-19,72,0,0,0,0
 112,CAIM-TX1 University of California Irvine Medical Center,20-79,71,0,0,1,0
 113,CAIM-TX1 University of California Irvine Medical Center,80-97,24,0,0,1,0
 114,CAIM-TX1 University of California Irvine Medical Center,98-100,19,0,0,1,0
-115,CALA-TX1 Harbor UCLA Medical Center,Total,509,0,0,0,0
 116,CALA-TX1 Harbor UCLA Medical Center,0,309,0,0,0,0
 117,CALA-TX1 Harbor UCLA Medical Center,1-19,43,0,0,0,0
 118,CALA-TX1 Harbor UCLA Medical Center,20-79,92,0,0,0,0
 119,CALA-TX1 Harbor UCLA Medical Center,80-97,35,0,0,0,0
 120,CALA-TX1 Harbor UCLA Medical Center,98-100,30,0,0,0,0
-121,CALB-TX1 St Mary Medical Center,Total,1,0,0,0,0
 122,CALB-TX1 St Mary Medical Center,0,1,0,0,0,0
-123,CALL-TX1 Loma Linda University Medical Center,Total,"1,363",99,5,28,18
 124,CALL-TX1 Loma Linda University Medical Center,0,918,0,2,17,0
 125,CALL-TX1 Loma Linda University Medical Center,1-19,175,0,0,5,0
 127,CALL-TX1 Loma Linda University Medical Center,20-79,184,0,2,4,0
 128,CALL-TX1 Loma Linda University Medical Center,80-97,48,0,0,1,0
 129,CALL-TX1 Loma Linda University Medical Center,98-100,38,0,1,1,0
-131,CAMB-TX1 UCSF Medical Center at Mission Bay,Total,53,6,0,0,0
 132,CAMB-TX1 UCSF Medical Center at Mission Bay,0,34,0,0,0,0
 133,CAMB-TX1 UCSF Medical Center at Mission Bay,1-19,6,0,0,0,0
 134,CAMB-TX1 UCSF Medical Center at Mission Bay,20-79,11,0,0,0,0
 135,CAMB-TX1 UCSF Medical Center at Mission Bay,80-97,1,0,0,0,0
 136,CAMB-TX1 UCSF Medical Center at Mission Bay,98-100,1,0,0,0,0
-138,CAPC-TX1 Lucile Salter Packard Children's Hospital at Stanford,Total,137,14,3,0,11
 139,CAPC-TX1 Lucile Salter Packard Children's Hospital at Stanford,0,58,0,3,0,0
 140,CAPC-TX1 Lucile Salter Packard Children's Hospital at Stanford,1-19,40,0,0,0,0
 141,CAPC-TX1 Lucile Salter Packard Children's Hospital at Stanford,20-79,28,0,0,0,0
 142,CAPC-TX1 Lucile Salter Packard Children's Hospital at Stanford,80-97,3,0,0,0,0
 143,CAPC-TX1 Lucile Salter Packard Children's Hospital at Stanford,98-100,8,0,0,0,0
-145,CAPM-TX1 California Pacific Medical Center-Van Ness Campus,Total,"1,879",245,2,30,8
 146,CAPM-TX1 California Pacific Medical Center-Van Ness Campus,0,"1,283",0,1,23,0
 147,CAPM-TX1 California Pacific Medical Center-Van Ness Campus,1-19,181,0,0,2,0
 148,CAPM-TX1 California Pacific Medical Center-Van Ness Campus,20-79,243,0,0,4,0
 149,CAPM-TX1 California Pacific Medical Center-Van Ness Campus,80-97,115,0,1,1,0
 150,CAPM-TX1 California Pacific Medical Center-Van Ness Campus,98-100,57,0,0,0,0
-152,CASD-TX1 University of California San Diego Medical Center,Total,807,136,0,0,36
 153,CASD-TX1 University of California San Diego Medical Center,0,543,0,0,0,0
 154,CASD-TX1 University of California San Diego Medical Center,1-19,100,0,0,0,0
 155,CASD-TX1 University of California San Diego Medical Center,20-79,85,0,0,0,0
 156,CASD-TX1 University of California San Diego Medical Center,80-97,43,0,0,0,0
 157,CASD-TX1 University of California San Diego Medical Center,98-100,36,0,0,0,0
-159,CASF-TX1 University of California San Francisco Medical Center,Total,"4,667",585,19,100,24
 160,CASF-TX1 University of California San Francisco Medical Center,0,"2,791",0,10,63,0
 161,CASF-TX1 University of California San Francisco Medical Center,1-19,538,0,2,8,0
 162,CASF-TX1 University of California San Francisco Medical Center,20-79,853,0,4,18,0
 163,CASF-TX1 University of California San Francisco Medical Center,80-97,252,0,0,4,0
 164,CASF-TX1 University of California San Francisco Medical Center,98-100,233,0,3,7,0
-166,CASG-TX1 Sutter Medical Center Sacramento,Total,0,0,0,0,9
-169,CASH-TX1 Sharp Memorial Hospital,Total,550,0,3,16,11
 170,CASH-TX1 Sharp Memorial Hospital,0,355,0,3,12,0
 171,CASH-TX1 Sharp Memorial Hospital,1-19,63,0,0,3,0
 172,CASH-TX1 Sharp Memorial Hospital,20-79,94,0,0,1,0
 173,CASH-TX1 Sharp Memorial Hospital,80-97,22,0,0,0,0
 174,CASH-TX1 Sharp Memorial Hospital,98-100,16,0,0,0,0
-176,CASJ-TX1 Saint Joseph Hospital,Total,357,0,0,0,0
 177,CASJ-TX1 Saint Joseph Hospital,0,191,0,0,0,0
 178,CASJ-TX1 Saint Joseph Hospital,1-19,47,0,0,0,0
 179,CASJ-TX1 Saint Joseph Hospital,20-79,66,0,0,0,0
 180,CASJ-TX1 Saint Joseph Hospital,80-97,28,0,0,0,0
 181,CASJ-TX1 Saint Joseph Hospital,98-100,25,0,0,0,0
-182,CASM-TX1 University of California Davis Medical Center,Total,"1,665",0,0,3,0
 183,CASM-TX1 University of California Davis Medical Center,0,997,0,0,3,0
 184,CASM-TX1 University of California Davis Medical Center,1-19,149,0,0,0,0
 185,CASM-TX1 University of California Davis Medical Center,20-79,330,0,0,0,0
 186,CASM-TX1 University of California Davis Medical Center,80-97,105,0,0,0,0
 187,CASM-TX1 University of California Davis Medical Center,98-100,84,0,0,0,0
-188,CASU-TX1 Stanford Health Care,Total,"1,834",224,1,9,17
 189,CASU-TX1 Stanford Health Care,0,602,0,1,4,0
 190,CASU-TX1 Stanford Health Care,1-19,500,0,0,2,0
 191,CASU-TX1 Stanford Health Care,20-79,499,0,0,3,0
 192,CASU-TX1 Stanford Health Care,80-97,116,0,0,0,0
 193,CASU-TX1 Stanford Health Care,98-100,117,0,0,0,0
-195,CASV-TX1 St. Vincent Medical Center,Total,1,0,0,0,0
 196,CASV-TX1 St. Vincent Medical Center,0,1,0,0,0,0
-197,CAUC-TX1 University of California at Los Angeles Medical Center,Total,"1,930",502,21,6,28
 198,CAUC-TX1 University of California at Los Angeles Medical Center,0,"1,406",0,15,2,0
 199,CAUC-TX1 University of California at Los Angeles Medical Center,1-19,129,0,1,0,0
 200,CAUC-TX1 University of California at Los Angeles Medical Center,20-79,271,0,4,3,0
 201,CAUC-TX1 University of California at Los Angeles Medical Center,80-97,66,0,1,1,0
 202,CAUC-TX1 University of California at Los Angeles Medical Center,98-100,58,0,0,0,0
-204,CAUH-TX1 Keck Hospital of USC,Total,"1,400",242,1,4,19
 205,CAUH-TX1 Keck Hospital of USC,0,"1,098",0,0,3,0
 206,CAUH-TX1 Keck Hospital of USC,1-19,69,0,0,0,0
 207,CAUH-TX1 Keck Hospital of USC,20-79,150,0,1,1,0
 208,CAUH-TX1 Keck Hospital of USC,80-97,48,0,0,0,0
 209,CAUH-TX1 Keck Hospital of USC,98-100,35,0,0,0,0
-212,COCH-TX1 Children's Hospital Colorado,Total,27,4,0,0,11
 213,COCH-TX1 Children's Hospital Colorado,0,25,0,0,0,0
 214,COCH-TX1 Children's Hospital Colorado,1-19,1,0,0,0,0
 215,COCH-TX1 Children's Hospital Colorado,80-97,1,0,0,0,0
-217,COPM-TX1 Centura Transplant,Total,115,17,0,0,0
 218,COPM-TX1 Centura Transplant,0,90,0,0,0,0
 219,COPM-TX1 Centura Transplant,1-19,7,0,0,0,0
 220,COPM-TX1 Centura Transplant,20-79,9,0,0,0,0
 221,COPM-TX1 Centura Transplant,80-97,4,0,0,0,0
 222,COPM-TX1 Centura Transplant,98-100,5,0,0,0,0
-224,COSL-TX1 Presbyterian/St Luke's Medical Center,Total,349,68,0,0,0
 225,COSL-TX1 Presbyterian/St Luke's Medical Center,0,289,0,0,0,0
 226,COSL-TX1 Presbyterian/St Luke's Medical Center,1-19,8,0,0,0,0
 227,COSL-TX1 Presbyterian/St Luke's Medical Center,20-79,27,0,0,0,0
 228,COSL-TX1 Presbyterian/St Luke's Medical Center,80-97,12,0,0,0,0
 229,COSL-TX1 Presbyterian/St Luke's Medical Center,98-100,13,0,0,0,0
-231,COUC-TX1 University of Colorado Hospital/Health Science Center,Total,849,114,12,24,48
 232,COUC-TX1 University of Colorado Hospital/Health Science Center,0,710,0,12,24,0
 233,COUC-TX1 University of Colorado Hospital/Health Science Center,1-19,13,0,0,0,0
 234,COUC-TX1 University of Colorado Hospital/Health Science Center,20-79,67,0,0,0,0
 235,COUC-TX1 University of Colorado Hospital/Health Science Center,80-97,30,0,0,0,0
 236,COUC-TX1 University of Colorado Hospital/Health Science Center,98-100,29,0,0,0,0
-238,CTHH-TX1 Hartford Hospital,Total,389,52,0,0,16
 239,CTHH-TX1 Hartford Hospital,0,292,0,0,0,0
 240,CTHH-TX1 Hartford Hospital,1-19,21,0,0,0,0
 241,CTHH-TX1 Hartford Hospital,20-79,41,0,0,0,0
 242,CTHH-TX1 Hartford Hospital,80-97,19,0,0,0,0
 243,CTHH-TX1 Hartford Hospital,98-100,16,0,0,0,0
-245,CTYN-TX1 Yale New Haven Hospital,Total,607,133,2,1,43
 246,CTYN-TX1 Yale New Haven Hospital,0,437,0,1,0,0
 247,CTYN-TX1 Yale New Haven Hospital,1-19,48,0,0,1,0
 248,CTYN-TX1 Yale New Haven Hospital,20-79,69,0,1,0,0
 249,CTYN-TX1 Yale New Haven Hospital,80-97,18,0,0,0,0
 250,CTYN-TX1 Yale New Haven Hospital,98-100,35,0,0,0,0
-253,DCCH-TX1 Children's National Medical Center,Total,25,0,0,0,3
 254,DCCH-TX1 Children's National Medical Center,0,14,0,0,0,0
 255,DCCH-TX1 Children's National Medical Center,1-19,4,0,0,0,0
 256,DCCH-TX1 Children's National Medical Center,20-79,6,0,0,0,0
 257,DCCH-TX1 Children's National Medical Center,80-97,1,0,0,0,0
-259,DCGU-TX1 Medstar Georgetown Transplant Institute,Total,746,241,24,42,0
 260,DCGU-TX1 Medstar Georgetown Transplant Institute,0,410,0,7,20,0
 261,DCGU-TX1 Medstar Georgetown Transplant Institute,1-19,113,0,3,4,0
 262,DCGU-TX1 Medstar Georgetown Transplant Institute,20-79,148,0,5,12,0
 263,DCGU-TX1 Medstar Georgetown Transplant Institute,80-97,35,0,4,2,0
 264,DCGU-TX1 Medstar Georgetown Transplant Institute,98-100,40,0,5,4,0
-266,DCGW-TX1 George Washington University Hospital,Total,270,0,0,0,0
 267,DCGW-TX1 George Washington University Hospital,0,141,0,0,0,0
 268,DCGW-TX1 George Washington University Hospital,1-19,12,0,0,0,0
 269,DCGW-TX1 George Washington University Hospital,20-79,76,0,0,0,0
 270,DCGW-TX1 George Washington University Hospital,80-97,17,0,0,0,0
 271,DCGW-TX1 George Washington University Hospital,98-100,24,0,0,0,0
-272,DCWH-TX1 Washington Hospital Center,Total,0,0,0,0,35
-274,DCWR-TX1 Walter Reed National Military Medical Center at Bethesda,Total,231,0,4,0,0
 275,DCWR-TX1 Walter Reed National Military Medical Center at Bethesda,0,117,0,3,0,0
 276,DCWR-TX1 Walter Reed National Military Medical Center at Bethesda,1-19,25,0,0,0,0
 277,DCWR-TX1 Walter Reed National Military Medical Center at Bethesda,20-79,46,0,0,0,0
 278,DCWR-TX1 Walter Reed National Military Medical Center at Bethesda,80-97,20,0,1,0,0
 279,DCWR-TX1 Walter Reed National Military Medical Center at Bethesda,98-100,23,0,0,0,0
-280,DEAI-TX1 Alfred I duPont Hospital for Children,Total,12,5,0,0,1
 281,DEAI-TX1 Alfred I duPont Hospital for Children,0,8,0,0,0,0
 282,DEAI-TX1 Alfred I duPont Hospital for Children,1-19,1,0,0,0,0
 283,DEAI-TX1 Alfred I duPont Hospital for Children,20-79,2,0,0,0,0
 284,DEAI-TX1 Alfred I duPont Hospital for Children,80-97,1,0,0,0,0
-286,DECC-TX1 Christiana Care Health Services,Total,165,0,0,0,0
 287,DECC-TX1 Christiana Care Health Services,0,66,0,0,0,0
 288,DECC-TX1 Christiana Care Health Services,1-19,38,0,0,0,0
 289,DECC-TX1 Christiana Care Health Services,20-79,46,0,0,0,0
 290,DECC-TX1 Christiana Care Health Services,80-97,4,0,0,0,0
 291,DECC-TX1 Christiana Care Health Services,98-100,11,0,0,0,0
-292,FLAC-TX1 Johns Hopkins All Children's Hospital,Total,0,0,0,0,1
-295,FLBC-TX1 Broward Health Medical Center,Total,0,13,0,0,0
-297,FLBF-TX1 Bert Fish Medical Center,Total,25,0,0,0,0
 298,FLBF-TX1 Bert Fish Medical Center,0,11,0,0,0,0
 299,FLBF-TX1 Bert Fish Medical Center,1-19,1,0,0,0,0
 300,FLBF-TX1 Bert Fish Medical Center,20-79,3,0,0,0,0
 301,FLBF-TX1 Bert Fish Medical Center,80-97,9,0,0,0,0
 302,FLBF-TX1 Bert Fish Medical Center,98-100,1,0,0,0,0
-303,FLCC-TX1 Cleveland Clinic Florida Weston,Total,865,57,0,0,10
 304,FLCC-TX1 Cleveland Clinic Florida Weston,0,551,0,0,0,0
 305,FLCC-TX1 Cleveland Clinic Florida Weston,1-19,86,0,0,0,0
 306,FLCC-TX1 Cleveland Clinic Florida Weston,20-79,119,0,0,0,0
 307,FLCC-TX1 Cleveland Clinic Florida Weston,80-97,43,0,0,0,0
 308,FLCC-TX1 Cleveland Clinic Florida Weston,98-100,66,0,0,0,0
-310,FLFH-TX1 AdventHealth Orlando,Total,407,63,1,7,9
 311,FLFH-TX1 AdventHealth Orlando,0,231,0,1,4,0
 312,FLFH-TX1 AdventHealth Orlando,1-19,33,0,0,2,0
 313,FLFH-TX1 AdventHealth Orlando,20-79,65,0,0,0,0
 314,FLFH-TX1 AdventHealth Orlando,80-97,34,0,0,1,0
 315,FLFH-TX1 AdventHealth Orlando,98-100,44,0,0,0,0
-317,FLHM-TX1 Halifax Medical Center,Total,74,0,0,0,0
 318,FLHM-TX1 Halifax Medical Center,0,50,0,0,0,0
 319,FLHM-TX1 Halifax Medical Center,1-19,4,0,0,0,0
 320,FLHM-TX1 Halifax Medical Center,20-79,7,0,0,0,0
 321,FLHM-TX1 Halifax Medical Center,80-97,8,0,0,0,0
 322,FLHM-TX1 Halifax Medical Center,98-100,5,0,0,0,0
-323,FLJD-TX1 Memorial Regional Hospital/Joe DiMaggio Children's Hospital,Total,0,0,0,0,2
-325,FLJM-TX1 Jackson Memorial Hospital University of Miami School of Medicine,Total,614,103,17,18,40
 326,FLJM-TX1 Jackson Memorial Hospital University of Miami School of Medicine,0,436,0,14,10,0
 327,FLJM-TX1 Jackson Memorial Hospital University of Miami School of Medicine,1-19,21,0,0,1,0
 328,FLJM-TX1 Jackson Memorial Hospital University of Miami School of Medicine,20-79,61,0,1,1,0
 329,FLJM-TX1 Jackson Memorial Hospital University of Miami School of Medicine,80-97,45,0,1,4,0
 330,FLJM-TX1 Jackson Memorial Hospital University of Miami School of Medicine,98-100,51,0,1,2,0
-332,FLLM-TX1 Largo Medical Center,Total,62,19,0,0,4
 333,FLLM-TX1 Largo Medical Center,0,42,0,0,0,0
 334,FLLM-TX1 Largo Medical Center,1-19,3,0,0,0,0
 335,FLLM-TX1 Largo Medical Center,20-79,11,0,0,0,0
 337,FLLM-TX1 Largo Medical Center,80-97,4,0,0,0,0
 338,FLLM-TX1 Largo Medical Center,98-100,2,0,0,0,0
-340,FLMR-TX1 Memorial Regional Hospital,Total,84,0,0,0,13
 341,FLMR-TX1 Memorial Regional Hospital,0,67,0,0,0,0
 342,FLMR-TX1 Memorial Regional Hospital,1-19,5,0,0,0,0
 343,FLMR-TX1 Memorial Regional Hospital,20-79,6,0,0,0,0
 344,FLMR-TX1 Memorial Regional Hospital,80-97,3,0,0,0,0
 345,FLMR-TX1 Memorial Regional Hospital,98-100,3,0,0,0,0
-347,FLSH-TX1 Ascension Sacred Heart Pensacola,Total,194,0,0,0,0
 348,FLSH-TX1 Ascension Sacred Heart Pensacola,0,88,0,0,0,0
 349,FLSH-TX1 Ascension Sacred Heart Pensacola,1-19,25,0,0,0,0
 350,FLSH-TX1 Ascension Sacred Heart Pensacola,20-79,54,0,0,0,0
 351,FLSH-TX1 Ascension Sacred Heart Pensacola,80-97,16,0,0,0,0
 352,FLSH-TX1 Ascension Sacred Heart Pensacola,98-100,11,0,0,0,0
-353,FLSL-TX1 Mayo Clinic Florida,Total,842,70,8,23,34
 354,FLSL-TX1 Mayo Clinic Florida,0,344,0,3,5,0
 355,FLSL-TX1 Mayo Clinic Florida,1-19,142,0,4,5,0
 356,FLSL-TX1 Mayo Clinic Florida,20-79,230,0,1,9,0
 357,FLSL-TX1 Mayo Clinic Florida,80-97,53,0,0,1,0
 358,FLSL-TX1 Mayo Clinic Florida,98-100,73,0,0,3,0
-360,FLTG-TX1 Tampa General Hospital,Total,835,119,0,17,26
 361,FLTG-TX1 Tampa General Hospital,0,529,0,0,7,0
 362,FLTG-TX1 Tampa General Hospital,1-19,68,0,0,1,0
 363,FLTG-TX1 Tampa General Hospital,20-79,110,0,0,3,0
 364,FLTG-TX1 Tampa General Hospital,80-97,48,0,0,4,0
 365,FLTG-TX1 Tampa General Hospital,98-100,80,0,0,2,0
-367,FLUF-TX1 UF Health Shands Hospital,Total,521,33,1,12,65
 368,FLUF-TX1 UF Health Shands Hospital,0,298,0,0,8,0
 369,FLUF-TX1 UF Health Shands Hospital,1-19,51,0,0,1,0
 370,FLUF-TX1 UF Health Shands Hospital,20-79,115,0,0,3,0
 371,FLUF-TX1 UF Health Shands Hospital,80-97,32,0,0,0,0
 372,FLUF-TX1 UF Health Shands Hospital,98-100,25,0,1,0,0
-374,GAEH-TX1 Children's Healthcare of Atlanta at Egleston,Total,42,9,0,0,5
 375,GAEH-TX1 Children's Healthcare of Atlanta at Egleston,0,25,0,0,0,0
 376,GAEH-TX1 Children's Healthcare of Atlanta at Egleston,1-19,9,0,0,0,0
 377,GAEH-TX1 Children's Healthcare of Atlanta at Egleston,20-79,4,0,0,0,0
 379,GAEH-TX1 Children's Healthcare of Atlanta at Egleston,80-97,1,0,0,0,0
 380,GAEH-TX1 Children's Healthcare of Atlanta at Egleston,98-100,3,0,0,0,0
-382,GAEM-TX1 Emory University Hospital,Total,"2,022",145,2,10,66
 383,GAEM-TX1 Emory University Hospital,0,751,0,0,2,0
 384,GAEM-TX1 Emory University Hospital,1-19,520,0,0,1,0
 385,GAEM-TX1 Emory University Hospital,20-79,460,0,0,2,0
 386,GAEM-TX1 Emory University Hospital,80-97,135,0,0,1,0
 387,GAEM-TX1 Emory University Hospital,98-100,156,0,2,4,0
-389,"GAMC-TX1 AU Medical Center, Inc.",Total,662,0,1,10,0
 390,"GAMC-TX1 AU Medical Center, Inc.",0,497,0,0,9,0
 391,"GAMC-TX1 AU Medical Center, Inc.",1-19,32,0,0,0,0
 392,"GAMC-TX1 AU Medical Center, Inc.",20-79,75,0,0,0,0
 393,"GAMC-TX1 AU Medical Center, Inc.",80-97,32,0,1,0,0
 394,"GAMC-TX1 AU Medical Center, Inc.",98-100,26,0,0,1,0
-395,GAPH-TX1 Piedmont Hospital,Total,"1,302",178,2,15,19
 396,GAPH-TX1 Piedmont Hospital,0,338,0,0,1,0
 397,GAPH-TX1 Piedmont Hospital,1-19,211,0,2,1,0
 398,GAPH-TX1 Piedmont Hospital,20-79,466,0,0,5,0
 399,GAPH-TX1 Piedmont Hospital,80-97,156,0,0,6,0
 400,GAPH-TX1 Piedmont Hospital,98-100,131,0,0,2,0
-402,HIQM-TX1 The Queen's Medical Center,Total,326,22,0,0,0
 403,HIQM-TX1 The Queen's Medical Center,0,239,0,0,0,0
 404,HIQM-TX1 The Queen's Medical Center,1-19,10,0,0,0,0
 405,HIQM-TX1 The Queen's Medical Center,20-79,35,0,0,0,0
 406,HIQM-TX1 The Queen's Medical Center,80-97,25,0,0,0,0
 407,HIQM-TX1 The Queen's Medical Center,98-100,17,0,0,0,0
-409,IAIM-TX1 Iowa Methodist Medical Center,Total,96,0,0,0,0
 410,IAIM-TX1 Iowa Methodist Medical Center,0,51,0,0,0,0
 411,IAIM-TX1 Iowa Methodist Medical Center,1-19,13,0,0,0,0
 412,IAIM-TX1 Iowa Methodist Medical Center,20-79,11,0,0,0,0
 413,IAIM-TX1 Iowa Methodist Medical Center,80-97,11,0,0,0,0
 414,IAIM-TX1 Iowa Methodist Medical Center,98-100,10,0,0,0,0
-415,IAIV-TX1 University of Iowa Hospitals and Clinics Transplant Programs,Total,274,35,0,10,23
 416,IAIV-TX1 University of Iowa Hospitals and Clinics Transplant Programs,0,181,0,0,7,0
 417,IAIV-TX1 University of Iowa Hospitals and Clinics Transplant Programs,1-19,35,0,0,1,0
 418,IAIV-TX1 University of Iowa Hospitals and Clinics Transplant Programs,20-79,33,0,0,1,0
 419,IAIV-TX1 University of Iowa Hospitals and Clinics Transplant Programs,80-97,8,0,0,1,0
 421,IAIV-TX1 University of Iowa Hospitals and Clinics Transplant Programs,98-100,17,0,0,0,0
-423,IAMH-TX1 MercyOne Des Moines Transplant Center,Total,8,0,2,4,0
 424,IAMH-TX1 MercyOne Des Moines Transplant Center,0,5,0,1,2,0
 425,IAMH-TX1 MercyOne Des Moines Transplant Center,20-79,0,0,0,1,0
 426,IAMH-TX1 MercyOne Des Moines Transplant Center,80-97,1,0,0,1,0
 427,IAMH-TX1 MercyOne Des Moines Transplant Center,98-100,2,0,1,0,0
-428,IAVA-TX1 The Iowa City VA Health Care System,Total,134,0,0,0,0
 429,IAVA-TX1 The Iowa City VA Health Care System,0,104,0,0,0,0
 430,IAVA-TX1 The Iowa City VA Health Care System,1-19,17,0,0,0,0
 431,IAVA-TX1 The Iowa City VA Health Care System,20-79,7,0,0,0,0
 432,IAVA-TX1 The Iowa City VA Health Care System,80-97,3,0,0,0,0
 433,IAVA-TX1 The Iowa City VA Health Care System,98-100,3,0,0,0,0
-434,ILCH-TX1 Advocate Christ Medical Center,Total,246,0,0,0,55
 435,ILCH-TX1 Advocate Christ Medical Center,0,190,0,0,0,0
 436,ILCH-TX1 Advocate Christ Medical Center,1-19,16,0,0,0,0
 437,ILCH-TX1 Advocate Christ Medical Center,20-79,22,0,0,0,0
 438,ILCH-TX1 Advocate Christ Medical Center,80-97,9,0,0,0,0
 439,ILCH-TX1 Advocate Christ Medical Center,98-100,9,0,0,0,0
-441,ILCM-TX1 Ann & Robert H. Lurie Children's Hospital of Chicago,Total,46,6,0,0,32
 442,ILCM-TX1 Ann & Robert H. Lurie Children's Hospital of Chicago,0,37,0,0,0,0
 443,ILCM-TX1 Ann & Robert H. Lurie Children's Hospital of Chicago,1-19,1,0,0,0,0
 444,ILCM-TX1 Ann & Robert H. Lurie Children's Hospital of Chicago,20-79,4,0,0,0,0
 445,ILCM-TX1 Ann & Robert H. Lurie Children's Hospital of Chicago,80-97,1,0,0,0,0
 446,ILCM-TX1 Ann & Robert H. Lurie Children's Hospital of Chicago,98-100,3,0,0,0,0
-448,ILEH-TX1 Evanston Hospital,Total,0,0,0,0,13
-450,ILLU-TX1 Loyola University Medical Center,Total,358,50,6,14,29
 451,ILLU-TX1 Loyola University Medical Center,0,288,0,4,12,0
 452,ILLU-TX1 Loyola University Medical Center,1-19,23,0,0,0,0
 453,ILLU-TX1 Loyola University Medical Center,20-79,28,0,1,1,0
 454,ILLU-TX1 Loyola University Medical Center,80-97,12,0,1,1,0
 455,ILLU-TX1 Loyola University Medical Center,98-100,7,0,0,0,0
-457,ILMM-TX1 Memorial Medical Center,Total,91,0,0,0,0
 458,ILMM-TX1 Memorial Medical Center,0,53,0,0,0,0
 459,ILMM-TX1 Memorial Medical Center,1-19,18,0,0,0,0
 460,ILMM-TX1 Memorial Medical Center,20-79,11,0,0,0,0
 461,ILMM-TX1 Memorial Medical Center,80-97,4,0,0,0,0
 463,ILMM-TX1 Memorial Medical Center,98-100,5,0,0,0,0
-464,ILNM-TX1 Northwestern Memorial Hospital,Total,862,70,13,33,41
 465,ILNM-TX1 Northwestern Memorial Hospital,0,579,0,10,22,0
 466,ILNM-TX1 Northwestern Memorial Hospital,1-19,47,0,1,3,0
 467,ILNM-TX1 Northwestern Memorial Hospital,20-79,112,0,1,3,0
 468,ILNM-TX1 Northwestern Memorial Hospital,80-97,55,0,0,2,0
 469,ILNM-TX1 Northwestern Memorial Hospital,98-100,69,0,1,3,0
-471,ILPL-TX1 Rush University Medical Center,Total,400,19,20,16,0
 472,ILPL-TX1 Rush University Medical Center,0,295,0,18,14,0
 473,ILPL-TX1 Rush University Medical Center,1-19,23,0,0,0,0
 474,ILPL-TX1 Rush University Medical Center,20-79,36,0,2,2,0
 475,ILPL-TX1 Rush University Medical Center,80-97,15,0,0,0,0
 476,ILPL-TX1 Rush University Medical Center,98-100,31,0,0,0,0
-478,ILSF-TX1 OSF Saint Francis Medical Center,Total,287,0,2,7,3
 479,ILSF-TX1 OSF Saint Francis Medical Center,0,215,0,1,4,0
 480,ILSF-TX1 OSF Saint Francis Medical Center,1-19,22,0,1,0,0
 481,ILSF-TX1 OSF Saint Francis Medical Center,20-79,31,0,0,0,0
 482,ILSF-TX1 OSF Saint Francis Medical Center,80-97,13,0,0,2,0
 483,ILSF-TX1 OSF Saint Francis Medical Center,98-100,6,0,0,1,0
-485,ILUC-TX1 University of Chicago Medical Center,Total,502,37,21,7,14
 486,ILUC-TX1 University of Chicago Medical Center,0,352,0,20,6,0
 487,ILUC-TX1 University of Chicago Medical Center,1-19,21,0,0,0,0
 488,ILUC-TX1 University of Chicago Medical Center,20-79,52,0,1,1,0
 489,ILUC-TX1 University of Chicago Medical Center,80-97,35,0,0,0,0
 490,ILUC-TX1 University of Chicago Medical Center,98-100,42,0,0,0,0
-492,ILUI-TX1 University of Illinois Medical Center,Total,549,62,2,12,0
 493,ILUI-TX1 University of Illinois Medical Center,0,410,0,1,5,0
 494,ILUI-TX1 University of Illinois Medical Center,1-19,37,0,0,1,0
 495,ILUI-TX1 University of Illinois Medical Center,20-79,53,0,1,1,0
 496,ILUI-TX1 University of Illinois Medical Center,80-97,23,0,0,1,0
 497,ILUI-TX1 University of Illinois Medical Center,98-100,26,0,0,4,0
-499,ILVA-TX1 Edward Hines Jr. Veterans Administration Medical Center,Total,22,0,0,0,0
 500,ILVA-TX1 Edward Hines Jr. Veterans Administration Medical Center,0,18,0,0,0,0
 501,ILVA-TX1 Edward Hines Jr. Veterans Administration Medical Center,1-19,2,0,0,0,0
 502,ILVA-TX1 Edward Hines Jr. Veterans Administration Medical Center,20-79,2,0,0,0,0
-503,INIM-TX1 Indiana University Health,Total,639,86,19,19,25
 505,INIM-TX1 Indiana University Health,0,472,0,15,10,0
 506,INIM-TX1 Indiana University Health,1-19,50,0,0,0,0
 507,INIM-TX1 Indiana University Health,20-79,72,0,2,4,0
 508,INIM-TX1 Indiana University Health,80-97,25,0,0,2,0
 509,INIM-TX1 Indiana University Health,98-100,20,0,2,3,0
-511,INLH-TX1 Lutheran Hospital of Fort Wayne,Total,27,0,0,0,4
 512,INLH-TX1 Lutheran Hospital of Fort Wayne,0,13,0,0,0,0
 513,INLH-TX1 Lutheran Hospital of Fort Wayne,1-19,7,0,0,0,0
 514,INLH-TX1 Lutheran Hospital of Fort Wayne,20-79,5,0,0,0,0
 515,INLH-TX1 Lutheran Hospital of Fort Wayne,80-97,1,0,0,0,0
 516,INLH-TX1 Lutheran Hospital of Fort Wayne,98-100,1,0,0,0,0
-518,INSV-TX1 Ascension St. Vincent Hospital,Total,201,0,0,0,55
 519,INSV-TX1 Ascension St. Vincent Hospital,0,79,0,0,0,0
 520,INSV-TX1 Ascension St. Vincent Hospital,1-19,47,0,0,0,0
 521,INSV-TX1 Ascension St. Vincent Hospital,20-79,40,0,0,0,0
 522,INSV-TX1 Ascension St. Vincent Hospital,80-97,22,0,0,0,0
 523,INSV-TX1 Ascension St. Vincent Hospital,98-100,13,0,0,0,0
-525,KSUK-TX1 University of Kansas Hospital,Total,287,103,0,9,18
 526,KSUK-TX1 University of Kansas Hospital,0,209,0,0,5,0
 527,KSUK-TX1 University of Kansas Hospital,1-19,14,0,0,0,0
 528,KSUK-TX1 University of Kansas Hospital,20-79,40,0,0,1,0
 529,KSUK-TX1 University of Kansas Hospital,80-97,18,0,0,0,0
 530,KSUK-TX1 University of Kansas Hospital,98-100,6,0,0,3,0
-532,KYJH-TX1 Jewish Hospital,Total,250,39,2,16,18
 533,KYJH-TX1 Jewish Hospital,0,142,0,1,13,0
 534,KYJH-TX1 Jewish Hospital,1-19,29,0,0,0,0
 535,KYJH-TX1 Jewish Hospital,20-79,44,0,1,3,0
 536,KYJH-TX1 Jewish Hospital,80-97,20,0,0,0,0
 537,KYJH-TX1 Jewish Hospital,98-100,15,0,0,0,0
-539,KYKC-TX1 Norton Children's Hospital,Total,5,0,0,0,6
 540,KYKC-TX1 Norton Children's Hospital,0,5,0,0,0,0
-542,KYUK-TX1 University of Kentucky Medical Center,Total,476,111,0,8,18
 543,KYUK-TX1 University of Kentucky Medical Center,0,200,0,0,7,0
 544,KYUK-TX1 University of Kentucky Medical Center,1-19,113,0,0,1,0
 545,KYUK-TX1 University of Kentucky Medical Center,20-79,110,0,0,0,0
 547,KYUK-TX1 University of Kentucky Medical Center,80-97,25,0,0,0,0
 548,KYUK-TX1 University of Kentucky Medical Center,98-100,28,0,0,0,0
-550,LACH-TX1 Children's Hospital,Total,13,0,0,0,0
 551,LACH-TX1 Children's Hospital,0,9,0,0,0,0
 552,LACH-TX1 Children's Hospital,80-97,3,0,0,0,0
 553,LACH-TX1 Children's Hospital,98-100,1,0,0,0,0
-554,LAOF-TX1 Ochsner Foundation Hospital,Total,770,70,0,12,58
 555,LAOF-TX1 Ochsner Foundation Hospital,0,436,0,0,8,0
 556,LAOF-TX1 Ochsner Foundation Hospital,1-19,111,0,0,2,0
 557,LAOF-TX1 Ochsner Foundation Hospital,20-79,126,0,0,0,0
 558,LAOF-TX1 Ochsner Foundation Hospital,80-97,48,0,0,0,0
 559,LAOF-TX1 Ochsner Foundation Hospital,98-100,49,0,0,2,0
-561,LATU-TX1 Tulane Medical Center,Total,596,12,0,8,0
 562,LATU-TX1 Tulane Medical Center,0,231,0,0,2,0
 563,LATU-TX1 Tulane Medical Center,1-19,114,0,0,3,0
 564,LATU-TX1 Tulane Medical Center,20-79,138,0,0,1,0
 565,LATU-TX1 Tulane Medical Center,80-97,56,0,0,1,0
 566,LATU-TX1 Tulane Medical Center,98-100,57,0,0,1,0
-568,LAWK-TX1 Willis-Knighton Medical Center,Total,357,52,3,12,0
 569,LAWK-TX1 Willis-Knighton Medical Center,0,163,0,3,4,0
 570,LAWK-TX1 Willis-Knighton Medical Center,1-19,69,0,0,4,0
 571,LAWK-TX1 Willis-Knighton Medical Center,20-79,83,0,0,3,0
 572,LAWK-TX1 Willis-Knighton Medical Center,80-97,18,0,0,0,0
 573,LAWK-TX1 Willis-Knighton Medical Center,98-100,24,0,0,1,0
-575,MABI-TX1 Beth Israel Deaconess Medical Center,Total,400,122,9,35,0
 576,MABI-TX1 Beth Israel Deaconess Medical Center,0,305,0,8,26,0
 577,MABI-TX1 Beth Israel Deaconess Medical Center,1-19,26,0,1,4,0
 578,MABI-TX1 Beth Israel Deaconess Medical Center,20-79,48,0,0,2,0
 579,MABI-TX1 Beth Israel Deaconess Medical Center,80-97,12,0,0,2,0
 580,MABI-TX1 Beth Israel Deaconess Medical Center,98-100,9,0,0,1,0
-582,MABS-TX1 Baystate Medical Center,Total,173,0,0,0,0
 583,MABS-TX1 Baystate Medical Center,0,133,0,0,0,0
 584,MABS-TX1 Baystate Medical Center,1-19,8,0,0,0,0
 585,MABS-TX1 Baystate Medical Center,20-79,10,0,0,0,0
 586,MABS-TX1 Baystate Medical Center,80-97,12,0,0,0,0
 587,MABS-TX1 Baystate Medical Center,98-100,10,0,0,0,0
-589,MABU-TX1 Boston Medical Center,Total,294,0,0,0,0
 590,MABU-TX1 Boston Medical Center,0,206,0,0,0,0
 591,MABU-TX1 Boston Medical Center,1-19,18,0,0,0,0
 592,MABU-TX1 Boston Medical Center,20-79,40,0,0,0,0
 593,MABU-TX1 Boston Medical Center,80-97,15,0,0,0,0
 594,MABU-TX1 Boston Medical Center,98-100,15,0,0,0,0
-595,MACH-TX1 Boston Children's Hospital,Total,23,12,1,0,26
 596,MACH-TX1 Boston Children's Hospital,0,15,0,1,0,0
 597,MACH-TX1 Boston Children's Hospital,1-19,3,0,0,0,0
 598,MACH-TX1 Boston Children's Hospital,80-97,3,0,0,0,0
 599,MACH-TX1 Boston Children's Hospital,98-100,2,0,0,0,0
-601,MALC-TX1 Lahey Clinic Medical Center,Total,207,87,0,0,0
 602,MALC-TX1 Lahey Clinic Medical Center,0,158,0,0,0,0
 603,MALC-TX1 Lahey Clinic Medical Center,1-19,11,0,0,0,0
 604,MALC-TX1 Lahey Clinic Medical Center,20-79,23,0,0,0,0
 605,MALC-TX1 Lahey Clinic Medical Center,80-97,11,0,0,0,0
 606,MALC-TX1 Lahey Clinic Medical Center,98-100,4,0,0,0,0
-608,MAMG-TX1 Massachusetts General Hospital,Total,"1,184",371,14,10,22
 609,MAMG-TX1 Massachusetts General Hospital,0,"1,006",0,12,8,0
 610,MAMG-TX1 Massachusetts General Hospital,1-19,26,0,1,1,0
 611,MAMG-TX1 Massachusetts General Hospital,20-79,91,0,1,1,0
 612,MAMG-TX1 Massachusetts General Hospital,80-97,33,0,0,0,0
 613,MAMG-TX1 Massachusetts General Hospital,98-100,28,0,0,0,0
-615,MANM-TX1 Tufts Medical Center,Total,213,0,0,0,103
 616,MANM-TX1 Tufts Medical Center,0,151,0,0,0,0
 617,MANM-TX1 Tufts Medical Center,1-19,15,0,0,0,0
 618,MANM-TX1 Tufts Medical Center,20-79,34,0,0,0,0
 619,MANM-TX1 Tufts Medical Center,80-97,5,0,0,0,0
 620,MANM-TX1 Tufts Medical Center,98-100,8,0,0,0,0
-622,MAPB-TX1 Brigham and Women's Hospital,Total,388,0,5,12,33
 623,MAPB-TX1 Brigham and Women's Hospital,0,310,0,3,12,0
 624,MAPB-TX1 Brigham and Women's Hospital,1-19,27,0,0,0,0
 625,MAPB-TX1 Brigham and Women's Hospital,20-79,31,0,2,0,0
 626,MAPB-TX1 Brigham and Women's Hospital,80-97,11,0,0,0,0
 627,MAPB-TX1 Brigham and Women's Hospital,98-100,9,0,0,0,0
-629,MAUM-TX1 UMass Memorial Medical Center,Total,477,367,13,9,0
 631,MAUM-TX1 UMass Memorial Medical Center,0,348,0,10,6,0
 632,MAUM-TX1 UMass Memorial Medical Center,1-19,20,0,0,0,0
 633,MAUM-TX1 UMass Memorial Medical Center,20-79,62,0,0,2,0
 634,MAUM-TX1 UMass Memorial Medical Center,80-97,22,0,2,0,0
 635,MAUM-TX1 UMass Memorial Medical Center,98-100,25,0,1,1,0
-637,MDJH-TX1 Johns Hopkins Hospital,Total,"1,345",359,16,14,38
 638,MDJH-TX1 Johns Hopkins Hospital,0,751,0,5,7,0
 639,MDJH-TX1 Johns Hopkins Hospital,1-19,80,0,1,0,0
 640,MDJH-TX1 Johns Hopkins Hospital,20-79,298,0,9,6,0
 641,MDJH-TX1 Johns Hopkins Hospital,80-97,86,0,1,0,0
 642,MDJH-TX1 Johns Hopkins Hospital,98-100,130,0,0,1,0
-644,MDUM-TX1 University of Maryland Medical System,Total,769,297,9,13,46
 645,MDUM-TX1 University of Maryland Medical System,0,474,0,3,4,0
 646,MDUM-TX1 University of Maryland Medical System,1-19,73,0,1,2,0
 647,MDUM-TX1 University of Maryland Medical System,20-79,106,0,1,5,0
 648,MDUM-TX1 University of Maryland Medical System,80-97,49,0,3,2,0
 649,MDUM-TX1 University of Maryland Medical System,98-100,67,0,1,0,0
-651,MEMC-TX1 Maine Medical Center,Total,167,0,0,0,0
 652,MEMC-TX1 Maine Medical Center,0,106,0,0,0,0
 653,MEMC-TX1 Maine Medical Center,1-19,23,0,0,0,0
 654,MEMC-TX1 Maine Medical Center,20-79,28,0,0,0,0
 655,MEMC-TX1 Maine Medical Center,80-97,3,0,0,0,0
 656,MEMC-TX1 Maine Medical Center,98-100,7,0,0,0,0
-657,MIBH-TX1 William Beaumont Hospital,Total,329,51,0,0,0
 658,MIBH-TX1 William Beaumont Hospital,0,248,0,0,0,0
 659,MIBH-TX1 William Beaumont Hospital,1-19,23,0,0,0,0
 660,MIBH-TX1 William Beaumont Hospital,20-79,45,0,0,0,0
 661,MIBH-TX1 William Beaumont Hospital,80-97,5,0,0,0,0
 662,MIBH-TX1 William Beaumont Hospital,98-100,8,0,0,0,0
-664,MICH-TX1 Children's Hospital of Michigan,Total,6,2,0,0,2
 665,MICH-TX1 Children's Hospital of Michigan,0,3,0,0,0,0
 666,MICH-TX1 Children's Hospital of Michigan,80-97,2,0,0,0,0
 667,MICH-TX1 Children's Hospital of Michigan,98-100,1,0,0,0,0
-669,MIDV-TX1 Helen DeVos Children's Hospital,Total,7,0,0,0,0
 670,MIDV-TX1 Helen DeVos Children's Hospital,0,4,0,0,0,0
 671,MIDV-TX1 Helen DeVos Children's Hospital,20-79,2,0,0,0,0
 673,MIDV-TX1 Helen DeVos Children's Hospital,80-97,1,0,0,0,0
-674,MIHF-TX1 Henry Ford Hospital,Total,380,100,27,14,32
 675,MIHF-TX1 Henry Ford Hospital,0,223,0,19,10,0
 676,MIHF-TX1 Henry Ford Hospital,1-19,48,0,5,4,0
 677,MIHF-TX1 Henry Ford Hospital,20-79,53,0,3,0,0
 678,MIHF-TX1 Henry Ford Hospital,80-97,39,0,0,0,0
 679,MIHF-TX1 Henry Ford Hospital,98-100,17,0,0,0,0
-681,MIHH-TX1 Harper University Hospital Detroit Medical Center,Total,192,0,0,0,0
 682,MIHH-TX1 Harper University Hospital Detroit Medical Center,0,112,0,0,0,0
 683,MIHH-TX1 Harper University Hospital Detroit Medical Center,1-19,30,0,0,0,0
 684,MIHH-TX1 Harper University Hospital Detroit Medical Center,20-79,29,0,0,0,0
 685,MIHH-TX1 Harper University Hospital Detroit Medical Center,80-97,10,0,0,0,0
 686,MIHH-TX1 Harper University Hospital Detroit Medical Center,98-100,11,0,0,0,0
-687,MIHM-TX1 Hurley Medical Center,Total,6,0,0,0,0
 688,MIHM-TX1 Hurley Medical Center,0,1,0,0,0,0
 689,MIHM-TX1 Hurley Medical Center,1-19,1,0,0,0,0
 690,MIHM-TX1 Hurley Medical Center,20-79,2,0,0,0,0
 691,MIHM-TX1 Hurley Medical Center,80-97,1,0,0,0,0
 692,MIHM-TX1 Hurley Medical Center,98-100,1,0,0,0,0
-693,MIKZ-TX1 Borgess Medical Center,Total,15,0,0,0,0
 694,MIKZ-TX1 Borgess Medical Center,0,11,0,0,0,0
 695,MIKZ-TX1 Borgess Medical Center,20-79,4,0,0,0,0
-696,MISH-TX1 Spectrum Health,Total,0,0,0,0,33
-698,MISJ-TX1 Ascension St. John Hospital,Total,162,0,0,0,0
 699,MISJ-TX1 Ascension St. John Hospital,0,80,0,0,0,0
 700,MISJ-TX1 Ascension St. John Hospital,1-19,21,0,0,0,0
 701,MISJ-TX1 Ascension St. John Hospital,20-79,34,0,0,0,0
 702,MISJ-TX1 Ascension St. John Hospital,80-97,16,0,0,0,0
 703,MISJ-TX1 Ascension St. John Hospital,98-100,11,0,0,0,0
-704,MISM-TX1 Mercy Health Saint Mary’s,Total,267,0,0,0,0
 705,MISM-TX1 Mercy Health Saint Mary’s,0,160,0,0,0,0
 706,MISM-TX1 Mercy Health Saint Mary’s,1-19,31,0,0,0,0
 707,MISM-TX1 Mercy Health Saint Mary’s,20-79,43,0,0,0,0
 708,MISM-TX1 Mercy Health Saint Mary’s,80-97,11,0,0,0,0
 709,MISM-TX1 Mercy Health Saint Mary’s,98-100,22,0,0,0,0
-710,MIUM-TX1 University of Michigan Medical Center,Total,772,88,4,19,71
 711,MIUM-TX1 University of Michigan Medical Center,0,427,0,2,10,0
 712,MIUM-TX1 University of Michigan Medical Center,1-19,118,0,0,3,0
 713,MIUM-TX1 University of Michigan Medical Center,20-79,110,0,2,5,0
 715,MIUM-TX1 University of Michigan Medical Center,80-97,46,0,0,1,0
 716,MIUM-TX1 University of Michigan Medical Center,98-100,71,0,0,0,0
-718,MNAN-TX1 Abbott Northwestern Hospital,Total,151,0,0,0,4
 719,MNAN-TX1 Abbott Northwestern Hospital,0,68,0,0,0,0
 720,MNAN-TX1 Abbott Northwestern Hospital,1-19,36,0,0,0,0
 721,MNAN-TX1 Abbott Northwestern Hospital,20-79,27,0,0,0,0
 722,MNAN-TX1 Abbott Northwestern Hospital,80-97,15,0,0,0,0
 723,MNAN-TX1 Abbott Northwestern Hospital,98-100,5,0,0,0,0
-725,MNCM-TX1 Children's Minnesota,Total,0,0,0,0,11
-727,MNHC-TX1 Hennepin County Medical Center,Total,292,0,0,0,0
 728,MNHC-TX1 Hennepin County Medical Center,0,140,0,0,0,0
 729,MNHC-TX1 Hennepin County Medical Center,1-19,47,0,0,0,0
 730,MNHC-TX1 Hennepin County Medical Center,20-79,72,0,0,0,0
 731,MNHC-TX1 Hennepin County Medical Center,80-97,14,0,0,0,0
 732,MNHC-TX1 Hennepin County Medical Center,98-100,19,0,0,0,0
-733,MNMC-TX1 Rochester Methodist Hospital (Mayo Clinic),Total,870,93,43,45,67
 734,MNMC-TX1 Rochester Methodist Hospital (Mayo Clinic),0,552,0,28,30,0
 735,MNMC-TX1 Rochester Methodist Hospital (Mayo Clinic),1-19,83,0,2,6,0
 736,MNMC-TX1 Rochester Methodist Hospital (Mayo Clinic),20-79,128,0,9,4,0
 737,MNMC-TX1 Rochester Methodist Hospital (Mayo Clinic),80-97,66,0,2,4,0
 738,MNMC-TX1 Rochester Methodist Hospital (Mayo Clinic),98-100,41,0,2,1,0
-740,"MNUM-TX1 University of Minnesota Medical Center, Fairview",Total,809,97,88,116,40
 741,"MNUM-TX1 University of Minnesota Medical Center, Fairview",0,153,0,11,28,0
 742,"MNUM-TX1 University of Minnesota Medical Center, Fairview",1-19,188,0,12,29,0
 743,"MNUM-TX1 University of Minnesota Medical Center, Fairview",20-79,323,0,27,44,0
 744,"MNUM-TX1 University of Minnesota Medical Center, Fairview",80-97,67,0,13,6,0
 745,"MNUM-TX1 University of Minnesota Medical Center, Fairview",98-100,78,0,25,9,0
-747,MOBH-TX1 Barnes-Jewish Hospital,Total,746,44,2,19,24
 748,MOBH-TX1 Barnes-Jewish Hospital,0,386,0,1,10,0
 749,MOBH-TX1 Barnes-Jewish Hospital,1-19,90,0,1,3,0
 750,MOBH-TX1 Barnes-Jewish Hospital,20-79,139,0,0,5,0
 751,MOBH-TX1 Barnes-Jewish Hospital,80-97,65,0,0,0,0
 752,MOBH-TX1 Barnes-Jewish Hospital,98-100,66,0,0,1,0
-754,MOCG-TX1 Cardinal Glennon Children's Hospital,Total,5,4,0,0,9
 755,MOCG-TX1 Cardinal Glennon Children's Hospital,0,2,0,0,0,0
 757,MOCG-TX1 Cardinal Glennon Children's Hospital,20-79,1,0,0,0,0
 758,MOCG-TX1 Cardinal Glennon Children's Hospital,98-100,2,0,0,0,0
-760,MOCH-TX1 St. Louis Children's Hospital at Washington University Medical Center,Total,6,8,0,0,9
 761,MOCH-TX1 St. Louis Children's Hospital at Washington University Medical Center,0,5,0,0,0,0
 762,MOCH-TX1 St. Louis Children's Hospital at Washington University Medical Center,98-100,1,0,0,0,0
-764,MOCM-TX1 Children's Mercy Hospital,Total,58,0,0,0,4
 765,MOCM-TX1 Children's Mercy Hospital,0,45,0,0,0,0
 766,MOCM-TX1 Children's Mercy Hospital,1-19,2,0,0,0,0
 767,MOCM-TX1 Children's Mercy Hospital,20-79,6,0,0,0,0
 768,MOCM-TX1 Children's Mercy Hospital,80-97,1,0,0,0,0
 769,MOCM-TX1 Children's Mercy Hospital,98-100,4,0,0,0,0
-771,MODU-TX1 DePaul Health Center,Total,15,0,0,0,0
 772,MODU-TX1 DePaul Health Center,0,11,0,0,0,0
 773,MODU-TX1 DePaul Health Center,1-19,1,0,0,0,0
 774,MODU-TX1 DePaul Health Center,20-79,3,0,0,0,0
-775,MOJM-TX1 St Johns Mercy Medical Center,Total,5,0,0,0,0
 776,MOJM-TX1 St Johns Mercy Medical Center,0,5,0,0,0,0
-777,MOLH-TX1 St Luke's Hospital of Kansas City,Total,220,31,0,0,15
 778,MOLH-TX1 St Luke's Hospital of Kansas City,0,140,0,0,0,0
 779,MOLH-TX1 St Luke's Hospital of Kansas City,1-19,13,0,0,0,0
 780,MOLH-TX1 St Luke's Hospital of Kansas City,20-79,29,0,0,0,0
 781,MOLH-TX1 St Luke's Hospital of Kansas City,80-97,17,0,0,0,0
 782,MOLH-TX1 St Luke's Hospital of Kansas City,98-100,21,0,0,0,0
-784,MORH-TX1 Research Medical Center,Total,135,0,0,3,0
 785,MORH-TX1 Research Medical Center,0,95,0,0,2,0
 786,MORH-TX1 Research Medical Center,1-19,8,0,0,0,0
 787,MORH-TX1 Research Medical Center,20-79,22,0,0,1,0
 788,MORH-TX1 Research Medical Center,80-97,4,0,0,0,0
 789,MORH-TX1 Research Medical Center,98-100,6,0,0,0,0
-790,MOSL-TX1 SSM Health Saint Louis University Hospital,Total,139,30,0,2,0
 791,MOSL-TX1 SSM Health Saint Louis University Hospital,0,93,0,0,1,0
 792,MOSL-TX1 SSM Health Saint Louis University Hospital,1-19,10,0,0,0,0
 793,MOSL-TX1 SSM Health Saint Louis University Hospital,20-79,21,0,0,1,0
 794,MOSL-TX1 SSM Health Saint Louis University Hospital,80-97,7,0,0,0,0
 795,MOSL-TX1 SSM Health Saint Louis University Hospital,98-100,8,0,0,0,0
-797,MOUM-TX1 University of Missouri Hospital and Clinics,Total,105,0,0,0,0
 799,MOUM-TX1 University of Missouri Hospital and Clinics,0,68,0,0,0,0
 800,MOUM-TX1 University of Missouri Hospital and Clinics,1-19,5,0,0,0,0
 801,MOUM-TX1 University of Missouri Hospital and Clinics,20-79,14,0,0,0,0
 802,MOUM-TX1 University of Missouri Hospital and Clinics,80-97,9,0,0,0,0
 803,MOUM-TX1 University of Missouri Hospital and Clinics,98-100,9,0,0,0,0
-804,MSUM-TX1 University of Mississippi Medical Center,Total,899,32,0,6,19
 805,MSUM-TX1 University of Mississippi Medical Center,0,243,0,0,0,0
 806,MSUM-TX1 University of Mississippi Medical Center,1-19,199,0,0,1,0
 807,MSUM-TX1 University of Mississippi Medical Center,20-79,257,0,0,1,0
 808,MSUM-TX1 University of Mississippi Medical Center,80-97,78,0,0,2,0
 809,MSUM-TX1 University of Mississippi Medical Center,98-100,122,0,0,2,0
-811,NCBG-TX1 Wake Forest Baptist Medical Center,Total,685,0,35,29,11
 812,NCBG-TX1 Wake Forest Baptist Medical Center,0,499,0,28,24,0
 813,NCBG-TX1 Wake Forest Baptist Medical Center,1-19,31,0,0,0,0
 814,NCBG-TX1 Wake Forest Baptist Medical Center,20-79,82,0,2,1,0
 815,NCBG-TX1 Wake Forest Baptist Medical Center,80-97,27,0,4,3,0
 816,NCBG-TX1 Wake Forest Baptist Medical Center,98-100,46,0,1,1,0
-818,NCCM-TX1 Carolinas Medical Center,Total,569,108,0,18,24
 819,NCCM-TX1 Carolinas Medical Center,0,148,0,0,4,0
 820,NCCM-TX1 Carolinas Medical Center,1-19,102,0,0,4,0
 821,NCCM-TX1 Carolinas Medical Center,20-79,187,0,0,9,0
 822,NCCM-TX1 Carolinas Medical Center,80-97,55,0,0,1,0
 823,NCCM-TX1 Carolinas Medical Center,98-100,77,0,0,0,0
-825,NCDU-TX1 Duke University Hospital,Total,627,36,5,7,37
 826,NCDU-TX1 Duke University Hospital,0,402,0,2,5,0
 827,NCDU-TX1 Duke University Hospital,1-19,59,0,2,0,0
 828,NCDU-TX1 Duke University Hospital,20-79,85,0,0,1,0
 829,NCDU-TX1 Duke University Hospital,80-97,31,0,0,0,0
 830,NCDU-TX1 Duke University Hospital,98-100,50,0,1,1,0
-832,NCEC-TX1 Vidant Medical Center,Total,376,0,3,18,0
 833,NCEC-TX1 Vidant Medical Center,0,87,0,0,6,0
 834,NCEC-TX1 Vidant Medical Center,1-19,77,0,1,6,0
 835,NCEC-TX1 Vidant Medical Center,20-79,143,0,2,3,0
 836,NCEC-TX1 Vidant Medical Center,80-97,31,0,0,1,0
 837,NCEC-TX1 Vidant Medical Center,98-100,38,0,0,2,0
-838,NCMH-TX1 University of North Carolina Hospitals,Total,773,30,4,14,22
 839,NCMH-TX1 University of North Carolina Hospitals,0,548,0,3,11,0
 841,NCMH-TX1 University of North Carolina Hospitals,1-19,56,0,1,0,0
 842,NCMH-TX1 University of North Carolina Hospitals,20-79,93,0,0,2,0
 843,NCMH-TX1 University of North Carolina Hospitals,80-97,41,0,0,1,0
 844,NCMH-TX1 University of North Carolina Hospitals,98-100,35,0,0,0,0
-846,NDMC-TX1 Sanford Bismarck Medical Center,Total,70,0,0,0,0
 847,NDMC-TX1 Sanford Bismarck Medical Center,0,17,0,0,0,0
 848,NDMC-TX1 Sanford Bismarck Medical Center,1-19,19,0,0,0,0
 849,NDMC-TX1 Sanford Bismarck Medical Center,20-79,23,0,0,0,0
 850,NDMC-TX1 Sanford Bismarck Medical Center,80-97,8,0,0,0,0
 851,NDMC-TX1 Sanford Bismarck Medical Center,98-100,3,0,0,0,0
-852,NDSL-TX1 Sanford Medical Center Fargo,Total,79,0,0,0,0
 853,NDSL-TX1 Sanford Medical Center Fargo,0,38,0,0,0,0
 854,NDSL-TX1 Sanford Medical Center Fargo,1-19,15,0,0,0,0
 855,NDSL-TX1 Sanford Medical Center Fargo,20-79,17,0,0,0,0
 856,NDSL-TX1 Sanford Medical Center Fargo,80-97,2,0,0,0,0
 857,NDSL-TX1 Sanford Medical Center Fargo,98-100,7,0,0,0,0
-858,NECH-TX1 Children's Hospital & Medical Center,Total,0,0,0,0,4
-860,NEUN-TX1 The Nebraska Medical Center,Total,182,92,11,1,33
 861,NEUN-TX1 The Nebraska Medical Center,0,125,0,11,1,0
 862,NEUN-TX1 The Nebraska Medical Center,1-19,10,0,0,0,0
 863,NEUN-TX1 The Nebraska Medical Center,20-79,25,0,0,0,0
 864,NEUN-TX1 The Nebraska Medical Center,80-97,12,0,0,0,0
 865,NEUN-TX1 The Nebraska Medical Center,98-100,10,0,0,0,0
-867,NHDH-TX1 Mary Hitchcock Memorial Hospital,Total,108,0,0,0,0
 868,NHDH-TX1 Mary Hitchcock Memorial Hospital,0,82,0,0,0,0
 869,NHDH-TX1 Mary Hitchcock Memorial Hospital,1-19,10,0,0,0,0
 870,NHDH-TX1 Mary Hitchcock Memorial Hospital,20-79,10,0,0,0,0
 871,NHDH-TX1 Mary Hitchcock Memorial Hospital,80-97,5,0,0,0,0
 872,NHDH-TX1 Mary Hitchcock Memorial Hospital,98-100,1,0,0,0,0
-873,NJBI-TX1 Newark Beth Israel Medical Center,Total,0,0,0,0,26
-875,NJHK-TX1 Hackensack University Medical Center,Total,219,0,5,5,0
 876,NJHK-TX1 Hackensack University Medical Center,0,136,0,3,4,0
 877,NJHK-TX1 Hackensack University Medical Center,1-19,16,0,0,0,0
 878,NJHK-TX1 Hackensack University Medical Center,20-79,43,0,0,1,0
 879,NJHK-TX1 Hackensack University Medical Center,80-97,14,0,2,0,0
 880,NJHK-TX1 Hackensack University Medical Center,98-100,10,0,0,0,0
-881,NJLL-TX1 Virtua Our Lady of Lourdes Hospital,Total,307,70,2,11,0
 883,NJLL-TX1 Virtua Our Lady of Lourdes Hospital,0,212,0,0,3,0
 884,NJLL-TX1 Virtua Our Lady of Lourdes Hospital,1-19,35,0,0,2,0
 885,NJLL-TX1 Virtua Our Lady of Lourdes Hospital,20-79,33,0,1,2,0
 886,NJLL-TX1 Virtua Our Lady of Lourdes Hospital,80-97,16,0,1,2,0
 887,NJLL-TX1 Virtua Our Lady of Lourdes Hospital,98-100,11,0,0,2,0
-889,NJRW-TX1 Robert Wood Johnson University Hospital,Total,270,0,1,6,12
 890,NJRW-TX1 Robert Wood Johnson University Hospital,0,178,0,1,4,0
 891,NJRW-TX1 Robert Wood Johnson University Hospital,1-19,25,0,0,0,0
 892,NJRW-TX1 Robert Wood Johnson University Hospital,20-79,38,0,0,2,0
 893,NJRW-TX1 Robert Wood Johnson University Hospital,80-97,17,0,0,0,0
 894,NJRW-TX1 Robert Wood Johnson University Hospital,98-100,12,0,0,0,0
-896,NJSB-TX1 Saint Barnabas Medical Center,Total,"1,538",0,5,16,0
 897,NJSB-TX1 Saint Barnabas Medical Center,0,"1,002",0,5,13,0
 898,NJSB-TX1 Saint Barnabas Medical Center,1-19,165,0,0,1,0
 899,NJSB-TX1 Saint Barnabas Medical Center,20-79,196,0,0,1,0
 900,NJSB-TX1 Saint Barnabas Medical Center,80-97,77,0,0,0,0
 901,NJSB-TX1 Saint Barnabas Medical Center,98-100,98,0,0,1,0
-902,NJUH-TX1 University Hospital,Total,0,104,0,0,0
-904,"NMAQ-TX1 University Hospital, University of New Mexico Health Sciences Center",Total,192,0,0,0,0
 905,"NMAQ-TX1 University Hospital, University of New Mexico Health Sciences Center",0,129,0,0,0,0
 906,"NMAQ-TX1 University Hospital, University of New Mexico Health Sciences Center",1-19,11,0,0,0,0
 907,"NMAQ-TX1 University Hospital, University of New Mexico Health Sciences Center",20-79,24,0,0,0,0
 908,"NMAQ-TX1 University Hospital, University of New Mexico Health Sciences Center",80-97,18,0,0,0,0
 909,"NMAQ-TX1 University Hospital, University of New Mexico Health Sciences Center",98-100,10,0,0,0,0
-910,NMPH-TX1 Presbyterian Hospital,Total,324,0,2,3,0
 911,NMPH-TX1 Presbyterian Hospital,0,255,0,2,3,0
 912,NMPH-TX1 Presbyterian Hospital,1-19,10,0,0,0,0
 913,NMPH-TX1 Presbyterian Hospital,20-79,42,0,0,0,0
 914,NMPH-TX1 Presbyterian Hospital,80-97,11,0,0,0,0
 915,NMPH-TX1 Presbyterian Hospital,98-100,6,0,0,0,0
-916,NVUM-TX1 University Medical Center of Southern Nevada,Total,190,0,0,0,0
 917,NVUM-TX1 University Medical Center of Southern Nevada,0,74,0,0,0,0
 918,NVUM-TX1 University Medical Center of Southern Nevada,1-19,43,0,0,0,0
 919,NVUM-TX1 University Medical Center of Southern Nevada,20-79,37,0,0,0,0
 920,NVUM-TX1 University Medical Center of Southern Nevada,80-97,12,0,0,0,0
 921,NVUM-TX1 University Medical Center of Southern Nevada,98-100,24,0,0,0,0
-922,NYAM-TX1 Albany Medical Center Hospital,Total,172,0,4,4,0
 923,NYAM-TX1 Albany Medical Center Hospital,0,87,0,3,3,0
 925,NYAM-TX1 Albany Medical Center Hospital,1-19,35,0,0,0,0
 926,NYAM-TX1 Albany Medical Center Hospital,20-79,30,0,1,1,0
 927,NYAM-TX1 Albany Medical Center Hospital,80-97,13,0,0,0,0
 928,NYAM-TX1 Albany Medical Center Hospital,98-100,7,0,0,0,0
-929,NYCC-TX1 Long Island Jewish Medical Center-Cohen Children's Medical Center,Total,20,0,0,0,0
 930,NYCC-TX1 Long Island Jewish Medical Center-Cohen Children's Medical Center,0,20,0,0,0,0
-931,NYCP-TX1 NY Presbyterian Hospital/Columbia Univ. Medical Center,Total,606,145,37,13,120
 932,NYCP-TX1 NY Presbyterian Hospital/Columbia Univ. Medical Center,0,434,0,31,8,0
 933,NYCP-TX1 NY Presbyterian Hospital/Columbia Univ. Medical Center,1-19,36,0,0,0,0
 934,NYCP-TX1 NY Presbyterian Hospital/Columbia Univ. Medical Center,20-79,57,0,2,4,0
 935,NYCP-TX1 NY Presbyterian Hospital/Columbia Univ. Medical Center,80-97,45,0,2,1,0
 936,NYCP-TX1 NY Presbyterian Hospital/Columbia Univ. Medical Center,98-100,34,0,2,0,0
-938,"NYDS-TX1 State University of New York, Downstate Medical Center",Total,170,0,0,0,0
 939,"NYDS-TX1 State University of New York, Downstate Medical Center",0,131,0,0,0,0
 940,"NYDS-TX1 State University of New York, Downstate Medical Center",1-19,1,0,0,0,0
 941,"NYDS-TX1 State University of New York, Downstate Medical Center",20-79,19,0,0,0,0
 942,"NYDS-TX1 State University of New York, Downstate Medical Center",80-97,12,0,0,0,0
 943,"NYDS-TX1 State University of New York, Downstate Medical Center",98-100,7,0,0,0,0
-944,NYEC-TX1 Erie County Medical Center,Total,185,0,2,8,0
 945,NYEC-TX1 Erie County Medical Center,0,100,0,0,5,0
 946,NYEC-TX1 Erie County Medical Center,1-19,16,0,0,1,0
 947,NYEC-TX1 Erie County Medical Center,20-79,21,0,1,0,0
 948,NYEC-TX1 Erie County Medical Center,80-97,21,0,1,2,0
 949,NYEC-TX1 Erie County Medical Center,98-100,27,0,0,0,0
-950,"NYFL-TX1 Strong Memorial Hospital, University of Rochester Medical Center",Total,434,66,7,8,29
 951,"NYFL-TX1 Strong Memorial Hospital, University of Rochester Medical Center",0,321,0,5,8,0
 952,"NYFL-TX1 Strong Memorial Hospital, University of Rochester Medical Center",1-19,24,0,0,0,0
 953,"NYFL-TX1 Strong Memorial Hospital, University of Rochester Medical Center",20-79,43,0,1,0,0
 954,"NYFL-TX1 Strong Memorial Hospital, University of Rochester Medical Center",80-97,24,0,0,0,0
 955,"NYFL-TX1 Strong Memorial Hospital, University of Rochester Medical Center",98-100,22,0,1,0,0
-957,NYMA-TX1 Montefiore Medical Center,Total,"1,127",48,38,43,39
 958,NYMA-TX1 Montefiore Medical Center,0,808,0,30,32,0
 959,NYMA-TX1 Montefiore Medical Center,1-19,63,0,0,0,0
 960,NYMA-TX1 Montefiore Medical Center,20-79,139,0,2,5,0
 961,NYMA-TX1 Montefiore Medical Center,80-97,58,0,4,5,0
 962,NYMA-TX1 Montefiore Medical Center,98-100,59,0,2,1,0
-964,NYMS-TX1 Mount Sinai Medical Center,Total,"1,821",272,46,27,87
 965,NYMS-TX1 Mount Sinai Medical Center,0,"1,497",0,40,23,0
 967,NYMS-TX1 Mount Sinai Medical Center,1-19,55,0,1,0,0
 968,NYMS-TX1 Mount Sinai Medical Center,20-79,172,0,4,3,0
 969,NYMS-TX1 Mount Sinai Medical Center,80-97,63,0,0,0,0
 970,NYMS-TX1 Mount Sinai Medical Center,98-100,34,0,1,1,0
-972,NYNS-TX1 North Shore University Hospital/Northwell Health,Total,431,23,0,0,22
 973,NYNS-TX1 North Shore University Hospital/Northwell Health,0,336,0,0,0,0
 974,NYNS-TX1 North Shore University Hospital/Northwell Health,1-19,30,0,0,0,0
 975,NYNS-TX1 North Shore University Hospital/Northwell Health,20-79,39,0,0,0,0
 976,NYNS-TX1 North Shore University Hospital/Northwell Health,80-97,14,0,0,0,0
 977,NYNS-TX1 North Shore University Hospital/Northwell Health,98-100,12,0,0,0,0
-979,NYNY-TX1 New York-Presbyterian Hospital/Weill Cornell Medical Center,Total,"1,059",62,9,17,0
 980,NYNY-TX1 New York-Presbyterian Hospital/Weill Cornell Medical Center,0,755,0,6,11,0
 981,NYNY-TX1 New York-Presbyterian Hospital/Weill Cornell Medical Center,1-19,92,0,1,1,0
 982,NYNY-TX1 New York-Presbyterian Hospital/Weill Cornell Medical Center,20-79,127,0,2,3,0
 983,NYNY-TX1 New York-Presbyterian Hospital/Weill Cornell Medical Center,80-97,41,0,0,0,0
 984,NYNY-TX1 New York-Presbyterian Hospital/Weill Cornell Medical Center,98-100,44,0,0,2,0
-986,NYSB-TX1 University Hospital of State University of New York at Stony Brook,Total,208,0,0,0,0
 987,NYSB-TX1 University Hospital of State University of New York at Stony Brook,0,171,0,0,0,0
 988,NYSB-TX1 University Hospital of State University of New York at Stony Brook,20-79,17,0,0,0,0
 989,NYSB-TX1 University Hospital of State University of New York at Stony Brook,80-97,14,0,0,0,0
 990,NYSB-TX1 University Hospital of State University of New York at Stony Brook,98-100,6,0,0,0,0
-991,NYUC-TX1 New York University Medical Center,Total,579,112,4,14,20
 992,NYUC-TX1 New York University Medical Center,0,457,0,3,13,0
 993,NYUC-TX1 New York University Medical Center,1-19,16,0,0,0,0
 994,NYUC-TX1 New York University Medical Center,20-79,52,0,0,0,0
 995,NYUC-TX1 New York University Medical Center,80-97,26,0,1,0,0
 996,NYUC-TX1 New York University Medical Center,98-100,28,0,0,1,0
-998,NYUM-TX1 State University of New York Upstate Medical University,Total,308,0,21,11,0
 999,NYUM-TX1 State University of New York Upstate Medical University,0,122,0,5,6,0
 1000,NYUM-TX1 State University of New York Upstate Medical University,1-19,62,0,7,2,0
 1001,NYUM-TX1 State University of New York Upstate Medical University,20-79,73,0,8,2,0
 1002,NYUM-TX1 State University of New York Upstate Medical University,80-97,25,0,1,1,0
 1003,NYUM-TX1 State University of New York Upstate Medical University,98-100,26,0,0,0,0
-1004,NYVA-TX1 James J. Peters VA Medical Center,Total,100,0,0,0,0
 1005,NYVA-TX1 James J. Peters VA Medical Center,0,84,0,0,0,0
 1006,NYVA-TX1 James J. Peters VA Medical Center,1-19,7,0,0,0,0
 1007,NYVA-TX1 James J. Peters VA Medical Center,20-79,6,0,0,0,0
 1009,NYVA-TX1 James J. Peters VA Medical Center,98-100,3,0,0,0,0
-1010,NYWC-TX1 Westchester Medical Center,Total,395,97,0,0,14
 1011,NYWC-TX1 Westchester Medical Center,0,163,0,0,0,0
 1012,NYWC-TX1 Westchester Medical Center,1-19,77,0,0,0,0
 1013,NYWC-TX1 Westchester Medical Center,20-79,89,0,0,0,0
 1014,NYWC-TX1 Westchester Medical Center,80-97,41,0,0,0,0
 1015,NYWC-TX1 Westchester Medical Center,98-100,25,0,0,0,0
-1017,OHAC-TX1 Akron City Hospital,Total,39,0,0,0,0
 1018,OHAC-TX1 Akron City Hospital,0,38,0,0,0,0
 1019,OHAC-TX1 Akron City Hospital,80-97,1,0,0,0,0
-1020,OHCC-TX1 The Cleveland Clinic Foundation,Total,573,198,15,19,140
 1021,OHCC-TX1 The Cleveland Clinic Foundation,0,411,0,12,13,0
 1022,OHCC-TX1 The Cleveland Clinic Foundation,1-19,47,0,1,0,0
 1023,OHCC-TX1 The Cleveland Clinic Foundation,20-79,56,0,2,6,0
 1024,OHCC-TX1 The Cleveland Clinic Foundation,80-97,23,0,0,0,0
 1025,OHCC-TX1 The Cleveland Clinic Foundation,98-100,36,0,0,0,0
-1027,OHCH-TX1 Nationwide Children's Hospital,Total,8,1,0,0,16
 1028,OHCH-TX1 Nationwide Children's Hospital,0,7,0,0,0,0
 1029,OHCH-TX1 Nationwide Children's Hospital,20-79,1,0,0,0,0
-1031,OHCM-TX1 Children's Hospital Medical Center,Total,35,20,5,0,9
 1032,OHCM-TX1 Children's Hospital Medical Center,0,28,0,5,0,0
 1033,OHCM-TX1 Children's Hospital Medical Center,1-19,2,0,0,0,0
 1034,OHCM-TX1 Children's Hospital Medical Center,20-79,2,0,0,0,0
 1035,OHCM-TX1 Children's Hospital Medical Center,80-97,1,0,0,0,0
 1036,OHCM-TX1 Children's Hospital Medical Center,98-100,2,0,0,0,0
-1038,OHCO-TX1 University of Toledo Medical Center,Total,111,0,0,0,0
 1039,OHCO-TX1 University of Toledo Medical Center,0,61,0,0,0,0
 1040,OHCO-TX1 University of Toledo Medical Center,1-19,4,0,0,0,0
 1041,OHCO-TX1 University of Toledo Medical Center,20-79,12,0,0,0,0
 1042,OHCO-TX1 University of Toledo Medical Center,80-97,13,0,0,0,0
 1043,OHCO-TX1 University of Toledo Medical Center,98-100,21,0,0,0,0
-1044,OHOU-TX1 Ohio State University Medical Center,Total,587,110,1,20,17
 1045,OHOU-TX1 Ohio State University Medical Center,0,346,0,1,11,0
 1046,OHOU-TX1 Ohio State University Medical Center,1-19,58,0,0,3,0
 1047,OHOU-TX1 Ohio State University Medical Center,20-79,88,0,0,5,0
 1048,OHOU-TX1 Ohio State University Medical Center,80-97,45,0,0,1,0
 1049,OHOU-TX1 Ohio State University Medical Center,98-100,50,0,0,0,0
-1052,OHSE-TX1 St. Elizabeth Health Center,Total,2,0,0,0,0
 1053,OHSE-TX1 St. Elizabeth Health Center,0,2,0,0,0,0
-1054,OHTC-TX1 The Christ Hospital,Total,146,0,0,0,0
 1055,OHTC-TX1 The Christ Hospital,0,67,0,0,0,0
 1056,OHTC-TX1 The Christ Hospital,1-19,29,0,0,0,0
 1057,OHTC-TX1 The Christ Hospital,20-79,29,0,0,0,0
 1058,OHTC-TX1 The Christ Hospital,80-97,10,0,0,0,0
 1059,OHTC-TX1 The Christ Hospital,98-100,11,0,0,0,0
-1060,OHUC-TX1 University of Cincinnati  Medical Center,Total,302,90,10,13,11
 1061,OHUC-TX1 University of Cincinnati  Medical Center,0,117,0,2,5,0
 1062,OHUC-TX1 University of Cincinnati  Medical Center,1-19,37,0,3,2,0
 1063,OHUC-TX1 University of Cincinnati  Medical Center,20-79,67,0,0,1,0
 1064,OHUC-TX1 University of Cincinnati  Medical Center,80-97,33,0,1,3,0
 1065,OHUC-TX1 University of Cincinnati  Medical Center,98-100,48,0,4,2,0
-1067,OHUH-TX1 University Hospitals of Cleveland,Total,517,101,5,8,7
 1068,OHUH-TX1 University Hospitals of Cleveland,0,192,0,3,1,0
 1069,OHUH-TX1 University Hospitals of Cleveland,1-19,99,0,1,2,0
 1070,OHUH-TX1 University Hospitals of Cleveland,20-79,107,0,1,2,0
 1071,OHUH-TX1 University Hospitals of Cleveland,80-97,54,0,0,3,0
 1072,OHUH-TX1 University Hospitals of Cleveland,98-100,65,0,0,0,0
-1074,OKBC-TX1 Integris Baptist Medical Center,Total,252,89,0,6,24
 1075,OKBC-TX1 Integris Baptist Medical Center,0,165,0,0,4,0
 1076,OKBC-TX1 Integris Baptist Medical Center,1-19,33,0,0,0,0
 1077,OKBC-TX1 Integris Baptist Medical Center,20-79,29,0,0,1,0
 1078,OKBC-TX1 Integris Baptist Medical Center,80-97,10,0,0,1,0
 1079,OKBC-TX1 Integris Baptist Medical Center,98-100,15,0,0,0,0
-1081,OKMD-TX1 OU Medical Center,Total,96,15,1,10,0
 1082,OKMD-TX1 OU Medical Center,0,54,0,0,4,0
 1083,OKMD-TX1 OU Medical Center,1-19,15,0,0,3,0
 1084,OKMD-TX1 OU Medical Center,20-79,10,0,0,1,0
 1085,OKMD-TX1 OU Medical Center,80-97,5,0,1,1,0
 1086,OKMD-TX1 OU Medical Center,98-100,12,0,0,1,0
-1088,OKSJ-TX1 St John Medical Center,Total,131,0,0,0,0
 1089,OKSJ-TX1 St John Medical Center,0,70,0,0,0,0
 1090,OKSJ-TX1 St John Medical Center,1-19,23,0,0,0,0
 1091,OKSJ-TX1 St John Medical Center,20-79,23,0,0,0,0
 1093,OKSJ-TX1 St John Medical Center,80-97,8,0,0,0,0
 1094,OKSJ-TX1 St John Medical Center,98-100,7,0,0,0,0
-1095,ORGS-TX1 Legacy Good Samaritan Hospital and Medical Center,Total,276,0,0,0,0
 1096,ORGS-TX1 Legacy Good Samaritan Hospital and Medical Center,0,183,0,0,0,0
 1097,ORGS-TX1 Legacy Good Samaritan Hospital and Medical Center,1-19,31,0,0,0,0
 1098,ORGS-TX1 Legacy Good Samaritan Hospital and Medical Center,20-79,34,0,0,0,0
 1099,ORGS-TX1 Legacy Good Samaritan Hospital and Medical Center,80-97,15,0,0,0,0
 1100,ORGS-TX1 Legacy Good Samaritan Hospital and Medical Center,98-100,13,0,0,0,0
-1101,ORSV-TX1 Providence St. Vincent Medical Center,Total,0,0,0,0,4
-1103,ORUO-TX1 Oregon Health and Science University,Total,312,70,2,12,4
 1104,ORUO-TX1 Oregon Health and Science University,0,114,0,0,3,0
 1105,ORUO-TX1 Oregon Health and Science University,1-19,75,0,0,4,0
 1106,ORUO-TX1 Oregon Health and Science University,20-79,85,0,0,4,0
 1107,ORUO-TX1 Oregon Health and Science University,80-97,21,0,2,1,0
 1108,ORUO-TX1 Oregon Health and Science University,98-100,17,0,0,0,0
-1110,ORVA-TX1 VA Portland Health Care System,Total,156,30,0,0,0
 1111,ORVA-TX1 VA Portland Health Care System,0,57,0,0,0,0
 1112,ORVA-TX1 VA Portland Health Care System,1-19,44,0,0,0,0
 1113,ORVA-TX1 VA Portland Health Care System,20-79,44,0,0,0,0
 1114,ORVA-TX1 VA Portland Health Care System,80-97,2,0,0,0,0
 1115,ORVA-TX1 VA Portland Health Care System,98-100,9,0,0,0,0
-1117,PAAE-TX1 Albert Einstein Medical Center,Total,587,37,2,15,0
 1118,PAAE-TX1 Albert Einstein Medical Center,0,330,0,1,10,0
 1119,PAAE-TX1 Albert Einstein Medical Center,1-19,62,0,1,2,0
 1120,PAAE-TX1 Albert Einstein Medical Center,20-79,93,0,0,1,0
 1121,PAAE-TX1 Albert Einstein Medical Center,80-97,34,0,0,0,0
 1122,PAAE-TX1 Albert Einstein Medical Center,98-100,68,0,0,2,0
-1124,PAAG-TX1 Allegheny General Hospital,Total,238,16,5,0,20
 1125,PAAG-TX1 Allegheny General Hospital,0,148,0,4,0,0
 1126,PAAG-TX1 Allegheny General Hospital,1-19,25,0,0,0,0
 1127,PAAG-TX1 Allegheny General Hospital,20-79,28,0,0,0,0
 1128,PAAG-TX1 Allegheny General Hospital,80-97,13,0,0,0,0
 1129,PAAG-TX1 Allegheny General Hospital,98-100,24,0,1,0,0
-1131,PACC-TX1 Crozer-Chester Medical Center,Total,226,0,0,0,0
 1132,PACC-TX1 Crozer-Chester Medical Center,0,90,0,0,0,0
 1133,PACC-TX1 Crozer-Chester Medical Center,1-19,44,0,0,0,0
 1135,PACC-TX1 Crozer-Chester Medical Center,20-79,71,0,0,0,0
 1136,PACC-TX1 Crozer-Chester Medical Center,80-97,8,0,0,0,0
 1137,PACC-TX1 Crozer-Chester Medical Center,98-100,13,0,0,0,0
-1138,PACH-TX1 UPMC Children's Hospital of Pittsburgh,Total,20,21,12,0,7
 1139,PACH-TX1 UPMC Children's Hospital of Pittsburgh,0,11,0,12,0,0
 1140,PACH-TX1 UPMC Children's Hospital of Pittsburgh,1-19,4,0,0,0,0
 1141,PACH-TX1 UPMC Children's Hospital of Pittsburgh,20-79,3,0,0,0,0
 1142,PACH-TX1 UPMC Children's Hospital of Pittsburgh,80-97,2,0,0,0,0
-1144,PACP-TX1 Children's Hospital of Philadelphia,Total,58,7,0,0,10
 1145,PACP-TX1 Children's Hospital of Philadelphia,0,49,0,0,0,0
 1146,PACP-TX1 Children's Hospital of Philadelphia,1-19,2,0,0,0,0
 1147,PACP-TX1 Children's Hospital of Philadelphia,20-79,3,0,0,0,0
 1148,PACP-TX1 Children's Hospital of Philadelphia,80-97,3,0,0,0,0
 1149,PACP-TX1 Children's Hospital of Philadelphia,98-100,1,0,0,0,0
-1151,PAGM-TX1 Geisinger Medical Center,Total,266,10,0,0,0
 1152,PAGM-TX1 Geisinger Medical Center,0,119,0,0,0,0
 1153,PAGM-TX1 Geisinger Medical Center,1-19,47,0,0,0,0
 1154,PAGM-TX1 Geisinger Medical Center,20-79,66,0,0,0,0
 1155,PAGM-TX1 Geisinger Medical Center,80-97,15,0,0,0,0
 1156,PAGM-TX1 Geisinger Medical Center,98-100,19,0,0,0,0
-1158,PAHE-TX1 Penn State Milton S Hershey Medical Center,Total,159,77,0,0,9
 1159,PAHE-TX1 Penn State Milton S Hershey Medical Center,0,130,0,0,0,0
 1160,PAHE-TX1 Penn State Milton S Hershey Medical Center,20-79,14,0,0,0,0
 1161,PAHE-TX1 Penn State Milton S Hershey Medical Center,80-97,6,0,0,0,0
 1162,PAHE-TX1 Penn State Milton S Hershey Medical Center,98-100,9,0,0,0,0
-1164,PAHH-TX1 Pinnacle Health System at Harrisburg Hospital,Total,220,0,0,0,0
 1165,PAHH-TX1 Pinnacle Health System at Harrisburg Hospital,0,89,0,0,0,0
 1166,PAHH-TX1 Pinnacle Health System at Harrisburg Hospital,1-19,47,0,0,0,0
 1167,PAHH-TX1 Pinnacle Health System at Harrisburg Hospital,20-79,53,0,0,0,0
 1168,PAHH-TX1 Pinnacle Health System at Harrisburg Hospital,80-97,18,0,0,0,0
 1169,PAHH-TX1 Pinnacle Health System at Harrisburg Hospital,98-100,13,0,0,0,0
-1170,PAHM-TX1 Hahnemann University Hospital,Total,99,6,0,0,0
 1171,PAHM-TX1 Hahnemann University Hospital,0,59,0,0,0,0
 1172,PAHM-TX1 Hahnemann University Hospital,1-19,15,0,0,0,0
 1173,PAHM-TX1 Hahnemann University Hospital,20-79,7,0,0,0,0
 1174,PAHM-TX1 Hahnemann University Hospital,80-97,6,0,0,0,0
 1175,PAHM-TX1 Hahnemann University Hospital,98-100,12,0,0,0,0
-1178,PALH-TX1 The Lankenau Hospital,Total,197,0,0,0,0
 1179,PALH-TX1 The Lankenau Hospital,0,81,0,0,0,0
 1180,PALH-TX1 The Lankenau Hospital,1-19,43,0,0,0,0
 1181,PALH-TX1 The Lankenau Hospital,20-79,49,0,0,0,0
 1182,PALH-TX1 The Lankenau Hospital,80-97,13,0,0,0,0
 1183,PALH-TX1 The Lankenau Hospital,98-100,11,0,0,0,0
-1184,PALV-TX1 Lehigh Valley Hospital,Total,279,0,3,13,0
 1185,PALV-TX1 Lehigh Valley Hospital,0,134,0,0,9,0
 1186,PALV-TX1 Lehigh Valley Hospital,1-19,51,0,1,0,0
 1187,PALV-TX1 Lehigh Valley Hospital,20-79,56,0,1,3,0
 1188,PALV-TX1 Lehigh Valley Hospital,80-97,17,0,0,1,0
 1189,PALV-TX1 Lehigh Valley Hospital,98-100,21,0,1,0,0
-1190,PAPH-TX1 UPMC Hamot,Total,81,0,0,0,0
 1191,PAPH-TX1 UPMC Hamot,0,27,0,0,0,0
 1192,PAPH-TX1 UPMC Hamot,1-19,21,0,0,0,0
 1193,PAPH-TX1 UPMC Hamot,20-79,19,0,0,0,0
 1194,PAPH-TX1 UPMC Hamot,80-97,6,0,0,0,0
 1195,PAPH-TX1 UPMC Hamot,98-100,8,0,0,0,0
-1196,PAPT-TX1 University of Pittsburgh Medical Center,Total,716,108,15,28,14
 1197,PAPT-TX1 University of Pittsburgh Medical Center,0,350,0,11,13,0
 1198,PAPT-TX1 University of Pittsburgh Medical Center,1-19,134,0,1,8,0
 1199,PAPT-TX1 University of Pittsburgh Medical Center,20-79,130,0,2,3,0
 1200,PAPT-TX1 University of Pittsburgh Medical Center,80-97,40,0,0,0,0
 1201,PAPT-TX1 University of Pittsburgh Medical Center,98-100,62,0,1,4,0
-1203,PARH-TX1 Reading Hospital,Total,117,4,0,0,0
 1204,PARH-TX1 Reading Hospital,0,56,0,0,0,0
 1205,PARH-TX1 Reading Hospital,1-19,19,0,0,0,0
 1206,PARH-TX1 Reading Hospital,20-79,21,0,0,0,0
 1207,PARH-TX1 Reading Hospital,80-97,8,0,0,0,0
 1208,PARH-TX1 Reading Hospital,98-100,13,0,0,0,0
-1210,PASC-TX1 St. Christopher's Hospital for Children,Total,11,0,0,0,0
 1211,PASC-TX1 St. Christopher's Hospital for Children,0,8,0,0,0,0
 1212,PASC-TX1 St. Christopher's Hospital for Children,1-19,2,0,0,0,0
 1213,PASC-TX1 St. Christopher's Hospital for Children,20-79,1,0,0,0,0
-1214,PATJ-TX1 Thomas Jefferson University Hospital,Total,623,108,5,16,19
 1215,PATJ-TX1 Thomas Jefferson University Hospital,0,235,0,1,8,0
 1216,PATJ-TX1 Thomas Jefferson University Hospital,1-19,116,0,0,3,0
 1217,PATJ-TX1 Thomas Jefferson University Hospital,20-79,169,0,3,3,0
 1219,PATJ-TX1 Thomas Jefferson University Hospital,80-97,47,0,0,0,0
 1220,PATJ-TX1 Thomas Jefferson University Hospital,98-100,56,0,1,2,0
-1222,PATU-TX1 Temple University Hospital,Total,355,11,0,22,10
 1223,PATU-TX1 Temple University Hospital,0,175,0,0,14,0
 1224,PATU-TX1 Temple University Hospital,1-19,56,0,0,2,0
 1225,PATU-TX1 Temple University Hospital,20-79,73,0,0,5,0
 1226,PATU-TX1 Temple University Hospital,80-97,22,0,0,1,0
 1227,PATU-TX1 Temple University Hospital,98-100,29,0,0,0,0
-1229,PAUP-TX1 Hospital of the University of Pennsylvania,Total,"1,171",107,13,32,55
 1230,PAUP-TX1 Hospital of the University of Pennsylvania,0,861,0,7,23,0
 1231,PAUP-TX1 Hospital of the University of Pennsylvania,1-19,74,0,1,2,0
 1232,PAUP-TX1 Hospital of the University of Pennsylvania,20-79,132,0,3,5,0
 1233,PAUP-TX1 Hospital of the University of Pennsylvania,80-97,51,0,1,2,0
 1234,PAUP-TX1 Hospital of the University of Pennsylvania,98-100,53,0,1,0,0
-1236,PAVA-TX1 VA Pittsburgh Healthcare System,Total,566,44,0,0,0
 1237,PAVA-TX1 VA Pittsburgh Healthcare System,0,242,0,0,0,0
 1238,PAVA-TX1 VA Pittsburgh Healthcare System,1-19,173,0,0,0,0
 1239,PAVA-TX1 VA Pittsburgh Healthcare System,20-79,115,0,0,0,0
 1240,PAVA-TX1 VA Pittsburgh Healthcare System,80-97,19,0,0,0,0
 1241,PAVA-TX1 VA Pittsburgh Healthcare System,98-100,17,0,0,0,0
-1243,PRCC-TX1 Cardiovascular Center of Puerto Rico and the Caribbean,Total,0,0,0,0,2
-1245,PRSJ-TX1 Auxilio Mutuo Hospital,Total,273,17,0,3,0
 1246,PRSJ-TX1 Auxilio Mutuo Hospital,0,185,0,0,2,0
 1247,PRSJ-TX1 Auxilio Mutuo Hospital,1-19,21,0,0,0,0
 1248,PRSJ-TX1 Auxilio Mutuo Hospital,20-79,25,0,0,1,0
 1249,PRSJ-TX1 Auxilio Mutuo Hospital,80-97,24,0,0,0,0
 1250,PRSJ-TX1 Auxilio Mutuo Hospital,98-100,18,0,0,0,0
-1252,RIRH-TX1 Rhode Island Hospital,Total,271,0,0,0,0
 1253,RIRH-TX1 Rhode Island Hospital,0,190,0,0,0,0
 1254,RIRH-TX1 Rhode Island Hospital,1-19,18,0,0,0,0
 1255,RIRH-TX1 Rhode Island Hospital,20-79,29,0,0,0,0
 1256,RIRH-TX1 Rhode Island Hospital,80-97,18,0,0,0,0
 1257,RIRH-TX1 Rhode Island Hospital,98-100,16,0,0,0,0
-1258,SCCH-TX1 MUSC Children's Hospital,Total,0,0,0,0,18
-1261,SCMU-TX1 Medical University of South Carolina,Total,"1,176",79,10,53,34
 1262,SCMU-TX1 Medical University of South Carolina,0,225,0,0,9,0
 1263,SCMU-TX1 Medical University of South Carolina,1-19,278,0,3,13,0
 1264,SCMU-TX1 Medical University of South Carolina,20-79,357,0,3,20,0
 1265,SCMU-TX1 Medical University of South Carolina,80-97,108,0,0,4,0
 1266,SCMU-TX1 Medical University of South Carolina,98-100,208,0,4,7,0
-1268,SDMK-TX1 Avera McKennan Hospital,Total,239,36,3,12,0
 1269,SDMK-TX1 Avera McKennan Hospital,0,124,0,0,5,0
 1270,SDMK-TX1 Avera McKennan Hospital,1-19,42,0,1,4,0
 1271,SDMK-TX1 Avera McKennan Hospital,20-79,42,0,0,2,0
 1272,SDMK-TX1 Avera McKennan Hospital,80-97,14,0,2,0,0
 1273,SDMK-TX1 Avera McKennan Hospital,98-100,17,0,0,1,0
-1275,SDSV-TX1 Sanford Health/USD Medical Center,Total,75,0,0,0,0
 1276,SDSV-TX1 Sanford Health/USD Medical Center,0,4,0,0,0,0
 1277,SDSV-TX1 Sanford Health/USD Medical Center,1-19,16,0,0,0,0
 1278,SDSV-TX1 Sanford Health/USD Medical Center,20-79,37,0,0,0,0
 1279,SDSV-TX1 Sanford Health/USD Medical Center,80-97,10,0,0,0,0
 1280,SDSV-TX1 Sanford Health/USD Medical Center,98-100,8,0,0,0,0
-1281,TNBM-TX1 Baptist Memorial Hospital,Total,0,0,0,0,22
-1283,TNEM-TX1 Erlanger Medical Center,Total,219,0,0,0,0
 1284,TNEM-TX1 Erlanger Medical Center,0,108,0,0,0,0
 1285,TNEM-TX1 Erlanger Medical Center,1-19,38,0,0,0,0
 1286,TNEM-TX1 Erlanger Medical Center,20-79,46,0,0,0,0
 1287,TNEM-TX1 Erlanger Medical Center,80-97,16,0,0,0,0
 1288,TNEM-TX1 Erlanger Medical Center,98-100,11,0,0,0,0
-1289,TNLB-TX1 Le Bonheur Children's Medical Center,Total,2,4,0,0,4
 1290,TNLB-TX1 Le Bonheur Children's Medical Center,1-19,1,0,0,0,0
 1291,TNLB-TX1 Le Bonheur Children's Medical Center,80-97,1,0,0,0,0
-1293,TNMH-TX1 Methodist University Hospital,Total,901,69,6,20,0
 1294,TNMH-TX1 Methodist University Hospital,0,336,0,4,9,0
 1295,TNMH-TX1 Methodist University Hospital,1-19,170,0,1,1,0
 1296,TNMH-TX1 Methodist University Hospital,20-79,223,0,0,4,0
 1297,TNMH-TX1 Methodist University Hospital,80-97,85,0,0,2,0
 1298,TNMH-TX1 Methodist University Hospital,98-100,87,0,1,4,0
-1300,TNPV-TX1 Centennial Medical Center,Total,31,0,0,0,0
 1301,TNPV-TX1 Centennial Medical Center,0,16,0,0,0,0
 1303,TNPV-TX1 Centennial Medical Center,1-19,2,0,0,0,0
 1304,TNPV-TX1 Centennial Medical Center,20-79,7,0,0,0,0
 1305,TNPV-TX1 Centennial Medical Center,80-97,4,0,0,0,0
 1306,TNPV-TX1 Centennial Medical Center,98-100,2,0,0,0,0
-1307,TNST-TX1 Saint Thomas Hospital,Total,162,0,0,0,6
 1308,TNST-TX1 Saint Thomas Hospital,0,76,0,0,0,0
 1309,TNST-TX1 Saint Thomas Hospital,1-19,36,0,0,0,0
 1310,TNST-TX1 Saint Thomas Hospital,20-79,34,0,0,0,0
 1311,TNST-TX1 Saint Thomas Hospital,80-97,10,0,0,0,0
 1312,TNST-TX1 Saint Thomas Hospital,98-100,6,0,0,0,0
-1314,TNUK-TX1 University of Tennessee Medical Center at Knoxville,Total,244,0,0,0,0
 1315,TNUK-TX1 University of Tennessee Medical Center at Knoxville,0,122,0,0,0,0
 1316,TNUK-TX1 University of Tennessee Medical Center at Knoxville,1-19,55,0,0,0,0
 1317,TNUK-TX1 University of Tennessee Medical Center at Knoxville,20-79,45,0,0,0,0
 1318,TNUK-TX1 University of Tennessee Medical Center at Knoxville,80-97,13,0,0,0,0
 1319,TNUK-TX1 University of Tennessee Medical Center at Knoxville,98-100,9,0,0,0,0
-1320,TNVU-TX1 Vanderbilt University Medical Center,Total,"1,303",179,1,14,55
 1321,TNVU-TX1 Vanderbilt University Medical Center,0,614,0,1,10,0
 1322,TNVU-TX1 Vanderbilt University Medical Center,1-19,257,0,0,2,0
 1323,TNVU-TX1 Vanderbilt University Medical Center,20-79,272,0,0,0,0
 1324,TNVU-TX1 Vanderbilt University Medical Center,80-97,80,0,0,1,0
 1325,TNVU-TX1 Vanderbilt University Medical Center,98-100,80,0,0,1,0
-1327,TXAS-TX1 Baylor  Scott and White All Saints Medical Center-Fort Worth,Total,902,42,1,14,0
 1328,TXAS-TX1 Baylor  Scott and White All Saints Medical Center-Fort Worth,0,366,0,1,2,0
 1329,TXAS-TX1 Baylor  Scott and White All Saints Medical Center-Fort Worth,1-19,211,0,0,4,0
 1330,TXAS-TX1 Baylor  Scott and White All Saints Medical Center-Fort Worth,20-79,187,0,0,3,0
 1331,TXAS-TX1 Baylor  Scott and White All Saints Medical Center-Fort Worth,80-97,64,0,0,3,0
 1332,TXAS-TX1 Baylor  Scott and White All Saints Medical Center-Fort Worth,98-100,74,0,0,2,0
-1334,"TXBC-TX1 University Hospital, University of Texas Health Science Center",Total,490,118,0,0,0
 1335,"TXBC-TX1 University Hospital, University of Texas Health Science Center",0,349,0,0,0,0
 1336,"TXBC-TX1 University Hospital, University of Texas Health Science Center",1-19,53,0,0,0,0
 1337,"TXBC-TX1 University Hospital, University of Texas Health Science Center",20-79,44,0,0,0,0
 1338,"TXBC-TX1 University Hospital, University of Texas Health Science Center",80-97,26,0,0,0,0
 1339,"TXBC-TX1 University Hospital, University of Texas Health Science Center",98-100,18,0,0,0,0
-1341,TXCF-TX1 Cook Children's Medical Center,Total,14,0,0,0,0
 1342,TXCF-TX1 Cook Children's Medical Center,0,9,0,0,0,0
 1343,TXCF-TX1 Cook Children's Medical Center,1-19,1,0,0,0,0
 1345,TXCF-TX1 Cook Children's Medical Center,20-79,2,0,0,0,0
 1346,TXCF-TX1 Cook Children's Medical Center,98-100,2,0,0,0,0
-1347,TXCM-TX1 Children's Medical Center of Dallas,Total,31,28,0,0,14
 1348,TXCM-TX1 Children's Medical Center of Dallas,0,20,0,0,0,0
 1349,TXCM-TX1 Children's Medical Center of Dallas,1-19,1,0,0,0,0
 1350,TXCM-TX1 Children's Medical Center of Dallas,20-79,4,0,0,0,0
 1351,TXCM-TX1 Children's Medical Center of Dallas,80-97,2,0,0,0,0
 1352,TXCM-TX1 Children's Medical Center of Dallas,98-100,4,0,0,0,0
-1354,TXCT-TX1 Seton Medical Center Austin,Total,0,0,0,0,10
-1356,TXDC-TX1 Driscoll Children's Hospital,Total,6,0,0,0,0
 1357,TXDC-TX1 Driscoll Children's Hospital,0,3,0,0,0,0
 1358,TXDC-TX1 Driscoll Children's Hospital,1-19,1,0,0,0,0
 1359,TXDC-TX1 Driscoll Children's Hospital,20-79,2,0,0,0,0
-1360,TXDL-TX1 Dell Children's Medical Center,Total,0,0,0,0,2
-1362,TXDM-TX1 North Austin Medical Center,Total,107,0,0,0,0
 1363,TXDM-TX1 North Austin Medical Center,0,66,0,0,0,0
 1364,TXDM-TX1 North Austin Medical Center,1-19,6,0,0,0,0
 1365,TXDM-TX1 North Austin Medical Center,20-79,15,0,0,0,0
 1366,TXDM-TX1 North Austin Medical Center,80-97,13,0,0,0,0
 1367,TXDM-TX1 North Austin Medical Center,98-100,7,0,0,0,0
-1368,TXDR-TX1 Doctor's Hospital at Renaissance,Total,222,0,0,0,0
 1369,TXDR-TX1 Doctor's Hospital at Renaissance,0,168,0,0,0,0
 1370,TXDR-TX1 Doctor's Hospital at Renaissance,1-19,12,0,0,0,0
 1371,TXDR-TX1 Doctor's Hospital at Renaissance,20-79,31,0,0,0,0
 1372,TXDR-TX1 Doctor's Hospital at Renaissance,80-97,7,0,0,0,0
 1373,TXDR-TX1 Doctor's Hospital at Renaissance,98-100,4,0,0,0,0
-1374,TXFW-TX1 Texas Health Harris Methodist Fort Worth Hospital,Total,131,0,0,0,0
 1375,TXFW-TX1 Texas Health Harris Methodist Fort Worth Hospital,0,93,0,0,0,0
 1376,TXFW-TX1 Texas Health Harris Methodist Fort Worth Hospital,1-19,7,0,0,0,0
 1377,TXFW-TX1 Texas Health Harris Methodist Fort Worth Hospital,20-79,15,0,0,0,0
 1378,TXFW-TX1 Texas Health Harris Methodist Fort Worth Hospital,80-97,8,0,0,0,0
 1379,TXFW-TX1 Texas Health Harris Methodist Fort Worth Hospital,98-100,8,0,0,0,0
-1380,TXHD-TX1 Medical City Dallas Hospital,Total,258,0,2,7,7
 1381,TXHD-TX1 Medical City Dallas Hospital,0,194,0,0,4,0
 1382,TXHD-TX1 Medical City Dallas Hospital,1-19,7,0,0,0,0
 1383,TXHD-TX1 Medical City Dallas Hospital,20-79,26,0,0,3,0
 1384,TXHD-TX1 Medical City Dallas Hospital,80-97,16,0,1,0,0
 1385,TXHD-TX1 Medical City Dallas Hospital,98-100,15,0,1,0,0
-1388,"TXHH-TX1 Memorial Hermann Hospital, University of Texas at Houston",Total,225,33,0,5,55
 1389,"TXHH-TX1 Memorial Hermann Hospital, University of Texas at Houston",0,122,0,0,3,0
 1390,"TXHH-TX1 Memorial Hermann Hospital, University of Texas at Houston",1-19,37,0,0,0,0
 1391,"TXHH-TX1 Memorial Hermann Hospital, University of Texas at Houston",20-79,30,0,0,2,0
 1392,"TXHH-TX1 Memorial Hermann Hospital, University of Texas at Houston",80-97,19,0,0,0,0
 1393,"TXHH-TX1 Memorial Hermann Hospital, University of Texas at Houston",98-100,17,0,0,0,0
-1395,TXHI-TX1 CHI St. Luke's Health Baylor College of Medicine Medical Center,Total,827,233,0,0,33
 1396,TXHI-TX1 CHI St. Luke's Health Baylor College of Medicine Medical Center,0,591,0,0,0,0
 1397,TXHI-TX1 CHI St. Luke's Health Baylor College of Medicine Medical Center,1-19,72,0,0,0,0
 1398,TXHI-TX1 CHI St. Luke's Health Baylor College of Medicine Medical Center,20-79,82,0,0,0,0
 1399,TXHI-TX1 CHI St. Luke's Health Baylor College of Medicine Medical Center,80-97,39,0,0,0,0
 1400,TXHI-TX1 CHI St. Luke's Health Baylor College of Medicine Medical Center,98-100,43,0,0,0,0
-1402,TXHS-TX1 Methodist Specialty and Transplant Hospital,Total,"1,545",150,9,8,20
 1403,TXHS-TX1 Methodist Specialty and Transplant Hospital,0,"1,138",0,7,5,0
 1404,TXHS-TX1 Methodist Specialty and Transplant Hospital,1-19,119,0,0,1,0
 1405,TXHS-TX1 Methodist Specialty and Transplant Hospital,20-79,197,0,1,2,0
 1406,TXHS-TX1 Methodist Specialty and Transplant Hospital,80-97,49,0,1,0,0
 1407,TXHS-TX1 Methodist Specialty and Transplant Hospital,98-100,42,0,0,0,0
-1409,TXJS-TX1 University of Texas Medical Branch at Galveston,Total,470,60,2,0,11
 1410,TXJS-TX1 University of Texas Medical Branch at Galveston,0,248,0,1,0,0
 1411,TXJS-TX1 University of Texas Medical Branch at Galveston,1-19,82,0,0,0,0
 1412,TXJS-TX1 University of Texas Medical Branch at Galveston,20-79,80,0,0,0,0
 1413,TXJS-TX1 University of Texas Medical Branch at Galveston,80-97,20,0,0,0,0
 1414,TXJS-TX1 University of Texas Medical Branch at Galveston,98-100,40,0,1,0,0
-1416,TXLP-TX1 Las Palmas Medical Center,Total,197,0,0,0,0
 1417,TXLP-TX1 Las Palmas Medical Center,0,98,0,0,0,0
 1418,TXLP-TX1 Las Palmas Medical Center,1-19,39,0,0,0,0
 1419,TXLP-TX1 Las Palmas Medical Center,20-79,39,0,0,0,0
 1420,TXLP-TX1 Las Palmas Medical Center,80-97,13,0,0,0,0
 1421,TXLP-TX1 Las Palmas Medical Center,98-100,8,0,0,0,0
-1422,TXMC-TX1 Methodist Dallas Medical Center,Total,494,70,1,7,0
 1423,TXMC-TX1 Methodist Dallas Medical Center,0,201,0,1,4,0
 1424,TXMC-TX1 Methodist Dallas Medical Center,1-19,117,0,0,2,0
 1425,TXMC-TX1 Methodist Dallas Medical Center,20-79,118,0,0,0,0
 1426,TXMC-TX1 Methodist Dallas Medical Center,80-97,25,0,0,1,0
 1427,TXMC-TX1 Methodist Dallas Medical Center,98-100,33,0,0,0,0
-1430,TXMH-TX1 Houston Methodist Hospital,Total,"1,359",370,10,28,63
 1431,TXMH-TX1 Houston Methodist Hospital,0,506,0,4,11,0
 1432,TXMH-TX1 Houston Methodist Hospital,1-19,278,0,1,2,0
 1433,TXMH-TX1 Houston Methodist Hospital,20-79,356,0,1,7,0
 1434,TXMH-TX1 Houston Methodist Hospital,80-97,111,0,1,3,0
 1435,TXMH-TX1 Houston Methodist Hospital,98-100,108,0,3,5,0
-1437,TXPL-TX1 Medical City Fort Worth,Total,145,0,0,4,0
 1438,TXPL-TX1 Medical City Fort Worth,0,102,0,0,2,0
 1439,TXPL-TX1 Medical City Fort Worth,1-19,2,0,0,0,0
 1440,TXPL-TX1 Medical City Fort Worth,20-79,22,0,0,1,0
 1441,TXPL-TX1 Medical City Fort Worth,80-97,8,0,0,1,0
 1442,TXPL-TX1 Medical City Fort Worth,98-100,11,0,0,0,0
-1443,TXPM-TX1 Parkland Health and Hospital System,Total,155,0,0,0,0
 1444,TXPM-TX1 Parkland Health and Hospital System,0,75,0,0,0,0
 1445,TXPM-TX1 Parkland Health and Hospital System,1-19,13,0,0,0,0
 1446,TXPM-TX1 Parkland Health and Hospital System,20-79,44,0,0,0,0
 1447,TXPM-TX1 Parkland Health and Hospital System,80-97,14,0,0,0,0
 1448,TXPM-TX1 Parkland Health and Hospital System,98-100,9,0,0,0,0
-1449,TXRM-TX1 Christus Santa Rosa Hospital Medical Center,Total,1,0,0,0,0
 1450,TXRM-TX1 Christus Santa Rosa Hospital Medical Center,0,1,0,0,0,0
-1451,TXSP-TX1 UT Southwestern Medical Center/William P. Clements Jr. University Hospital,Total,553,134,0,0,48
 1452,TXSP-TX1 UT Southwestern Medical Center/William P. Clements Jr. University Hospital,0,238,0,0,0,0
 1453,TXSP-TX1 UT Southwestern Medical Center/William P. Clements Jr. University Hospital,1-19,72,0,0,0,0
 1454,TXSP-TX1 UT Southwestern Medical Center/William P. Clements Jr. University Hospital,20-79,170,0,0,0,0
 1455,TXSP-TX1 UT Southwestern Medical Center/William P. Clements Jr. University Hospital,80-97,41,0,0,0,0
 1456,TXSP-TX1 UT Southwestern Medical Center/William P. Clements Jr. University Hospital,98-100,32,0,0,0,0
-1458,TXSW-TX1 Scott and White Memorial Hospital,Total,207,0,5,6,5
 1459,TXSW-TX1 Scott and White Memorial Hospital,0,100,0,3,2,0
 1460,TXSW-TX1 Scott and White Memorial Hospital,1-19,40,0,0,0,0
 1461,TXSW-TX1 Scott and White Memorial Hospital,20-79,34,0,1,3,0
 1462,TXSW-TX1 Scott and White Memorial Hospital,80-97,14,0,0,1,0
 1463,TXSW-TX1 Scott and White Memorial Hospital,98-100,19,0,1,0,0
-1465,TXTC-TX1 Texas Children's Hospital,Total,52,21,0,0,46
 1466,TXTC-TX1 Texas Children's Hospital,0,31,0,0,0,0
 1467,TXTC-TX1 Texas Children's Hospital,1-19,6,0,0,0,0
 1468,TXTC-TX1 Texas Children's Hospital,20-79,7,0,0,0,0
 1469,TXTC-TX1 Texas Children's Hospital,80-97,3,0,0,0,0
 1471,TXTC-TX1 Texas Children's Hospital,98-100,5,0,0,0,0
-1473,TXTX-TX1 Baylor University Medical Center,Total,"1,002",52,1,14,27
 1474,TXTX-TX1 Baylor University Medical Center,0,405,0,1,3,0
 1475,TXTX-TX1 Baylor University Medical Center,1-19,229,0,0,4,0
 1476,TXTX-TX1 Baylor University Medical Center,20-79,216,0,0,3,0
 1477,TXTX-TX1 Baylor University Medical Center,80-97,72,0,0,2,0
 1478,TXTX-TX1 Baylor University Medical Center,98-100,80,0,0,2,0
-1480,TXTY-TX1 East Texas Medical Center,Total,129,0,0,0,0
 1481,TXTY-TX1 East Texas Medical Center,0,64,0,0,0,0
 1482,TXTY-TX1 East Texas Medical Center,1-19,16,0,0,0,0
 1483,TXTY-TX1 East Texas Medical Center,20-79,20,0,0,0,0
 1484,TXTY-TX1 East Texas Medical Center,80-97,7,0,0,0,0
 1485,TXTY-TX1 East Texas Medical Center,98-100,22,0,0,0,0
-1486,TXUC-TX1 University Children’s Health,Total,12,2,0,0,0
 1487,TXUC-TX1 University Children’s Health,0,6,0,0,0,0
 1488,TXUC-TX1 University Children’s Health,20-79,1,0,0,0,0
 1489,TXUC-TX1 University Children’s Health,80-97,3,0,0,0,0
 1490,TXUC-TX1 University Children’s Health,98-100,2,0,0,0,0
-1492,TXVA-TX1 Michael E. DeBakey VA Medical Center,Total,362,37,0,0,0
 1493,TXVA-TX1 Michael E. DeBakey VA Medical Center,0,251,0,0,0,0
 1494,TXVA-TX1 Michael E. DeBakey VA Medical Center,1-19,58,0,0,0,0
 1495,TXVA-TX1 Michael E. DeBakey VA Medical Center,20-79,42,0,0,0,0
 1496,TXVA-TX1 Michael E. DeBakey VA Medical Center,80-97,3,0,0,0,0
 1497,TXVA-TX1 Michael E. DeBakey VA Medical Center,98-100,8,0,0,0,0
-1499,TXWH-TX1 Wilford Hall Medical Center,Total,2,0,0,3,0
 1500,TXWH-TX1 Wilford Hall Medical Center,0,2,0,0,3,0
-1501,UTLD-TX1 Intermountain Medical Center,Total,303,102,0,7,18
 1502,UTLD-TX1 Intermountain Medical Center,0,233,0,0,7,0
 1503,UTLD-TX1 Intermountain Medical Center,1-19,15,0,0,0,0
 1504,UTLD-TX1 Intermountain Medical Center,20-79,27,0,0,0,0
 1505,UTLD-TX1 Intermountain Medical Center,80-97,17,0,0,0,0
 1506,UTLD-TX1 Intermountain Medical Center,98-100,11,0,0,0,0
-1508,UTMC-TX1 University of Utah Medical Center,Total,238,59,2,4,32
 1509,UTMC-TX1 University of Utah Medical Center,0,170,0,0,2,0
 1510,UTMC-TX1 University of Utah Medical Center,1-19,18,0,0,0,0
 1511,UTMC-TX1 University of Utah Medical Center,20-79,25,0,0,0,0
 1513,UTMC-TX1 University of Utah Medical Center,80-97,12,0,2,1,0
 1514,UTMC-TX1 University of Utah Medical Center,98-100,13,0,0,1,0
-1516,UTPC-TX1 Primary Children's Hospital,Total,15,7,0,0,9
 1517,UTPC-TX1 Primary Children's Hospital,0,9,0,0,0,0
 1518,UTPC-TX1 Primary Children's Hospital,1-19,1,0,0,0,0
 1519,UTPC-TX1 Primary Children's Hospital,20-79,1,0,0,0,0
 1520,UTPC-TX1 Primary Children's Hospital,80-97,2,0,0,0,0
 1521,UTPC-TX1 Primary Children's Hospital,98-100,2,0,0,0,0
-1523,VACH-TX1 Children's Hospital of the King's Daughters,Total,8,0,0,0,0
 1524,VACH-TX1 Children's Hospital of the King's Daughters,0,4,0,0,0,0
 1525,VACH-TX1 Children's Hospital of the King's Daughters,1-19,1,0,0,0,0
 1526,VACH-TX1 Children's Hospital of the King's Daughters,20-79,1,0,0,0,0
 1527,VACH-TX1 Children's Hospital of the King's Daughters,98-100,2,0,0,0,0
-1528,VAFH-TX1 Inova Fairfax Hospital,Total,428,0,3,2,42
 1529,VAFH-TX1 Inova Fairfax Hospital,0,330,0,2,2,0
 1530,VAFH-TX1 Inova Fairfax Hospital,1-19,11,0,0,0,0
 1531,VAFH-TX1 Inova Fairfax Hospital,20-79,47,0,0,0,0
 1532,VAFH-TX1 Inova Fairfax Hospital,80-97,5,0,0,0,0
 1533,VAFH-TX1 Inova Fairfax Hospital,98-100,35,0,1,0,0
-1535,VAHD-TX1 Henrico Doctors' Hospital,Total,170,0,0,0,0
 1536,VAHD-TX1 Henrico Doctors' Hospital,0,114,0,0,0,0
 1537,VAHD-TX1 Henrico Doctors' Hospital,1-19,12,0,0,0,0
 1538,VAHD-TX1 Henrico Doctors' Hospital,20-79,22,0,0,0,0
 1539,VAHD-TX1 Henrico Doctors' Hospital,80-97,16,0,0,0,0
 1540,VAHD-TX1 Henrico Doctors' Hospital,98-100,6,0,0,0,0
-1541,"VAMC-TX1 VCU Health System Authority, VCUMC",Total,600,90,5,18,35
 1542,"VAMC-TX1 VCU Health System Authority, VCUMC",0,487,0,3,15,0
 1543,"VAMC-TX1 VCU Health System Authority, VCUMC",1-19,11,0,0,0,0
 1544,"VAMC-TX1 VCU Health System Authority, VCUMC",20-79,43,0,0,1,0
 1545,"VAMC-TX1 VCU Health System Authority, VCUMC",80-97,26,0,1,1,0
 1546,"VAMC-TX1 VCU Health System Authority, VCUMC",98-100,33,0,1,1,0
-1548,VAMV-TX1 Hunter Holmes McGuire Veterans Administration Medical Center,Total,0,0,0,0,9
-1550,VANG-TX1 Sentara Norfolk General Hospital,Total,424,0,3,4,31
 1551,VANG-TX1 Sentara Norfolk General Hospital,0,214,0,1,2,0
 1552,VANG-TX1 Sentara Norfolk General Hospital,1-19,47,0,0,0,0
 1553,VANG-TX1 Sentara Norfolk General Hospital,20-79,81,0,2,1,0
 1555,VANG-TX1 Sentara Norfolk General Hospital,80-97,43,0,0,0,0
 1556,VANG-TX1 Sentara Norfolk General Hospital,98-100,39,0,0,1,0
-1558,VAUV-TX1 University of Virginia Health Sciences Center,Total,560,63,21,23,37
 1559,VAUV-TX1 University of Virginia Health Sciences Center,0,408,0,16,15,0
 1560,VAUV-TX1 University of Virginia Health Sciences Center,1-19,55,0,0,4,0
 1561,VAUV-TX1 University of Virginia Health Sciences Center,20-79,62,0,1,1,0
 1562,VAUV-TX1 University of Virginia Health Sciences Center,80-97,16,0,2,3,0
 1563,VAUV-TX1 University of Virginia Health Sciences Center,98-100,19,0,2,0,0
-1565,VTMC-TX1 The University of Vermont Medical Center,Total,56,0,0,0,0
 1566,VTMC-TX1 The University of Vermont Medical Center,0,27,0,0,0,0
 1567,VTMC-TX1 The University of Vermont Medical Center,1-19,11,0,0,0,0
 1568,VTMC-TX1 The University of Vermont Medical Center,20-79,8,0,0,0,0
 1569,VTMC-TX1 The University of Vermont Medical Center,80-97,2,0,0,0,0
 1570,VTMC-TX1 The University of Vermont Medical Center,98-100,8,0,0,0,0
-1571,WACH-TX1 Seattle Children's Hospital,Total,51,18,0,0,13
 1572,WACH-TX1 Seattle Children's Hospital,0,38,0,0,0,0
 1573,WACH-TX1 Seattle Children's Hospital,1-19,5,0,0,0,0
 1574,WACH-TX1 Seattle Children's Hospital,20-79,3,0,0,0,0
 1575,WACH-TX1 Seattle Children's Hospital,80-97,3,0,0,0,0
 1576,WACH-TX1 Seattle Children's Hospital,98-100,2,0,0,0,0
-1578,WASH-TX1 Providence Sacred Heart Medical Center & Children's Hospital,Total,212,0,0,3,24
 1579,WASH-TX1 Providence Sacred Heart Medical Center & Children's Hospital,0,117,0,0,3,0
 1580,WASH-TX1 Providence Sacred Heart Medical Center & Children's Hospital,1-19,25,0,0,0,0
 1581,WASH-TX1 Providence Sacred Heart Medical Center & Children's Hospital,20-79,36,0,0,0,0
 1582,WASH-TX1 Providence Sacred Heart Medical Center & Children's Hospital,80-97,19,0,0,0,0
 1583,WASH-TX1 Providence Sacred Heart Medical Center & Children's Hospital,98-100,15,0,0,0,0
-1585,WASM-TX1 Swedish Medical Center,Total,451,47,3,15,0
 1586,WASM-TX1 Swedish Medical Center,0,328,0,3,12,0
 1587,WASM-TX1 Swedish Medical Center,1-19,24,0,0,1,0
 1588,WASM-TX1 Swedish Medical Center,20-79,53,0,0,2,0
 1589,WASM-TX1 Swedish Medical Center,80-97,26,0,0,0,0
 1590,WASM-TX1 Swedish Medical Center,98-100,20,0,0,0,0
-1592,WAUW-TX1 University of Washington Medical Center,Total,481,129,0,22,36
 1593,WAUW-TX1 University of Washington Medical Center,0,339,0,0,17,0
 1594,WAUW-TX1 University of Washington Medical Center,1-19,44,0,0,2,0
 1595,WAUW-TX1 University of Washington Medical Center,20-79,51,0,0,3,0
 1597,WAUW-TX1 University of Washington Medical Center,80-97,29,0,0,0,0
 1598,WAUW-TX1 University of Washington Medical Center,98-100,18,0,0,0,0
-1600,WAVM-TX1 Virginia Mason Medical Center,Total,274,0,2,10,0
 1601,WAVM-TX1 Virginia Mason Medical Center,0,193,0,1,7,0
 1602,WAVM-TX1 Virginia Mason Medical Center,1-19,14,0,0,1,0
 1603,WAVM-TX1 Virginia Mason Medical Center,20-79,36,0,1,2,0
 1604,WAVM-TX1 Virginia Mason Medical Center,80-97,11,0,0,0,0
 1605,WAVM-TX1 Virginia Mason Medical Center,98-100,20,0,0,0,0
-1606,WICH-TX1 Children's Hospital of Wisconsin,Total,17,9,0,0,11
 1607,WICH-TX1 Children's Hospital of Wisconsin,0,6,0,0,0,0
 1608,WICH-TX1 Children's Hospital of Wisconsin,1-19,5,0,0,0,0
 1609,WICH-TX1 Children's Hospital of Wisconsin,20-79,5,0,0,0,0
 1610,WICH-TX1 Children's Hospital of Wisconsin,80-97,1,0,0,0,0
-1612,WISE-TX1 Froedtert Memorial Lutheran Hospital,Total,429,107,0,7,23
 1613,WISE-TX1 Froedtert Memorial Lutheran Hospital,0,165,0,0,5,0
 1614,WISE-TX1 Froedtert Memorial Lutheran Hospital,1-19,107,0,0,1,0
 1615,WISE-TX1 Froedtert Memorial Lutheran Hospital,20-79,90,0,0,0,0
 1616,WISE-TX1 Froedtert Memorial Lutheran Hospital,80-97,35,0,0,0,0
 1617,WISE-TX1 Froedtert Memorial Lutheran Hospital,98-100,32,0,0,1,0
-1619,WISL-TX1 Aurora St. Luke's Medical Center,Total,164,71,0,6,19
 1620,WISL-TX1 Aurora St. Luke's Medical Center,0,82,0,0,2,0
 1621,WISL-TX1 Aurora St. Luke's Medical Center,1-19,34,0,0,2,0
 1622,WISL-TX1 Aurora St. Luke's Medical Center,20-79,37,0,0,2,0
 1623,WISL-TX1 Aurora St. Luke's Medical Center,80-97,7,0,0,0,0
 1624,WISL-TX1 Aurora St. Luke's Medical Center,98-100,4,0,0,0,0
-1626,WIUW-TX1 University of Wisconsin Hospital and Clinics,Total,736,84,14,19,9
 1627,WIUW-TX1 University of Wisconsin Hospital and Clinics,0,528,0,5,11,0
 1628,WIUW-TX1 University of Wisconsin Hospital and Clinics,1-19,29,0,0,4,0
 1629,WIUW-TX1 University of Wisconsin Hospital and Clinics,20-79,87,0,2,2,0
 1630,WIUW-TX1 University of Wisconsin Hospital and Clinics,80-97,54,0,7,1,0
 1631,WIUW-TX1 University of Wisconsin Hospital and Clinics,98-100,38,0,0,1,0
-1633,WVCA-TX1 Charleston Area Medical Center,Total,73,0,0,0,0
 1634,WVCA-TX1 Charleston Area Medical Center,0,48,0,0,0,0
 1635,WVCA-TX1 Charleston Area Medical Center,1-19,5,0,0,0,0
 1636,WVCA-TX1 Charleston Area Medical Center,20-79,9,0,0,0,0
 1637,WVCA-TX1 Charleston Area Medical Center,80-97,5,0,0,0,0
 1639,WVCA-TX1 Charleston Area Medical Center,98-100,6,0,0,0,0
-1640,WVWU-TX1 West Virginia University Hospitals Inc.,Total,41,0,0,0,1
 1641,WVWU-TX1 West Virginia University Hospitals Inc.,0,19,0,0,0,0
 1642,WVWU-TX1 West Virginia University Hospitals Inc.,1-19,10,0,0,0,0
 1643,WVWU-TX1 West Virginia University Hospitals Inc.,20-79,10,0,0,0,0
