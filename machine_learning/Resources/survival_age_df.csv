@@ -1,0 +1,98 @@
+_id,Region,Organ,Recipient_Age,Years_Post_Transplant,Number_Functioning_or_Alive,Survival_Rate
+6032c56537ca244bc48d661d,U.S.,Heart,< 1 Year,1 Year,405,87.4
+6032c56537ca244bc48d661e,U.S.,Heart,1-5 Years,1 Year,345,92.4
+6032c56537ca244bc48d661f,U.S.,Heart,6-10 Years,1 Year,223,91.9
+6032c56537ca244bc48d6620,U.S.,Heart,11-17 Years,1 Year,507,96.6
+6032c56537ca244bc48d6621,U.S.,Heart,18-34 Years,1 Year,838,90.9
+6032c56537ca244bc48d6622,U.S.,Heart,35-49 Years,1 Year,1588,90.6
+6032c56537ca244bc48d6623,U.S.,Heart,50-64 Years,1 Year,3894,90.4
+6032c56537ca244bc48d6624,U.S.,Heart,65 +,1 Year,1512,88.2
+6032c56537ca244bc48d6625,U.S.,Heart,< 1 Year,3 Year,362,83.9
+6032c56537ca244bc48d6626,U.S.,Heart,1-5 Years,3 Year,282,85
+6032c56537ca244bc48d6627,U.S.,Heart,6-10 Years,3 Year,186,87
+6032c56537ca244bc48d6628,U.S.,Heart,11-17 Years,3 Year,458,91.5
+6032c56537ca244bc48d6629,U.S.,Heart,18-34 Years,3 Year,722,82.1
+6032c56537ca244bc48d662a,U.S.,Heart,35-49 Years,3 Year,1398,84.8
+6032c56537ca244bc48d662b,U.S.,Heart,50-64 Years,3 Year,3373,84.8
+6032c56537ca244bc48d662c,U.S.,Heart,65 +,3 Year,1190,82.1
+6032c56537ca244bc48d662d,U.S.,Heart,< 1 Year,5 Year,316,75
+6032c56537ca244bc48d662e,U.S.,Heart,1-5 Years,5 Year,257,78.1
+6032c56537ca244bc48d662f,U.S.,Heart,6-10 Years,5 Year,166,84.1
+6032c56537ca244bc48d6630,U.S.,Heart,11-17 Years,5 Year,356,78.4
+6032c56537ca244bc48d6631,U.S.,Heart,18-34 Years,5 Year,596,72.3
+6032c56537ca244bc48d6632,U.S.,Heart,35-49 Years,5 Year,1230,78.1
+6032c56537ca244bc48d6633,U.S.,Heart,50-64 Years,5 Year,2964,78.3
+6032c56537ca244bc48d6634,U.S.,Heart,65 +,5 Year,879,75.4
+6032c56537ca244bc48d6635,U.S.,Kidney,1-5 Years,1 Year,649,95.2
+6032c56537ca244bc48d6636,U.S.,Kidney,6-10 Years,1 Year,525,96.4
+6032c56537ca244bc48d6637,U.S.,Kidney,11-17 Years,1 Year,1602,97
+6032c56537ca244bc48d6638,U.S.,Kidney,18-34 Years,1 Year,8394,96.5
+6032c56537ca244bc48d6639,U.S.,Kidney,35-49 Years,1 Year,16585,95.7
+6032c56537ca244bc48d663a,U.S.,Kidney,50-64 Years,1 Year,24987,94.5
+6032c56537ca244bc48d663b,U.S.,Kidney,65 +,1 Year,11317,91.7
+6032c56537ca244bc48d663c,U.S.,Kidney,1-5 Years,3 Year,631,92.6
+6032c56537ca244bc48d663d,U.S.,Kidney,6-10 Years,3 Year,501,94.2
+6032c56537ca244bc48d663e,U.S.,Kidney,11-17 Years,3 Year,1440,89.8
+6032c56537ca244bc48d663f,U.S.,Kidney,18-34 Years,3 Year,6942,88.1
+6032c56537ca244bc48d6640,U.S.,Kidney,35-49 Years,3 Year,14753,90.3
+6032c56537ca244bc48d6641,U.S.,Kidney,50-64 Years,3 Year,22407,87.9
+6032c56537ca244bc48d6642,U.S.,Kidney,65 +,3 Year,9338,82.2
+6032c56537ca244bc48d6643,U.S.,Kidney,1-5 Years,5 Year,525,87.7
+6032c56537ca244bc48d6644,U.S.,Kidney,6-10 Years,5 Year,483,88
+6032c56537ca244bc48d6645,U.S.,Kidney,11-17 Years,5 Year,1246,78.2
+6032c56537ca244bc48d6646,U.S.,Kidney,18-34 Years,5 Year,5974,79.4
+6032c56537ca244bc48d6647,U.S.,Kidney,35-49 Years,5 Year,13268,82.9
+6032c56537ca244bc48d6648,U.S.,Kidney,50-64 Years,5 Year,18835,78.3
+6032c56537ca244bc48d6649,U.S.,Kidney,65 +,5 Year,6998,69.7
+6032c56537ca244bc48d664a,U.S.,Kidney / Pancreas,18-34 Years,1 Year,674,95.5
+6032c56537ca244bc48d664b,U.S.,Kidney / Pancreas,35-49 Years,1 Year,1558,96
+6032c56537ca244bc48d664c,U.S.,Kidney / Pancreas,50-64 Years,1 Year,608,95.4
+6032c56537ca244bc48d664d,U.S.,Kidney / Pancreas,18-34 Years,3 Year,583,85.6
+6032c56537ca244bc48d664e,U.S.,Kidney / Pancreas,35-49 Years,3 Year,1572,90
+6032c56537ca244bc48d664f,U.S.,Kidney / Pancreas,50-64 Years,3 Year,604,92.1
+6032c56537ca244bc48d6650,U.S.,Kidney / Pancreas,18-34 Years,5 Year,487,75.3
+6032c56537ca244bc48d6651,U.S.,Kidney / Pancreas,35-49 Years,5 Year,1465,82.5
+6032c56537ca244bc48d6652,U.S.,Kidney / Pancreas,50-64 Years,5 Year,549,83.7
+6032c56537ca244bc48d6653,U.S.,Liver,< 1 Year,1 Year,477,86.7
+6032c56537ca244bc48d6654,U.S.,Liver,1-5 Years,1 Year,747,89
+6032c56537ca244bc48d6655,U.S.,Liver,6-10 Years,1 Year,274,92.7
+6032c56537ca244bc48d6656,U.S.,Liver,11-17 Years,1 Year,429,92.7
+6032c56537ca244bc48d6657,U.S.,Liver,18-34 Years,1 Year,1297,90.9
+6032c56537ca244bc48d6658,U.S.,Liver,35-49 Years,1 Year,3515,90.1
+6032c56537ca244bc48d6659,U.S.,Liver,50-64 Years,1 Year,13160,89.1
+6032c56537ca244bc48d665a,U.S.,Liver,65 +,1 Year,3490,86.6
+6032c56537ca244bc48d665b,U.S.,Liver,< 1 Year,3 Year,495,83.3
+6032c56537ca244bc48d665c,U.S.,Liver,1-5 Years,3 Year,656,83.7
+6032c56537ca244bc48d665d,U.S.,Liver,6-10 Years,3 Year,245,86.6
+6032c56537ca244bc48d665e,U.S.,Liver,11-17 Years,3 Year,393,88
+6032c56537ca244bc48d665f,U.S.,Liver,18-34 Years,3 Year,1045,81.3
+6032c56537ca244bc48d6660,U.S.,Liver,35-49 Years,3 Year,3108,82.1
+6032c56537ca244bc48d6661,U.S.,Liver,50-64 Years,3 Year,11362,79.8
+6032c56537ca244bc48d6662,U.S.,Liver,65 +,3 Year,2390,75.2
+6032c56537ca244bc48d6663,U.S.,Liver,< 1 Year,5 Year,521,80
+6032c56537ca244bc48d6664,U.S.,Liver,1-5 Years,5 Year,665,78.9
+6032c56537ca244bc48d6665,U.S.,Liver,6-10 Years,5 Year,269,87.9
+6032c56537ca244bc48d6666,U.S.,Liver,11-17 Years,5 Year,323,80.9
+6032c56537ca244bc48d6667,U.S.,Liver,18-34 Years,5 Year,938,72.7
+6032c56537ca244bc48d6668,U.S.,Liver,35-49 Years,5 Year,3012,75
+6032c56537ca244bc48d6669,U.S.,Liver,50-64 Years,5 Year,9780,70.9
+6032c56537ca244bc48d666a,U.S.,Liver,65 +,5 Year,1753,65.9
+6032c56537ca244bc48d666b,U.S.,Pancreas,< 1 Year,1 Year,14,87.5
+6032c56537ca244bc48d666c,U.S.,Pancreas,1-5 Years,1 Year,63,78.8
+6032c56537ca244bc48d666d,U.S.,Pancreas,6-10 Years,1 Year,14,88.2
+6032c56537ca244bc48d666e,U.S.,Pancreas,11-17 Years,1 Year,10,71.4
+6032c56537ca244bc48d666f,U.S.,Pancreas,18-34 Years,1 Year,144,79.1
+6032c56537ca244bc48d6670,U.S.,Pancreas,35-49 Years,1 Year,326,81.9
+6032c56537ca244bc48d6671,U.S.,Pancreas,50-64 Years,1 Year,208,81.9
+6032c56537ca244bc48d6672,U.S.,Pancreas,< 1 Year,3 Year,14,63.6
+6032c56537ca244bc48d6673,U.S.,Pancreas,1-5 Years,3 Year,43,69.4
+6032c56537ca244bc48d6674,U.S.,Pancreas,11-17 Years,3 Year,10,62.5
+6032c56537ca244bc48d6675,U.S.,Pancreas,18-34 Years,3 Year,117,59.1
+6032c56537ca244bc48d6676,U.S.,Pancreas,35-49 Years,3 Year,362,72.3
+6032c56537ca244bc48d6677,U.S.,Pancreas,50-64 Years,3 Year,214,75.4
+6032c56537ca244bc48d6678,U.S.,Pancreas,< 1 Year,5 Year,32,58.2
+6032c56537ca244bc48d6679,U.S.,Pancreas,1-5 Years,5 Year,52,55.7
+6032c56537ca244bc48d667a,U.S.,Pancreas,6-10 Years,5 Year,13,65
+6032c56537ca244bc48d667b,U.S.,Pancreas,18-34 Years,5 Year,115,44.7
+6032c56537ca244bc48d667c,U.S.,Pancreas,35-49 Years,5 Year,396,63.1
+6032c56537ca244bc48d667d,U.S.,Pancreas,50-64 Years,5 Year,184,62.4
