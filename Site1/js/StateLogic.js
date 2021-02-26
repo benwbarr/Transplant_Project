@@ -31,25 +31,17 @@ function InfoChange(select) {
         stateHospitals = hospitals.filter(hosp => hosp.State === stateSelected)
 
 
-        hospitalNames = stateHospitals.map(obj => obj['Hospital_Name'])
+        hospitalNames = stateHospitals.map(obj => ("Hospital: " + obj ['Hospital_Name'] + "Address: "  + obj ['Address'] + "Link: " +  obj ['link']))
         hospitalAddress = stateHospitals.map(obj => obj['Address'])
 
-
-
         console.log(hospitalNames)
-    // for (var index = 0; index < data.data.locations.length; index++) {
-    //     var loc = data.data.locations[index];
 
     var list = d3.select(".summary");
 
     list.html("");
 
-    //if (inputText === "Alabama") {
-    //d3.json("../Resources/mapjson.json")
-    //list.append("li").text("yo")
-    // }
     list.append("li").text(stateSelected);
-    list.append("li").text(hospitalNames, hospitalAddress )
+    list.append("li").text(hospitalNames)
 
     })
 }
