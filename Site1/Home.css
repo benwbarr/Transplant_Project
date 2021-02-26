@@ -6,6 +6,12 @@
   min-height: 1302px;
 }
 
+#map-id {
+  height: 100%;
+  padding: 0;
+  margin:0;
+}
+
 .u-section-1 .u-layout-wrap-1 {
   width: 1140px;
   margin: 2px auto 0;
@@ -412,7 +418,7 @@
 
 .u-section-3 .u-text-1 {
   font-weight: 700;
-  font-size: 3rem;
+  font-size: 100px;
   font-family: "Playfair Display", serif;
   margin: -50px 60px 0 -60px;
 }
@@ -725,3 +731,194 @@
     font-size: 2.25rem;
   }
 }
+#map-id {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+
+
+/* popup */
+.leaflet-popup {
+  position:absolute;
+  text-align:center;
+  pointer-events:none;
+  background-color: #0d0d0d;
+}
+.leaflet-popup-content-wrapper {
+  padding:1px;
+  text-align:left;
+  pointer-events:all;
+  background-image: url('https://cdn.pixabay.com/photo/2015/03/09/08/23/heart-665183_960_720.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.leaflet-popup-content {
+  padding:10px 10px 15px;
+  margin:0;
+  line-height:inherit;
+
+}
+
+.leaflet-popup-tip {
+  width:0;
+  height:0;
+  margin:0;
+  border-left:10px solid transparent;
+  border-right:10px solid transparent;
+  border-top:10px solid #d8f6f6;
+  box-shadow:none;
+}
+.leaflet-popup-close-button {
+  text-indent:-999em;
+  position:absolute;
+  top:0;right:0;
+  pointer-events:all;
+}
+.leaflet-popup-close-button:hover {
+  background-color:#000000;
+}
+
+.leaflet-popup-scrolled {
+  overflow:auto;
+  border-bottom:1px solid #ddd;
+  border-top:1px solid #ddd;
+}
+
+
+
+
+
+/* Larger Screens
+------------------------------------------------------- */
+@media only screen and (max-width:800px) {
+  .mapbox-modal-body {
+    width:83.3333%;
+    margin-left:8.3333%;
+  }
+}
+
+/* Smaller Screens
+------------------------------------------------------- */
+@media only screen and (max-width:640px) {
+  .mapbox-modal-body {
+    width:100%;
+    height:100%;
+    margin:0;
+  }
+}
+
+nav {
+  background-color: whitesmoke;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-right: 30px;
+  padding-left: 30px;
+}
+
+.logo {
+  width: 15%;
+}
+
+
+.logo img {
+  width: 100%
+}
+
+.menu-ctn li {
+  display: inline-block;
+  background-color: white;
+  padding: 10px 15px;
+  transition: all .9s ease;
+  position: relative;
+  font-weight: bold;
+  color: #245f9b;
+}
+
+.menu-ctn li:hover {
+  cursor: pointer;
+  background-color: lightblue;
+}
+
+.StateDataset {
+  display: flex;
+  position: relative;
+  padding-right: 10px;
+  padding-left: 30px;
+  align-items: center;
+}
+
+.StateDataset h3 {
+  background-color: White;
+  color: #245f9b;
+  font-weight: bold;
+  width: 20%;
+  position: relative;
+  height: 50px;
+  display: inline-block;
+}
+
+
+#StateDataset {
+  align-items: center;
+  font-weight: bold;
+  padding-left: 30px;
+  position: relative;
+  width: 20%;
+  height: 50px;
+
+}
+
+
+#StateDataset:hover {
+  cursor: pointer;
+
+}
+
+.col-md-6 {
+  background-color: whitesmoke;
+  display: flex;
+  width: 2000px;
+  align-items: center;
+  padding-right: 5px;
+  padding-left: 5px;
+}
+#map2-id {
+  width: 1000px
+}
+#Table {
+  width: 800px
+}
+.tooltip {
+  display: none;
+  position: absolute;
+  width: 80px;
+  height: 30px;
+  padding: 2px;
+  font: 12px sans-serif;
+  text-align: center;
+  background: orange;
+  border: 0;
+  border-radius: 10px;
+}
+
+/* Browser Fixes
+------------------------------------------------------- */
+/* VML support for IE8 */
+.leaflet-vml-shape { width:1px; height:1px; }
+.lvml { behavior:url(#default#VML); display:inline-block; position:absolute; }
+/* Map is broken in FF if you have max-width: 100% on tiles */
+.leaflet-container img.leaflet-tile { max-width:none !important; }
+/* Markers are broken in FF/IE if you have max-width: 100% on marker images */
+.leaflet-container img.leaflet-marker-icon { max-width:none; }
+/* Stupid Android 2 doesn't understand "max-width: none" properly */
+.leaflet-container img.leaflet-image-layer { max-width:15000px !important; }
+/* workaround for https://bugzilla.mozilla.org/show_bug.cgi?id=888319 */
+.leaflet-overlay-pane svg { -moz-user-select:none; }
+/* Older IEs don't support the translateY property for display animation */
+.leaflet-oldie .mapbox-modal .mapbox-modal-content        { display:none; }
+.leaflet-oldie .mapbox-modal.active .mapbox-modal-content { display:block; }
+.map-tooltip { width:280px\8; /* < IE9 */ }

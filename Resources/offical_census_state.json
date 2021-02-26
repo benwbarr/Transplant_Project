@@ -1,0 +1,414 @@
+{
+  "data": {
+    "locations": [
+      {
+        "id": 1,
+        "state": ".Alabama",
+        "census": 4779736,
+        "estimates_base": 4780118,
+        "Latitude": 32.806671,
+        "Longitude": -86.79113
+      },
+      {
+        "id": 2,
+        "state": ".Alaska",
+        "census": 710231,
+        "estimates_base": 710246,
+        "Latitude": 61.370716,
+        "Longitude": -152.404419
+      },
+      {
+        "id": 3,
+        "state": ".Arizona",
+        "census": 6392017,
+        "estimates_base": 6392292,
+        "Latitude": 33.729759,
+        "Longitude": -111.431221
+      },
+      {
+        "id": 4,
+        "state": ".Arkansas",
+        "census": 2915918,
+        "estimates_base": 2916029,
+        "Latitude": 34.969704,
+        "Longitude": -92.373123
+      },
+      {
+        "id": 5,
+        "state": ".California",
+        "census": 37253956,
+        "estimates_base": 37254522,
+        "Latitude": 36.116203,
+        "Longitude": -119.681564
+      },
+      {
+        "id": 6,
+        "state": ".Colorado",
+        "census": 5029196,
+        "estimates_base": 5029319,
+        "Latitude": 39.059811,
+        "Longitude": -105.311104
+      },
+      {
+        "id": 7,
+        "state": ".Connecticut",
+        "census": 3574097,
+        "estimates_base": 3574151,
+        "Latitude": 41.597782,
+        "Longitude": -72.755371
+      },
+      {
+        "id": 8,
+        "state": ".Delaware",
+        "census": 897934,
+        "estimates_base": 897947,
+        "Latitude": 39.318523,
+        "Longitude": -75.507141
+      },
+      {
+        "id": 9,
+        "state": ".District of Columbia",
+        "census": 601723,
+        "estimates_base": 601767,
+        "Latitude": 38.897438,
+        "Longitude": -77.026817
+      },
+      {
+        "id": 10,
+        "state": ".Florida",
+        "census": 18801310,
+        "estimates_base": 18804589,
+        "Latitude": 27.766279,
+        "Longitude": -81.686783
+      },
+      {
+        "id": 11,
+        "state": ".Georgia",
+        "census": 9687653,
+        "estimates_base": 9688737,
+        "Latitude": 33.040619,
+        "Longitude": -83.643074
+      },
+      {
+        "id": 12,
+        "state": ".Hawaii",
+        "census": 1360301,
+        "estimates_base": 1360304,
+        "Latitude": 21.094318,
+        "Longitude": -157.498337
+      },
+      {
+        "id": 13,
+        "state": ".Idaho",
+        "census": 1567582,
+        "estimates_base": 1567658,
+        "Latitude": 44.240459,
+        "Longitude": -114.478828
+      },
+      {
+        "id": 14,
+        "state": ".Illinois",
+        "census": 12830632,
+        "estimates_base": 12831572,
+        "Latitude": 40.349457,
+        "Longitude": -88.986137
+      },
+      {
+        "id": 15,
+        "state": ".Indiana",
+        "census": 6483802,
+        "estimates_base": 6484050,
+        "Latitude": 39.849426,
+        "Longitude": -86.258278
+      },
+      {
+        "id": 16,
+        "state": ".Iowa",
+        "census": 3046355,
+        "estimates_base": 3046877,
+        "Latitude": 42.011539,
+        "Longitude": -93.210526
+      },
+      {
+        "id": 17,
+        "state": ".Kansas",
+        "census": 2853118,
+        "estimates_base": 2853120,
+        "Latitude": 38.5266,
+        "Longitude": -96.726486
+      },
+      {
+        "id": 18,
+        "state": ".Kentucky",
+        "census": 4339367,
+        "estimates_base": 4339330,
+        "Latitude": 37.66814,
+        "Longitude": -84.670067
+      },
+      {
+        "id": 19,
+        "state": ".Louisiana",
+        "census": 4533372,
+        "estimates_base": 4533500,
+        "Latitude": 31.169546,
+        "Longitude": -91.867805
+      },
+      {
+        "id": 20,
+        "state": ".Maine",
+        "census": 1328361,
+        "estimates_base": 1328354,
+        "Latitude": 44.693947,
+        "Longitude": -69.381927
+      },
+      {
+        "id": 21,
+        "state": ".Maryland",
+        "census": 5773552,
+        "estimates_base": 5773787,
+        "Latitude": 39.063946,
+        "Longitude": -76.802101
+      },
+      {
+        "id": 22,
+        "state": ".Massachusetts",
+        "census": 6547629,
+        "estimates_base": 6547788,
+        "Latitude": 42.230171,
+        "Longitude": -71.530106
+      },
+      {
+        "id": 23,
+        "state": ".Michigan",
+        "census": 9883640,
+        "estimates_base": 9884112,
+        "Latitude": 43.326618,
+        "Longitude": -84.536095
+      },
+      {
+        "id": 24,
+        "state": ".Minnesota",
+        "census": 5303925,
+        "estimates_base": 5303933,
+        "Latitude": 45.694454,
+        "Longitude": -93.900192
+      },
+      {
+        "id": 25,
+        "state": ".Mississippi",
+        "census": 2967297,
+        "estimates_base": 2968129,
+        "Latitude": 32.741646,
+        "Longitude": -89.678696
+      },
+      {
+        "id": 26,
+        "state": ".Missouri",
+        "census": 5988927,
+        "estimates_base": 5988941,
+        "Latitude": 38.456085,
+        "Longitude": -92.288368
+      },
+      {
+        "id": 27,
+        "state": ".Montana",
+        "census": 989415,
+        "estimates_base": 989400,
+        "Latitude": 46.921925,
+        "Longitude": -110.454353
+      },
+      {
+        "id": 28,
+        "state": ".Nebraska",
+        "census": 1826341,
+        "estimates_base": 1826311,
+        "Latitude": 41.12537,
+        "Longitude": -98.268082
+      },
+      {
+        "id": 29,
+        "state": ".Nevada",
+        "census": 2700551,
+        "estimates_base": 2700683,
+        "Latitude": 38.313515,
+        "Longitude": -117.055374
+      },
+      {
+        "id": 30,
+        "state": ".New Hampshire",
+        "census": 1316470,
+        "estimates_base": 1316457,
+        "Latitude": 43.452492,
+        "Longitude": -71.563896
+      },
+      {
+        "id": 31,
+        "state": ".New Jersey",
+        "census": 8791894,
+        "estimates_base": 8791959,
+        "Latitude": 40.298904,
+        "Longitude": -74.521011
+      },
+      {
+        "id": 32,
+        "state": ".New Mexico",
+        "census": 2059179,
+        "estimates_base": 2059199,
+        "Latitude": 34.840515,
+        "Longitude": -106.248482
+      },
+      {
+        "id": 33,
+        "state": ".New York",
+        "census": 19378102,
+        "estimates_base": 19378117,
+        "Latitude": 42.165726,
+        "Longitude": -74.948051
+      },
+      {
+        "id": 34,
+        "state": ".North Carolina",
+        "census": 9535483,
+        "estimates_base": 9535762,
+        "Latitude": 35.630066,
+        "Longitude": -79.806419
+      },
+      {
+        "id": 35,
+        "state": ".North Dakota",
+        "census": 672591,
+        "estimates_base": 672575,
+        "Latitude": 47.528912,
+        "Longitude": -99.784012
+      },
+      {
+        "id": 36,
+        "state": ".Ohio",
+        "census": 11536504,
+        "estimates_base": 11536763,
+        "Latitude": 40.388783,
+        "Longitude": -82.764915
+      },
+      {
+        "id": 37,
+        "state": ".Oklahoma",
+        "census": 3751351,
+        "estimates_base": 3751582,
+        "Latitude": 35.565342,
+        "Longitude": -96.928917
+      },
+      {
+        "id": 38,
+        "state": ".Oregon",
+        "census": 3831074,
+        "estimates_base": 3831083,
+        "Latitude": 44.572021,
+        "Longitude": -122.070938
+      },
+      {
+        "id": 39,
+        "state": ".Pennsylvania",
+        "census": 12702379,
+        "estimates_base": 12702891,
+        "Latitude": 40.590752,
+        "Longitude": -77.209755
+      },
+      {
+        "id": 40,
+        "state": ".Rhode Island",
+        "census": 1052567,
+        "estimates_base": 1052970,
+        "Latitude": 41.680893,
+        "Longitude": -71.51178
+      },
+      {
+        "id": 41,
+        "state": ".South Carolina",
+        "census": 4625364,
+        "estimates_base": 4625358,
+        "Latitude": 33.856892,
+        "Longitude": -80.945007
+      },
+      {
+        "id": 42,
+        "state": ".South Dakota",
+        "census": 814180,
+        "estimates_base": 814198,
+        "Latitude": 44.299782,
+        "Longitude": -99.438828
+      },
+      {
+        "id": 43,
+        "state": ".Tennessee",
+        "census": 6346105,
+        "estimates_base": 6346281,
+        "Latitude": 35.747845,
+        "Longitude": -86.692345
+      },
+      {
+        "id": 44,
+        "state": ".Texas",
+        "census": 25145561,
+        "estimates_base": 25146072,
+        "Latitude": 31.054487,
+        "Longitude": -97.563461
+      },
+      {
+        "id": 45,
+        "state": ".Utah",
+        "census": 2763885,
+        "estimates_base": 2763891,
+        "Latitude": 40.150032,
+        "Longitude": -111.862434
+      },
+      {
+        "id": 46,
+        "state": ".Vermont",
+        "census": 625741,
+        "estimates_base": 625727,
+        "Latitude": 44.045876,
+        "Longitude": -72.710686
+      },
+      {
+        "id": 47,
+        "state": ".Virginia",
+        "census": 8001024,
+        "estimates_base": 8001046,
+        "Latitude": 37.769337,
+        "Longitude": -78.169968
+      },
+      {
+        "id": 48,
+        "state": ".Washington",
+        "census": 6724540,
+        "estimates_base": 6724540,
+        "Latitude": 47.400902,
+        "Longitude": -121.490494
+      },
+      {
+        "id": 49,
+        "state": ".West Virginia",
+        "census": 1852994,
+        "estimates_base": 1853008,
+        "Latitude": 38.491226,
+        "Longitude": -80.954453
+      },
+      {
+        "id": 50,
+        "state": ".Wisconsin",
+        "census": 5686986,
+        "estimates_base": 5687285,
+        "Latitude": 44.268543,
+        "Longitude": -89.616508
+      },
+      {
+        "id": 51,
+        "state": ".Wyoming",
+        "census": 563626,
+        "estimates_base": 563775,
+        "Latitude": 42.755966,
+        "Longitude": -107.30249
+      }
+    ]
+  }
+}
