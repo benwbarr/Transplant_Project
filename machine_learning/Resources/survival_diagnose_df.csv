@@ -1,0 +1,94 @@
+_id,Region,Organ,Recipient_Diagnose_Category,Years_Post_Transplant,Number_Functioning_or_Alive,Survival_Rate
+6032c59837ca244bc48d669d,U.S.,Kidney,Polycystic Kidneys,3 Year,5470,95.8
+6032c59837ca244bc48d6692,U.S.,Kidney,Hypertensive Nephrosclerosis,1 Year,12730,97.1
+6032c59837ca244bc48d66a6,U.S.,Kidney,Polycystic Kidneys,5 Year,4943,92.8
+6032c59837ca244bc48d66c3,U.S.,Liver,Malignant Neoplasms,3 Year,4808,80
+6032c59837ca244bc48d66c4,U.S.,Liver,Metabolic Disease,3 Year,708,87.5
+6032c59837ca244bc48d66c8,U.S.,Liver,Cystic Fibrosis,5 Year,30,80.5
+6032c59837ca244bc48d6693,U.S.,Kidney,Neoplasms,1 Year,260,96
+6032c59837ca244bc48d6695,U.S.,Kidney,Renovascular and Other Vascula,1 Year,949,97.7
+6032c59837ca244bc48d66a1,U.S.,Kidney,Retransplant/Graft Failure,5 Year,3169,88.5
+6032c59837ca244bc48d66ab,U.S.,Kidney / Pancreas,Glomerular Disease,1 Year,12,100
+6032c59837ca244bc48d66b2,U.S.,Kidney / Pancreas,Tubular and Interstitial Disea,5 Year,17,82.6
+6032c59837ca244bc48d66b6,U.S.,Liver,Benign Neoplasms,1 Year,151,94.4
+6032c59837ca244bc48d6681,U.S.,Heart,Valvular Heart Disease,1 Year,110,91
+6032c59837ca244bc48d6694,U.S.,Kidney,Polycystic Kidneys,1 Year,5741,98.1
+6032c59837ca244bc48d668c,U.S.,Heart,Retransplant/Graft Failure,5 Year,224,68.3
+6032c59837ca244bc48d669f,U.S.,Kidney,Tubular and Interstitial Disea,3 Year,2592,91.7
+6032c59837ca244bc48d66a8,U.S.,Kidney,Tubular and Interstitial Disea,5 Year,2386,85.6
+6032c59837ca244bc48d6697,U.S.,Kidney,Other,1 Year,3950,97.6
+6032c59837ca244bc48d66bc,U.S.,Liver,Other Liver Disease,1 Year,256,92
+6032c59837ca244bc48d66d0,U.S.,Liver,Other Liver Disease,5 Year,250,71.8
+6032c59837ca244bc48d667e,U.S.,Heart,Cardiomyopathy,1 Year,5035,92
+6032c59837ca244bc48d669b,U.S.,Kidney,Hypertensive Nephrosclerosis,3 Year,11503,92.4
+6032c59837ca244bc48d66ba,U.S.,Liver,Metabolic Disease,1 Year,804,92.2
+6032c59837ca244bc48d66c0,U.S.,Liver,Benign Neoplasms,3 Year,124,90.8
+6032c59837ca244bc48d66cc,U.S.,Liver,Cholestatic Liver Disease/Cirr,5 Year,1467,82.9
+6032c59837ca244bc48d669c,U.S.,Kidney,Neoplasms,3 Year,235,93.5
+6032c59837ca244bc48d66a0,U.S.,Kidney,Other,3 Year,3588,93.6
+6032c59837ca244bc48d66aa,U.S.,Kidney / Pancreas,Retransplant/Graft Failure,1 Year,45,100
+6032c59837ca244bc48d66b5,U.S.,Liver,Acute Hepatic Necrosis,1 Year,919,91
+6032c59837ca244bc48d66b7,U.S.,Liver,Biliary Atresia,1 Year,737,96
+6032c59837ca244bc48d66b8,U.S.,Liver,Cholestatic Liver Disease/Cirr,1 Year,1771,93.6
+6032c59837ca244bc48d66d2,U.S.,Pancreas,Retransplant/Graft Failure,1 Year,91,96.9
+6032c59837ca244bc48d66d4,U.S.,Pancreas,Other,1 Year,185,80.3
+6032c59837ca244bc48d6683,U.S.,Heart,Cardiomyopathy,3 Year,4183,87.1
+6032c59837ca244bc48d6687,U.S.,Heart,Valvular Heart Disease,3 Year,108,88.7
+6032c59837ca244bc48d668f,U.S.,Kidney,Retransplant/Graft Failure,1 Year,4704,97.2
+6032c59837ca244bc48d6699,U.S.,Kidney,"Congenital, Rare, Familial, an",3 Year,1752,97.7
+6032c59837ca244bc48d66a2,U.S.,Kidney,"Congenital, Rare, Familial, an",5 Year,1508,95
+6032c59837ca244bc48d66ad,U.S.,Kidney / Pancreas,Retransplant/Graft Failure,3 Year,41,93.3
+6032c59837ca244bc48d66b0,U.S.,Kidney / Pancreas,Retransplant/Graft Failure,5 Year,42,82.6
+6032c59837ca244bc48d66b9,U.S.,Liver,Malignant Neoplasms,1 Year,6041,91
+6032c59837ca244bc48d66cd,U.S.,Liver,Malignant Neoplasms,5 Year,3721,69.8
+6032c59837ca244bc48d6685,U.S.,Heart,Coronary Artery Disease,3 Year,2495,83.7
+6032c59837ca244bc48d669a,U.S.,Kidney,Glomerular Disease,3 Year,13463,96
+6032c59837ca244bc48d669e,U.S.,Kidney,Renovascular and Other Vascula,3 Year,959,93.5
+6032c59837ca244bc48d66a3,U.S.,Kidney,Glomerular Disease,5 Year,11905,92.3
+6032c59837ca244bc48d66b3,U.S.,Kidney / Pancreas,Other,5 Year,12,53.1
+6032c59837ca244bc48d66c2,U.S.,Liver,Cholestatic Liver Disease/Cirr,3 Year,1593,87.5
+6032c59837ca244bc48d66d5,U.S.,Pancreas,Retransplant/Graft Failure,3 Year,71,89.3
+6032c59837ca244bc48d66af,U.S.,Kidney / Pancreas,Hypertensive Nephrosclerosis,3 Year,121,96.1
+6032c59837ca244bc48d668a,U.S.,Heart,Congenital Heart Disease,5 Year,10,76.9
+6032c59837ca244bc48d66be,U.S.,Liver,Cystic Fibrosis,3 Year,30,79.7
+6032c59837ca244bc48d66cb,U.S.,Liver,Biliary Atresia,5 Year,713,92.6
+6032c59837ca244bc48d66ca,U.S.,Liver,Benign Neoplasms,5 Year,113,87.3
+6032c59837ca244bc48d66da,U.S.,Pancreas,Other,5 Year,151,58.6
+6032c59837ca244bc48d667f,U.S.,Heart,Coronary Artery Disease,1 Year,2803,89.9
+6032c59837ca244bc48d6686,U.S.,Heart,Retransplant/Graft Failure,3 Year,282,76
+6032c59837ca244bc48d6688,U.S.,Heart,Other,3 Year,218,87.3
+6032c59837ca244bc48d668e,U.S.,Heart,Other,5 Year,225,82.2
+6032c59837ca244bc48d66bd,U.S.,Liver,Other,1 Year,415,88.1
+6032c59837ca244bc48d66bf,U.S.,Liver,Acute Hepatic Necrosis,3 Year,913,86.2
+6032c59837ca244bc48d66d6,U.S.,Pancreas,Diabetes,3 Year,615,94.1
+6032c59837ca244bc48d6698,U.S.,Kidney,Retransplant/Graft Failure,3 Year,3754,93.5
+6032c59837ca244bc48d66a5,U.S.,Kidney,Neoplasms,5 Year,206,85.3
+6032c59837ca244bc48d66d1,U.S.,Liver,Other,5 Year,558,66.9
+6032c59837ca244bc48d66d3,U.S.,Pancreas,Diabetes,1 Year,537,96.4
+6032c59837ca244bc48d6684,U.S.,Heart,Congenital Heart Disease,3 Year,11,68.8
+6032c59837ca244bc48d6689,U.S.,Heart,Cardiomyopathy,5 Year,3518,80.7
+6032c59837ca244bc48d668b,U.S.,Heart,Coronary Artery Disease,5 Year,2126,75.5
+6032c59837ca244bc48d66ac,U.S.,Kidney / Pancreas,Hypertensive Nephrosclerosis,1 Year,100,98.1
+6032c59837ca244bc48d66b1,U.S.,Kidney / Pancreas,Hypertensive Nephrosclerosis,5 Year,125,87.7
+6032c59837ca244bc48d66c5,U.S.,Liver,Non-Cholestatic Cirrhosis,3 Year,7576,82.9
+6032c59837ca244bc48d66c7,U.S.,Liver,Other,3 Year,473,75.3
+6032c59837ca244bc48d66c9,U.S.,Liver,Acute Hepatic Necrosis,5 Year,851,78.9
+6032c59837ca244bc48d66d9,U.S.,Pancreas,Diabetes,5 Year,627,86.7
+6032c59837ca244bc48d6680,U.S.,Heart,Retransplant/Graft Failure,1 Year,310,86.2
+6032c59837ca244bc48d6690,U.S.,Kidney,"Congenital, Rare, Familial, an",1 Year,1940,99
+6032c59837ca244bc48d66a9,U.S.,Kidney,Other,5 Year,3321,87.7
+6032c59837ca244bc48d66ae,U.S.,Kidney / Pancreas,Glomerular Disease,3 Year,10,100
+6032c59837ca244bc48d66b4,U.S.,Liver,Cystic Fibrosis,1 Year,47,88.9
+6032c59837ca244bc48d66bb,U.S.,Liver,Non-Cholestatic Cirrhosis,1 Year,8953,91.6
+6032c59837ca244bc48d66c1,U.S.,Liver,Biliary Atresia,3 Year,702,93.4
+6032c59837ca244bc48d66d8,U.S.,Pancreas,Retransplant/Graft Failure,5 Year,81,86.6
+6032c59837ca244bc48d6682,U.S.,Heart,Other,1 Year,187,94.5
+6032c59837ca244bc48d668d,U.S.,Heart,Valvular Heart Disease,5 Year,110,82.9
+6032c59837ca244bc48d6691,U.S.,Kidney,Glomerular Disease,1 Year,14792,98.5
+6032c59837ca244bc48d6696,U.S.,Kidney,Tubular and Interstitial Disea,1 Year,2660,96.2
+6032c59837ca244bc48d66a4,U.S.,Kidney,Hypertensive Nephrosclerosis,5 Year,10071,85.3
+6032c59837ca244bc48d66a7,U.S.,Kidney,Renovascular and Other Vascula,5 Year,1020,87.4
+6032c59837ca244bc48d66c6,U.S.,Liver,Other Liver Disease,3 Year,254,83.6
+6032c59837ca244bc48d66ce,U.S.,Liver,Metabolic Disease,5 Year,652,83.5
+6032c59837ca244bc48d66cf,U.S.,Liver,Non-Cholestatic Cirrhosis,5 Year,6798,74.5
+6032c59837ca244bc48d66d7,U.S.,Pancreas,Other,3 Year,138,68.3
