@@ -1,0 +1,442 @@
+States,Time_Waited,Kidney,Liver,Pancreas,Kidney / Pancreas,Heart
+Alabama,All Time,"1,099",104,5,9,21
+Alabama,< 30 Days,37,2,0,3,3
+Alabama,30 to < 90 Days,53,15,0,0,1
+Alabama,90 Days to < 6 Months,87,11,0,1,1
+Alabama,6 Months to < 1 Year,102,20,0,3,6
+Alabama,1 Year to < 2 Years,221,23,2,1,5
+Alabama,2 Years to < 3 Years,167,21,2,1,4
+Alabama,3 Years to < 5 Years,170,8,0,0,1
+Alabama,5 or More Years,264,4,1,0,0
+Arizona,All Time,"1,397",200,5,19,29
+Arizona,< 30 Days,63,30,1,3,7
+Arizona,30 to < 90 Days,101,40,0,3,7
+Arizona,90 Days to < 6 Months,131,31,0,4,3
+Arizona,6 Months to < 1 Year,208,30,0,5,6
+Arizona,1 Year to < 2 Years,282,37,1,1,3
+Arizona,2 Years to < 3 Years,227,12,1,1,1
+Arizona,3 Years to < 5 Years,226,3,1,1,2
+Arizona,5 or More Years,160,17,1,1,0
+Arkansas,All Time,183,31,0,0,30
+Arkansas,< 30 Days,16,2,0,0,1
+Arkansas,30 to < 90 Days,13,3,0,0,2
+Arkansas,90 Days to < 6 Months,22,4,0,0,0
+Arkansas,6 Months to < 1 Year,39,6,0,0,2
+Arkansas,1 Year to < 2 Years,41,9,0,0,3
+Arkansas,2 Years to < 3 Years,23,1,0,0,8
+Arkansas,3 Years to < 5 Years,17,4,0,0,9
+Arkansas,5 or More Years,12,2,0,0,5
+California,All Time,"18,702","2,261",61,223,281
+California,< 30 Days,353,103,2,13,36
+California,30 to < 90 Days,666,134,2,11,30
+California,90 Days to < 6 Months,"1,255",258,3,25,47
+California,6 Months to < 1 Year,"1,885",353,5,41,43
+California,1 Year to < 2 Years,"3,754",473,11,61,49
+California,1 Year to < 2 Years,"3,754",473,11,61,49
+California,2 Years to < 3 Years,"3,047",251,9,22,33
+California,3 Years to < 5 Years,"3,991",270,10,21,32
+California,5 or More Years,"4,395",424,19,29,15
+Colorado,All Time,"1,332",202,12,24,59
+Colorado,< 30 Days,46,28,0,1,1
+Colorado,30 to < 90 Days,69,20,4,3,4
+Colorado,90 Days to < 6 Months,132,21,0,1,4
+Colorado,6 Months to < 1 Year,153,26,3,7,10
+Colorado,1 Year to < 2 Years,309,27,2,5,18
+Colorado,2 Years to < 3 Years,188,18,0,0,17
+Colorado,3 Years to < 5 Years,277,29,3,6,3
+Colorado,5 or More Years,165,34,0,1,2
+Connecticut,All Time,952,184,2,1,59
+Connecticut,< 30 Days,21,11,0,0,12
+Connecticut,30 to < 90 Days,49,11,0,0,5
+Connecticut,90 Days to < 6 Months,87,24,0,0,11
+Connecticut,6 Months to < 1 Year,161,28,0,0,14
+Connecticut,1 Year to < 2 Years,234,45,0,0,9
+Connecticut,2 Years to < 3 Years,127,26,0,0,5
+Connecticut,3 Years to < 5 Years,152,20,1,0,3
+Connecticut,5 or More Years,150,20,1,1,0
+Delaware,All Time,177,5,0,0,1
+Delaware,< 30 Days,1,1,0,0,0
+Delaware,30 to < 90 Days,6,0,0,0,1
+Delaware,90 Days to < 6 Months,11,1,0,0,0
+Delaware,6 Months to < 1 Year,46,1,0,0,0
+Delaware,1 Year to < 2 Years,39,1,0,0,0
+Delaware,2 Years to < 3 Years,22,0,0,0,0
+Delaware,3 Years to < 5 Years,37,0,0,0,0
+Delaware,5 or More Years,15,1,0,0,0
+District of Columbia,All Time,"1,257",241,28,42,38
+District of Columbia,< 30 Days,44,8,2,4,4
+District of Columbia,30 to < 90 Days,51,8,4,3,5
+District of Columbia,90 Days to < 6 Months,90,19,2,6,1
+District of Columbia,6 Months to < 1 Year,154,42,3,5,7
+District of Columbia,1 Year to < 2 Years,346,55,5,20,11
+District of Columbia,2 Years to < 3 Years,225,31,0,3,6
+District of Columbia,3 Years to < 5 Years,231,42,7,0,4
+District of Columbia,5 or More Years,126,36,5,1,0
+Florida,All Time,"4,259",473,27,76,204
+Florida,< 30 Days,212,66,2,10,22
+Florida,< 30 Days,212,66,2,10,22
+Florida,30 to < 90 Days,240,58,4,6,27
+Florida,90 Days to < 6 Months,398,92,3,11,25
+Florida,6 Months to < 1 Year,700,96,7,14,33
+Florida,1 Year to < 2 Years,"1,210",91,8,15,39
+Florida,2 Years to < 3 Years,737,40,2,8,23
+Florida,3 Years to < 5 Years,614,21,1,8,25
+Florida,5 or More Years,344,13,0,5,10
+Georgia,All Time,"4,006",331,5,35,90
+Georgia,< 30 Days,88,27,0,2,12
+Georgia,30 to < 90 Days,141,22,0,1,12
+Georgia,90 Days to < 6 Months,253,42,1,9,12
+Georgia,6 Months to < 1 Year,381,54,0,6,8
+Georgia,1 Year to < 2 Years,785,70,2,1,13
+Georgia,2 Years to < 3 Years,713,36,0,3,19
+Georgia,3 Years to < 5 Years,906,48,1,8,9
+Georgia,5 or More Years,755,33,1,5,5
+Hawaii,All Time,326,22,0,0,0
+Hawaii,< 30 Days,9,3,0,0,0
+Hawaii,30 to < 90 Days,28,1,0,0,0
+Hawaii,90 Days to < 6 Months,36,2,0,0,0
+Hawaii,6 Months to < 1 Year,34,2,0,0,0
+Hawaii,1 Year to < 2 Years,60,4,0,0,0
+Hawaii,2 Years to < 3 Years,41,2,0,0,0
+Hawaii,3 Years to < 5 Years,57,3,0,0,0
+Hawaii,5 or More Years,61,5,0,0,0
+Illinois,All Time,"3,338",244,64,89,187
+Illinois,< 30 Days,160,29,6,7,12
+Illinois,30 to < 90 Days,182,26,5,10,19
+Illinois,90 Days to < 6 Months,291,36,3,20,14
+Illinois,6 Months to < 1 Year,463,35,5,12,20
+Illinois,1 Year to < 2 Years,817,41,19,26,39
+Illinois,2 Years to < 3 Years,450,29,7,8,30
+Illinois,3 Years to < 5 Years,539,26,8,3,28
+Illinois,5 or More Years,457,22,11,3,25
+Indiana,All Time,866,86,19,19,84
+Indiana,< 30 Days,49,12,1,0,3
+Indiana,30 to < 90 Days,64,13,2,4,10
+Indiana,90 Days to < 6 Months,77,11,3,3,14
+Indiana,6 Months to < 1 Year,91,26,4,3,14
+Indiana,1 Year to < 2 Years,233,16,5,3,23
+Indiana,2 Years to < 3 Years,160,4,3,4,12
+Indiana,2 Years to < 3 Years,160,4,3,4,12
+Indiana,3 Years to < 5 Years,119,2,1,1,7
+Indiana,5 or More Years,74,2,0,1,1
+Iowa,All Time,504,35,2,14,23
+Iowa,< 30 Days,22,0,0,0,0
+Iowa,30 to < 90 Days,55,2,0,5,3
+Iowa,90 Days to < 6 Months,62,11,0,2,2
+Iowa,6 Months to < 1 Year,70,17,0,1,2
+Iowa,1 Year to < 2 Years,152,4,0,2,4
+Iowa,2 Years to < 3 Years,69,0,1,2,3
+Iowa,3 Years to < 5 Years,52,1,1,2,8
+Iowa,5 or More Years,29,0,0,0,1
+Kansas,All Time,287,103,0,9,18
+Kansas,< 30 Days,10,5,0,1,3
+Kansas,30 to < 90 Days,27,8,0,2,4
+Kansas,90 Days to < 6 Months,45,17,0,2,4
+Kansas,6 Months to < 1 Year,45,13,0,0,3
+Kansas,1 Year to < 2 Years,86,28,0,4,3
+Kansas,2 Years to < 3 Years,38,19,0,0,1
+Kansas,3 Years to < 5 Years,29,9,0,0,0
+Kansas,5 or More Years,7,4,0,0,0
+Kentucky,All Time,731,150,2,24,42
+Kentucky,< 30 Days,22,7,0,0,4
+Kentucky,30 to < 90 Days,56,14,0,2,5
+Kentucky,90 Days to < 6 Months,85,16,1,2,3
+Kentucky,6 Months to < 1 Year,134,28,1,7,12
+Kentucky,1 Year to < 2 Years,201,42,0,9,11
+Kentucky,2 Years to < 3 Years,113,18,0,3,4
+Kentucky,3 Years to < 5 Years,92,16,0,1,3
+Kentucky,5 or More Years,28,9,0,0,0
+Louisiana,All Time,"1,735",134,3,32,58
+Louisiana,< 30 Days,44,10,0,4,4
+Louisiana,30 to < 90 Days,89,17,1,5,6
+Louisiana,90 Days to < 6 Months,169,16,0,3,3
+Louisiana,6 Months to < 1 Year,190,17,1,8,4
+Louisiana,1 Year to < 2 Years,417,28,1,6,11
+Louisiana,2 Years to < 3 Years,319,23,0,3,17
+Louisiana,3 Years to < 5 Years,311,12,0,3,11
+Louisiana,5 or More Years,196,11,0,0,2
+Maine,All Time,167,0,0,0,0
+Maine,< 30 Days,16,0,0,0,0
+Maine,30 to < 90 Days,21,0,0,0,0
+Maine,30 to < 90 Days,21,0,0,0,0
+Maine,90 Days to < 6 Months,28,0,0,0,0
+Maine,6 Months to < 1 Year,17,0,0,0,0
+Maine,1 Year to < 2 Years,34,0,0,0,0
+Maine,2 Years to < 3 Years,19,0,0,0,0
+Maine,3 Years to < 5 Years,19,0,0,0,0
+Maine,5 or More Years,13,0,0,0,0
+Maryland,All Time,"2,080",655,25,25,84
+Maryland,< 30 Days,61,25,2,2,5
+Maryland,30 to < 90 Days,68,28,1,3,4
+Maryland,90 Days to < 6 Months,116,52,5,5,6
+Maryland,6 Months to < 1 Year,214,68,4,3,11
+Maryland,1 Year to < 2 Years,429,108,4,7,11
+Maryland,2 Years to < 3 Years,335,70,3,1,21
+Maryland,3 Years to < 5 Years,431,117,2,2,16
+Maryland,5 or More Years,448,187,4,3,10
+Massachusetts,All Time,"3,314",959,42,66,184
+Massachusetts,< 30 Days,120,50,1,1,11
+Massachusetts,30 to < 90 Days,189,56,2,6,15
+Massachusetts,90 Days to < 6 Months,309,101,2,9,24
+Massachusetts,6 Months to < 1 Year,315,141,3,6,15
+Massachusetts,1 Year to < 2 Years,782,219,10,21,35
+Massachusetts,2 Years to < 3 Years,600,127,13,15,27
+Massachusetts,3 Years to < 5 Years,695,131,8,5,31
+Massachusetts,5 or More Years,340,134,3,3,26
+Michigan,All Time,"2,134",241,31,33,138
+Michigan,< 30 Days,81,17,0,1,5
+Michigan,30 to < 90 Days,120,21,2,6,7
+Michigan,90 Days to < 6 Months,170,29,5,5,14
+Michigan,6 Months to < 1 Year,240,40,5,4,23
+Michigan,1 Year to < 2 Years,500,41,5,6,37
+Michigan,2 Years to < 3 Years,379,31,4,4,21
+Michigan,3 Years to < 5 Years,358,31,6,2,21
+Michigan,5 or More Years,288,31,4,5,10
+Minnesota,All Time,"2,104",190,129,161,122
+Minnesota,< 30 Days,72,23,4,4,7
+Minnesota,30 to < 90 Days,119,36,5,5,11
+Minnesota,90 Days to < 6 Months,175,27,12,9,11
+Minnesota,6 Months to < 1 Year,215,18,9,18,6
+Minnesota,1 Year to < 2 Years,467,31,21,40,23
+Minnesota,2 Years to < 3 Years,354,21,18,31,15
+Minnesota,3 Years to < 5 Years,368,14,18,27,23
+Minnesota,3 Years to < 5 Years,368,14,18,27,23
+Minnesota,5 or More Years,348,20,43,27,26
+Mississippi,All Time,899,32,0,6,19
+Mississippi,< 30 Days,26,2,0,1,1
+Mississippi,30 to < 90 Days,58,4,0,0,1
+Mississippi,90 Days to < 6 Months,113,5,0,1,2
+Mississippi,6 Months to < 1 Year,108,12,0,1,1
+Mississippi,1 Year to < 2 Years,250,6,0,2,8
+Mississippi,2 Years to < 3 Years,150,2,0,0,4
+Mississippi,3 Years to < 5 Years,111,1,0,1,1
+Mississippi,5 or More Years,83,0,0,0,1
+Missouri,All Time,"1,419",117,2,24,61
+Missouri,< 30 Days,80,24,2,3,4
+Missouri,30 to < 90 Days,98,18,0,2,10
+Missouri,90 Days to < 6 Months,151,17,0,4,14
+Missouri,6 Months to < 1 Year,185,24,0,5,6
+Missouri,1 Year to < 2 Years,337,17,0,6,12
+Missouri,2 Years to < 3 Years,229,6,0,2,7
+Missouri,3 Years to < 5 Years,189,6,0,0,5
+Missouri,5 or More Years,157,5,0,2,3
+Nebraska,All Time,182,92,11,1,37
+Nebraska,< 30 Days,13,9,0,0,2
+Nebraska,30 to < 90 Days,17,6,0,0,2
+Nebraska,90 Days to < 6 Months,18,11,1,0,1
+Nebraska,6 Months to < 1 Year,27,11,4,0,8
+Nebraska,1 Year to < 2 Years,54,14,2,0,9
+Nebraska,2 Years to < 3 Years,32,8,1,0,11
+Nebraska,3 Years to < 5 Years,17,14,2,1,3
+Nebraska,5 or More Years,4,19,1,0,1
+Nevada,All Time,190,0,0,0,0
+Nevada,< 30 Days,7,0,0,0,0
+Nevada,30 to < 90 Days,26,0,0,0,0
+Nevada,90 Days to < 6 Months,13,0,0,0,0
+Nevada,6 Months to < 1 Year,29,0,0,0,0
+Nevada,1 Year to < 2 Years,42,0,0,0,0
+Nevada,2 Years to < 3 Years,32,0,0,0,0
+Nevada,3 Years to < 5 Years,27,0,0,0,0
+Nevada,5 or More Years,14,0,0,0,0
+New Hampshire,All Time,108,0,0,0,0
+New Hampshire,< 30 Days,5,0,0,0,0
+New Hampshire,30 to < 90 Days,11,0,0,0,0
+New Hampshire,90 Days to < 6 Months,17,0,0,0,0
+New Hampshire,90 Days to < 6 Months,17,0,0,0,0
+New Hampshire,6 Months to < 1 Year,14,0,0,0,0
+New Hampshire,1 Year to < 2 Years,19,0,0,0,0
+New Hampshire,2 Years to < 3 Years,18,0,0,0,0
+New Hampshire,3 Years to < 5 Years,21,0,0,0,0
+New Hampshire,5 or More Years,3,0,0,0,0
+New Jersey,All Time,"2,328",174,13,38,38
+New Jersey,< 30 Days,87,12,1,1,2
+New Jersey,30 to < 90 Days,127,14,1,4,3
+New Jersey,90 Days to < 6 Months,173,20,2,6,6
+New Jersey,6 Months to < 1 Year,318,25,1,10,5
+New Jersey,1 Year to < 2 Years,654,55,5,10,9
+New Jersey,2 Years to < 3 Years,307,27,2,4,11
+New Jersey,3 Years to < 5 Years,381,15,1,0,2
+New Jersey,5 or More Years,285,6,0,3,0
+New Mexico,All Time,514,0,2,3,0
+New Mexico,< 30 Days,8,0,0,0,0
+New Mexico,30 to < 90 Days,16,0,0,0,0
+New Mexico,90 Days to < 6 Months,28,0,0,0,0
+New Mexico,6 Months to < 1 Year,50,0,1,0,0
+New Mexico,1 Year to < 2 Years,120,0,0,0,0
+New Mexico,2 Years to < 3 Years,116,0,1,2,0
+New Mexico,3 Years to < 5 Years,96,0,0,1,0
+New Mexico,5 or More Years,82,0,0,0,0
+New York,All Time,"7,555",823,168,145,331
+New York,< 30 Days,216,45,12,13,25
+New York,30 to < 90 Days,290,56,7,12,30
+New York,90 Days to < 6 Months,532,99,13,22,36
+New York,6 Months to < 1 Year,763,112,27,28,37
+New York,1 Year to < 2 Years,"1,776",195,30,35,70
+New York,2 Years to < 3 Years,"1,300",102,22,18,54
+New York,3 Years to < 5 Years,"1,387",105,29,12,45
+New York,5 or More Years,"1,342",110,28,5,34
+North Carolina,All Time,"2,901",173,47,84,94
+North Carolina,< 30 Days,109,19,2,9,15
+North Carolina,30 to < 90 Days,177,18,2,5,12
+North Carolina,90 Days to < 6 Months,255,24,6,13,11
+North Carolina,6 Months to < 1 Year,438,35,10,21,10
+North Carolina,1 Year to < 2 Years,763,32,17,22,23
+North Carolina,2 Years to < 3 Years,502,21,6,9,12
+North Carolina,3 Years to < 5 Years,489,9,2,3,6
+North Carolina,5 or More Years,270,16,2,3,5
+North Carolina,5 or More Years,270,16,2,3,5
+North Dakota,All Time,149,0,0,0,0
+North Dakota,< 30 Days,5,0,0,0,0
+North Dakota,30 to < 90 Days,12,0,0,0,0
+North Dakota,90 Days to < 6 Months,16,0,0,0,0
+North Dakota,6 Months to < 1 Year,26,0,0,0,0
+North Dakota,1 Year to < 2 Years,20,0,0,0,0
+North Dakota,2 Years to < 3 Years,24,0,0,0,0
+North Dakota,3 Years to < 5 Years,29,0,0,0,0
+North Dakota,5 or More Years,17,0,0,0,0
+Ohio,All Time,"2,247",518,36,57,199
+Ohio,< 30 Days,133,50,2,4,21
+Ohio,30 to < 90 Days,183,45,4,5,17
+Ohio,90 Days to < 6 Months,300,66,6,12,35
+Ohio,6 Months to < 1 Year,369,84,3,12,36
+Ohio,1 Year to < 2 Years,569,107,7,17,38
+Ohio,2 Years to < 3 Years,312,50,3,2,24
+Ohio,3 Years to < 5 Years,206,64,7,3,20
+Ohio,5 or More Years,225,53,4,4,9
+Oklahoma,All Time,474,104,1,16,24
+Oklahoma,< 30 Days,54,12,0,3,1
+Oklahoma,30 to < 90 Days,43,9,0,2,1
+Oklahoma,90 Days to < 6 Months,49,14,0,1,7
+Oklahoma,6 Months to < 1 Year,69,16,0,1,7
+Oklahoma,1 Year to < 2 Years,148,12,1,4,2
+Oklahoma,2 Years to < 3 Years,63,8,0,3,3
+Oklahoma,3 Years to < 5 Years,34,20,0,1,3
+Oklahoma,5 or More Years,17,13,0,1,0
+Oregon,All Time,744,100,2,12,8
+Oregon,< 30 Days,36,7,0,1,2
+Oregon,30 to < 90 Days,62,13,0,1,2
+Oregon,90 Days to < 6 Months,85,19,1,2,3
+Oregon,6 Months to < 1 Year,126,23,0,2,0
+Oregon,1 Year to < 2 Years,202,19,1,1,0
+Oregon,2 Years to < 3 Years,105,5,0,3,0
+Oregon,3 Years to < 5 Years,88,8,0,2,1
+Oregon,5 or More Years,40,6,0,0,0
+Pennsylvania,All Time,"5,891",550,55,126,144
+Pennsylvania,< 30 Days,160,51,3,8,18
+Pennsylvania,30 to < 90 Days,253,71,2,10,23
+Pennsylvania,90 Days to < 6 Months,481,80,3,16,22
+Pennsylvania,6 Months to < 1 Year,708,94,6,20,18
+Pennsylvania,6 Months to < 1 Year,708,94,6,20,18
+Pennsylvania,1 Year to < 2 Years,"1,524",113,12,41,30
+Pennsylvania,2 Years to < 3 Years,941,59,11,14,14
+Pennsylvania,3 Years to < 5 Years,"1,081",43,8,14,16
+Pennsylvania,5 or More Years,823,43,10,3,3
+Puerto Rico,All Time,273,17,0,3,2
+Puerto Rico,< 30 Days,4,2,0,0,0
+Puerto Rico,30 to < 90 Days,6,5,0,2,0
+Puerto Rico,90 Days to < 6 Months,16,3,0,0,0
+Puerto Rico,6 Months to < 1 Year,25,2,0,0,0
+Puerto Rico,1 Year to < 2 Years,88,5,0,1,2
+Puerto Rico,2 Years to < 3 Years,58,0,0,0,0
+Puerto Rico,3 Years to < 5 Years,53,0,0,0,0
+Puerto Rico,5 or More Years,23,0,0,0,0
+Rhode Island,All Time,271,0,0,0,0
+Rhode Island,< 30 Days,13,0,0,0,0
+Rhode Island,30 to < 90 Days,8,0,0,0,0
+Rhode Island,90 Days to < 6 Months,21,0,0,0,0
+Rhode Island,6 Months to < 1 Year,24,0,0,0,0
+Rhode Island,1 Year to < 2 Years,74,0,0,0,0
+Rhode Island,2 Years to < 3 Years,46,0,0,0,0
+Rhode Island,3 Years to < 5 Years,54,0,0,0,0
+Rhode Island,5 or More Years,31,0,0,0,0
+South Carolina,All Time,"1,176",79,10,53,52
+South Carolina,< 30 Days,80,9,2,6,6
+South Carolina,30 to < 90 Days,99,6,0,7,4
+South Carolina,90 Days to < 6 Months,132,21,0,7,3
+South Carolina,6 Months to < 1 Year,180,17,1,12,11
+South Carolina,1 Year to < 2 Years,258,10,6,9,17
+South Carolina,2 Years to < 3 Years,184,4,0,4,8
+South Carolina,3 Years to < 5 Years,143,6,1,4,3
+South Carolina,5 or More Years,100,6,0,4,0
+South Dakota,All Time,313,36,3,12,0
+South Dakota,< 30 Days,16,1,1,0,0
+South Dakota,30 to < 90 Days,19,4,0,1,0
+South Dakota,90 Days to < 6 Months,19,4,0,1,0
+South Dakota,6 Months to < 1 Year,37,3,0,3,0
+South Dakota,1 Year to < 2 Years,72,14,1,5,0
+South Dakota,2 Years to < 3 Years,43,5,1,2,0
+South Dakota,3 Years to < 5 Years,68,5,0,0,0
+South Dakota,5 or More Years,39,0,0,0,0
+Tennessee,All Time,"2,767",252,7,33,87
+Tennessee,All Time,"2,767",252,7,33,87
+Tennessee,< 30 Days,131,24,0,2,14
+Tennessee,30 to < 90 Days,186,26,0,4,10
+Tennessee,90 Days to < 6 Months,322,52,2,4,16
+Tennessee,6 Months to < 1 Year,290,50,0,7,7
+Tennessee,1 Year to < 2 Years,722,47,4,11,25
+Tennessee,2 Years to < 3 Years,457,17,1,2,11
+Tennessee,3 Years to < 5 Years,497,16,0,2,3
+Tennessee,5 or More Years,245,20,0,2,1
+Texas,All Time,"8,456","1,305",30,81,340
+Texas,< 30 Days,299,87,2,10,40
+Texas,30 to < 90 Days,504,129,2,4,36
+Texas,90 Days to < 6 Months,846,191,5,13,40
+Texas,6 Months to < 1 Year,"1,137",249,1,19,42
+Texas,1 Year to < 2 Years,"2,281",298,7,20,85
+Texas,2 Years to < 3 Years,"1,563",131,5,4,45
+Texas,3 Years to < 5 Years,"1,466",122,6,5,35
+Texas,5 or More Years,861,102,2,9,18
+Utah,All Time,556,168,2,11,59
+Utah,< 30 Days,42,11,0,2,4
+Utah,30 to < 90 Days,45,16,1,1,7
+Utah,90 Days to < 6 Months,74,23,0,1,2
+Utah,6 Months to < 1 Year,110,34,0,3,11
+Utah,1 Year to < 2 Years,145,37,0,3,12
+Utah,2 Years to < 3 Years,68,18,0,1,11
+Utah,3 Years to < 5 Years,55,16,0,0,10
+Utah,5 or More Years,17,13,1,0,2
+Vermont,All Time,56,0,0,0,0
+Vermont,< 30 Days,4,0,0,0,0
+Vermont,90 Days to < 6 Months,6,0,0,0,0
+Vermont,6 Months to < 1 Year,15,0,0,0,0
+Vermont,1 Year to < 2 Years,11,0,0,0,0
+Vermont,2 Years to < 3 Years,13,0,0,0,0
+Vermont,3 Years to < 5 Years,5,0,0,0,0
+Vermont,5 or More Years,2,0,0,0,0
+Virginia,All Time,"2,131",153,32,47,152
+Virginia,< 30 Days,92,18,1,5,10
+Virginia,30 to < 90 Days,171,22,5,6,18
+Virginia,90 Days to < 6 Months,238,33,8,5,25
+Virginia,6 Months to < 1 Year,333,33,5,9,21
+Virginia,1 Year to < 2 Years,538,30,4,10,29
+Virginia,2 Years to < 3 Years,352,6,4,10,19
+Virginia,2 Years to < 3 Years,352,6,4,10,19
+Virginia,3 Years to < 5 Years,279,4,2,2,19
+Virginia,5 or More Years,177,7,3,0,13
+Washington,All Time,"1,463",191,5,50,73
+Washington,< 30 Days,61,24,0,0,7
+Washington,30 to < 90 Days,86,18,0,1,6
+Washington,90 Days to < 6 Months,140,21,1,6,13
+Washington,6 Months to < 1 Year,198,33,0,8,12
+Washington,1 Year to < 2 Years,389,42,0,15,21
+Washington,2 Years to < 3 Years,252,19,0,7,7
+Washington,3 Years to < 5 Years,230,15,3,12,3
+Washington,5 or More Years,112,22,1,1,4
+West Virginia,All Time,112,0,0,0,1
+West Virginia,< 30 Days,7,0,0,0,0
+West Virginia,30 to < 90 Days,21,0,0,0,0
+West Virginia,90 Days to < 6 Months,19,0,0,0,1
+West Virginia,6 Months to < 1 Year,31,0,0,0,0
+West Virginia,1 Year to < 2 Years,15,0,0,0,0
+West Virginia,2 Years to < 3 Years,7,0,0,0,0
+West Virginia,3 Years to < 5 Years,5,0,0,0,0
+West Virginia,5 or More Years,8,0,0,0,0
+Wisconsin,All Time,"1,272",270,14,29,62
+Wisconsin,< 30 Days,58,15,1,3,5
+Wisconsin,30 to < 90 Days,80,19,2,7,5
+Wisconsin,90 Days to < 6 Months,133,42,2,5,11
+Wisconsin,6 Months to < 1 Year,175,59,3,3,11
+Wisconsin,1 Year to < 2 Years,310,62,1,9,8
+Wisconsin,2 Years to < 3 Years,197,33,3,1,13
+Wisconsin,3 Years to < 5 Years,202,29,0,2,7
+Wisconsin,5 or More Years,165,12,2,0,2
